@@ -1,0 +1,2127 @@
+Jó napot!	[sound:Hungarian_FSI_1_0.00.06.059-0.00.07.229.mp3]	Hello (Good day)
+úr	[sound:Hungarian_FSI_1_0.00.08.615-0.00.09.542.mp3]	Mr., sir. gentleman
+kis	[sound:Hungarian_FSI_1_0.00.09.650-0.00.10.404.mp3]	little, small
+Jó napot. Kis úr!	[sound:Hungarian_FSI_1_0.00.10.610-0.00.12.139.mp3]	Hello. Mr. Little!
+Jó reggelt!	[sound:Hungarian_FSI_1_0.00.13.854-0.00.15.114.mp3]	Good morning!
+Szabó	[sound:Hungarian_FSI_1_0.00.16.749-0.00.17.629.mp3]	Taylor
+kisasszony	[sound:Hungarian_FSI_1_0.00.17.829-0.00.18.912.mp3]	Miss, young lady
+Jó reggelt, Szabó kisasszony!	[sound:Hungarian_FSI_1_0.00.19.112-0.00.21.410.mp3]	Good morning. Miss Taylor!
+Jó estét!	[sound:Hungarian_FSI_1_0.00.24.032-0.00.25.233.mp3]	Good evening!
+-né	[sound:Hungarian_FSI_1_0.00.26.994-0.00.27.926.mp3]	Mrs.
+Jó estét. Kisné!	[sound:Hungarian_FSI_1_0.00.28.234-0.00.29.536.mp3]	Good evening. Mrs. Little!
+hogy	[sound:Hungarian_FSI_1_0.00.31.509-0.00.32.297.mp3]	how
+van	[sound:Hungarian_FSI_1_0.00.32.397-0.00.32.997.mp3]	is
+Hogy van?	[sound:Hungarian_FSI_1_0.00.33.197-0.00.34.239.mp3]	How are you?
+köszönöm	[sound:Hungarian_FSI_1_0.00.35.636-0.00.36.472.mp3]	I thank
+jól	[sound:Hungarian_FSI_1_0.00.36.696-0.00.37.418.mp3]	well
+vagyok	[sound:Hungarian_FSI_1_0.00.37.676-0.00.38.450.mp3]	I am
+Köszönöm, jól vagyok.	[sound:Hungarian_FSI_1_0.00.38.619-0.00.40.238.mp3]	I'm fine, thank you.
+és	[sound:Hungarian_FSI_1_0.00.41.902-0.00.42.610.mp3]	and
+maga	[sound:Hungarian_FSI_1_0.00.42.873-0.00.43.794.mp3]	you
+És maga. Kis úr?	[sound:Hungarian_FSI_1_0.00.43.994-0.00.45.261.mp3]	And you. Mr. Little?
+én	[sound:Hungarian_FSI_1_0.00.47.435-0.00.48.262.mp3]	I
+is	[sound:Hungarian_FSI_1_0.00.48.462-0.00.49.362.mp3]	also, too
+Köszönöm, én is jól vagyok.	[sound:Hungarian_FSI_1_0.00.49.554-0.00.51.590.mp3]	I'm fine too, thank you.
+beszél	[sound:Hungarian_FSI_1_0.00.54.121-0.00.55.137.mp3]	you speak; he, she speaks
+angolul	[sound:Hungarian_FSI_1_0.00.55.337-0.00.56.290.mp3]	in English
+Beszél angolul?	[sound:Hungarian_FSI_1_0.00.56.390-0.00.57.597.mp3]	Do you speak English?
+igen	[sound:Hungarian_FSI_1_0.00.59.218-0.01.00.307.mp3]	yes
+beszélek	[sound:Hungarian_FSI_1_0.01.00.507-0.01.01.589.mp3]	I speak
+Igen. beszélek angolul.	[sound:Hungarian_FSI_1_0.01.01.741-0.01.03.985.mp3]	Yes, I speak English.
+ért	[sound:Hungarian_FSI_1_0.01.06.611-0.01.07.450.mp3]	you understand; he. she understands
+magyarul	[sound:Hungarian_FSI_1_0.01.07.708-0.01.08.822.mp3]	in Hungarian
+Ért magyarul?	[sound:Hungarian_FSI_1_0.01.08.922-0.01.10.218.mp3]	Do you understand Hungarian?
+nem	[sound:Hungarian_FSI_1_0.01.11.656-0.01.12.755.mp3]	no, not
+értek	[sound:Hungarian_FSI_1_0.01.12.855-0.01.13.926.mp3]	I understand
+Nem értek jól magyarul.	[sound:Hungarian_FSI_1_0.01.14.050-0.01.15.810.mp3]	I don't understand Hungarian well.
+hol	[sound:Hungarian_FSI_1_0.01.18.064-0.01.19.174.mp3]	where
+az állomás	[sound:Hungarian_FSI_1_0.01.19.274-0.01.20.631.mp3]	the railroad station
+Hol van az állomás?	[sound:Hungarian_FSI_1_0.01.20.731-0.01.22.187.mp3]	Where's the railroad station?
+itt	[sound:Hungarian_FSI_1_0.01.23.993-0.01.24.981.mp3]	here (in this place)
+ott	[sound:Hungarian_FSI_1_0.01.25.081-0.01.25.869.mp3]	there (in that place)
+Itt van az állomás.	[sound:Hungarian_FSI_1_0.01.25.969-0.01.27.554.mp3]	Here's the railroad station.
+ez	[sound:Hungarian_FSI_1_0.01.29.155-0.01.29.916.mp3]	this
+az	[sound:Hungarian_FSI_1_0.01.30.116-0.01.30.792.mp3]	that
+Ez az állomás?	[sound:Hungarian_FSI_1_0.01.30.992-0.01.32.357.mp3]	Is this the railroad station?
+Igen, ez az állomás.	[sound:Hungarian_FSI_1_0.01.33.567-0.01.35.432.mp3]	Yes, this is the station.
+milyen	[sound:Hungarian_FSI_1_0.01.37.528-0.01.38.666.mp3]	what's it like (what kind of)
+nagy	[sound:Hungarian_FSI_1_0.01.38.866-0.01.39.725.mp3]	big, large
+Milyen az állomás? Nagy?	[sound:Hungarian_FSI_1_0.01.39.925-0.01.41.879.mp3]	What's the station like? Is it big?
+Igen, nagy.	[sound:Hungarian_FSI_1_0.01.44.421-0.01.46.304.mp3]	Yes, it's big.
+merre	[sound:Hungarian_FSI_1_0.01.48.086-0.01.49.229.mp3]	which is the way to
+a repülőtér	[sound:Hungarian_FSI_1_0.01.49.429-0.01.50.678.mp3]	the airport
+Merre van a repülőtér?	[sound:Hungarian_FSI_1_0.01.50.878-0.01.52.641.mp3]	Which is the way to the airport?
+egyenesen	[sound:Hungarian_FSI_1_0.01.55.147-0.01.56.470.mp3]	straight
+előre	[sound:Hungarian_FSI_1_0.01.56.670-0.01.57.588.mp3]	ahead
+Egyenesen előre van.	[sound:Hungarian_FSI_1_0.01.57.788-0.01.59.741.mp3]	It's straight ahead.
+Milyen a repülőtér? Nagy?	[sound:Hungarian_FSI_1_0.02.01.857-0.02.04.303.mp3]	What's the airport like? Is it big?
+kicsi	[sound:Hungarian_FSI_1_0.02.07.059-0.02.08.090.mp3]	small
+Nem nagy, kicsi.	[sound:Hungarian_FSI_1_0.02.08.290-0.02.09.944.mp3]	It's not big, it's small.
+mi	[sound:Hungarian_FSI_1_0.02.12.379-0.02.13.322.mp3]	what
+Mi ez?	[sound:Hungarian_FSI_1_0.02.13.622-0.02.14.821.mp3]	What's this?
+amerikai	[sound:Hungarian_FSI_1_0.02.16.119-0.02.17.417.mp3]	American
+követség	[sound:Hungarian_FSI_1_0.02.17.617-0.02.18.756.mp3]	embassy
+Ez az amerikai követség.	[sound:Hungarian_FSI_1_0.02.18.956-0.02.21.201.mp3]	This is the American Embassy.
+És mi az?	[sound:Hungarian_FSI_1_0.02.23.683-0.02.25.106.mp3]	And what's that?
+egy szálloda	[sound:Hungarian_FSI_1_0.02.26.770-0.02.28.329.mp3]	a (one) hotel
+Az egy szálloda.	[sound:Hungarian_FSI_1_0.02.28.529-0.02.30.131.mp3]	That's a hotel.
+tiszta	[sound:Hungarian_FSI_1_0.02.32.068-0.02.33.241.mp3]	clean
+piszkos	[sound:Hungarian_FSI_1_0.02.33.441-0.02.34.501.mp3]	dirty
+A szálloda tiszta?	[sound:Hungarian_FSI_1_0.02.34.701-0.02.36.169.mp3]	Is the hotel clean?
+szép	[sound:Hungarian_FSI_1_0.02.41.091-0.02.42.007.mp3]	nice, pretty, beautiful
+Igen, szép.	[sound:Hungarian_FSI_1_0.02.44.343-0.02.45.746.mp3]	Yes, it's nice.
+egy vendéglő	[sound:Hungarian_FSI_1_0.02.47.223-0.02.48.741.mp3]	a restaurant
+Hol van egy vendéglő?	[sound:Hungarian_FSI_1_0.02.48.941-0.02.50.434.mp3]	Where's there a restaurant?
+jobbra	[sound:Hungarian_FSI_1_0.02.52.896-0.02.53.963.mp3]	to the right
+Jobbra van egy vendéglő.	[sound:Hungarian_FSI_1_0.02.54.163-0.02.56.028.mp3]	There's a restaurant to the right.
+A vendéglő jó?	[sound:Hungarian_FSI_1_0.02.58.325-0.03.00.011.mp3]	Is the restaurant good?
+Igen, jó.	[sound:Hungarian_FSI_1_0.03.02.207-0.03.03.606.mp3]	Yes, it's good.
+egy kávéház	[sound:Hungarian_FSI_1_0.03.05.518-0.03.06.964.mp3]	a café
+És hol van egy kávéház?	[sound:Hungarian_FSI_1_0.03.07.164-0.03.09.197.mp3]	And where's there a café?
+balra	[sound:Hungarian_FSI_1_0.03.12.049-0.03.13.165.mp3]	to the left
+Balra van egy kávéház.	[sound:Hungarian_FSI_1_0.03.13.565-0.03.15.520.mp3]	There's a café to the left.
+A kávéház nagy?	[sound:Hungarian_FSI_1_0.03.17.597-0.03.19.228.mp3]	Is the café big?
+Nem, nem nagy.	[sound:Hungarian_FSI_1_0.03.21.533-0.03.23.225.mp3]	No, it's not big.
+a W.C. (vécé)	[sound:Hungarian_FSI_1_0.03.25.266-0.03.26.549.mp3]	the toilet
+Hol van a W.C.?	[sound:Hungarian_FSI_1_0.03.26.749-0.03.28.094.mp3]	Where's the toilet?
+A W.C. balra van.	[sound:Hungarian_FSI_1_0.03.29.675-0.03.31.554.mp3]	The toilet's to the left.
+Köszönöm.	[sound:Hungarian_FSI_1_0.03.33.510-0.03.34.728.mp3]	Thank you.
+szívesen	[sound:Hungarian_FSI_1_0.03.37.034-0.03.38.450.mp3]	gladly, with pleasure (Don't mention it.)
+"Mi az magyarul ""thanks a lot""?"	[sound:Hungarian_FSI_1_0.03.39.782-0.03.42.124.mp3]	"What's ""thanks a lot"" in Hungarian?"
+szépen	[sound:Hungarian_FSI_1_0.03.44.695-0.03.45.949.mp3]	nicely
+Köszönöm szépen.	[sound:Hungarian_FSI_1_0.03.46.049-0.03.47.620.mp3]	thanks a lot
+"És ""goodby""?"	[sound:Hungarian_FSI_1_0.03.49.054-0.03.50.477.mp3]	"And ""goodby""?"
+Viszontlátásra.	[sound:Hungarian_FSI_1_0.03.52.304-0.03.54.020.mp3]	see you again
+Jó éjszakát!	[sound:Hungarian_FSI_1_0.04.03.320-0.04.04.705.mp3]	Good night!
+tetszik	[sound:Hungarian_FSI_1_0.04.09.680-0.04.10.800.mp3]	pleases
+Mi tetszik?	[sound:Hungarian_FSI_1_0.04.10.900-0.04.12.099.mp3]	What would you like to have?
+kérek	[sound:Hungarian_FSI_1_0.04.13.778-0.04.15.023.mp3]	I ask, I want, I beg
+bélyeg	[sound:Hungarian_FSI_1_0.04.15.123-0.04.16.088.mp3]	stamp
+bélyeget (accusative)	[sound:Hungarian_FSI_1_0.04.16.188-0.04.17.425.mp3]	stamp (object)
+Kérek egy bélyeget.	[sound:Hungarian_FSI_1_0.04.17.525-0.04.19.124.mp3]	I want a stamp.
+más	[sound:Hungarian_FSI_1_0.04.21.088-0.04.21.865.mp3]	else, other, different
+mást (accusative)	[sound:Hungarian_FSI_1_0.04.22.035-0.04.22.985.mp3]	else, other, different(object)
+parancsol	[sound:Hungarian_FSI_1_0.04.23.176-0.04.24.364.mp3]	you want, he, she wants
+Mást nem parancsol?	[sound:Hungarian_FSI_1_0.04.24.564-0.04.26.044.mp3]	Don't you want anything else?
+de	[sound:Hungarian_FSI_1_0.04.27.968-0.04.28.673.mp3]	but
+cigaretta	[sound:Hungarian_FSI_1_0.04.28.931-0.04.30.220.mp3]	cigarette
+cigarettát (accusative)	[sound:Hungarian_FSI_1_0.04.30.441-0.04.31.787.mp3]	cigarette (object)
+De igen. Cigarettát is kérek.	[sound:Hungarian_FSI_1_0.04.32.040-0.04.34.620.mp3]	Oh, yes. I also want some cigarettes.
+hány	[sound:Hungarian_FSI_1_0.04.37.987-0.04.38.720.mp3]	how many
+hányat (accusative)	[sound:Hungarian_FSI_1_0.04.38.930-0.04.40.158.mp3]	how many (object)
+Hányat parancsol?	[sound:Hungarian_FSI_1_0.04.40.358-0.04.41.808.mp3]	How many do you want?
+tíz	[sound:Hungarian_FSI_1_0.04.43.876-0.04.45.022.mp3]	ten
+tízet (accusative)	[sound:Hungarian_FSI_1_0.04.45.122-0.04.46.115.mp3]	ten (object)
+Tízet kérek.	[sound:Hungarian_FSI_1_0.04.46.215-0.04.47.486.mp3]	Ten, please.
+Mibe kerül?	[sound:Hungarian_FSI_1_0.04.50.394-0.04.51.809.mp3]	what does it cost?
+négy	[sound:Hungarian_FSI_1_0.04.53.237-0.04.54.313.mp3]	four
+forint	[sound:Hungarian_FSI_1_0.04.54.521-0.04.55.515.mp3]	forint
+Négy forintba kerül.	[sound:Hungarian_FSI_1_0.04.55.653-0.04.57.319.mp3]	It costs four forints.
+nagyon	[sound:Hungarian_FSI_1_0.04.59.671-0.05.00.905.mp3]	very
+drága	[sound:Hungarian_FSI_1_0.05.01.105-0.05.02.176.mp3]	expensive
+Az nagyon drága.	[sound:Hungarian_FSI_1_0.05.02.376-0.05.03.882.mp3]	That's very expensive.
+tessék	[sound:Hungarian_FSI_1_0.05.05.875-0.05.07.338.mp3]	please
+olcsó	[sound:Hungarian_FSI_1_0.05.07.438-0.05.08.450.mp3]	cheap
+Tessék, itt van egy olcsó.	[sound:Hungarian_FSI_1_0.05.08.650-0.05.10.497.mp3]	Here's a cheap one.
+Ez mibe kerül?	[sound:Hungarian_FSI_1_0.05.12.992-0.05.14.583.mp3]	How much is this?
+kettő, két	[sound:Hungarian_FSI_1_0.05.16.454-0.05.18.937.mp3]	two
+Két forintba.	[sound:Hungarian_FSI_1_0.05.19.000-0.05.20.439.mp3]	Two forints.
+gyufa	[sound:Hungarian_FSI_1_0.05.22.079-0.05.23.202.mp3]	match
+gyufát (accusative)	[sound:Hungarian_FSI_1_0.05.23.464-0.05.24.565.mp3]	match (object)
+Gyufát is kérek.	[sound:Hungarian_FSI_1_0.05.24.727-0.05.26.232.mp3]	I want some matches also.
+öt	[sound:Hungarian_FSI_1_0.05.27.883-0.05.28.931.mp3]	five
+húsz	[sound:Hungarian_FSI_1_0.05.29.131-0.05.30.095.mp3]	twenty
+fillér	[sound:Hungarian_FSI_1_0.05.30.295-0.05.31.338.mp3]	fillér
+az ára	[sound:Hungarian_FSI_1_0.05.31.538-0.05.32.729.mp3]	its price
+Tessék. öt fillér az ára.	[sound:Hungarian_FSI_1_0.05.32.929-0.05.34.909.mp3]	Here you are. The price is five fillérs.
+éhes	[sound:Hungarian_FSI_1_0.05.37.634-0.05.38.916.mp3]	hungry
+éhes vagyok.	[sound:Hungarian_FSI_1_0.05.39.116-0.05.40.458.mp3]	I'm hungry.
+enni	[sound:Hungarian_FSI_1_0.05.41.704-0.05.42.858.mp3]	to eat
+szeretnék	[sound:Hungarian_FSI_1_0.05.43.058-0.05.44.184.mp3]	I'd like
+Enni szeretnék.	[sound:Hungarian_FSI_1_0.05.44.384-0.05.45.880.mp3]	I'd like to eat.
+mit (accusative)	[sound:Hungarian_FSI_1_0.05.47.398-0.05.48.324.mp3]	what (object)
+Mit parancsol?	[sound:Hungarian_FSI_1_0.05.48.424-0.05.49.800.mp3]	What would you like to have?
+sonka	[sound:Hungarian_FSI_1_0.05.51.485-0.05.52.391.mp3]	ham
+sonkát (accusative)	[sound:Hungarian_FSI_1_0.05.52.591-0.05.53.561.mp3]	ham (object)
+sonkát kérek.	[sound:Hungarian_FSI_1_0.05.53.761-0.05.55.295.mp3]	I want ham.
+egy kis	[sound:Hungarian_FSI_1_0.05.57.178-0.05.58.535.mp3]	some, a little
+víz	[sound:Hungarian_FSI_1_0.05.58.697-0.05.59.711.mp3]	water
+vizet (accusative)	[sound:Hungarian_FSI_1_0.05.59.811-0.06.00.704.mp3]	water (object)
+És egy kis vizet.	[sound:Hungarian_FSI_1_0.06.00.815-0.06.02.375.mp3]	And some water.
+kenyér	[sound:Hungarian_FSI_1_0.06.03.957-0.06.04.877.mp3]	bread
+kenyeret (accusative)	[sound:Hungarian_FSI_1_0.06.05.063-0.06.06.152.mp3]	bread (object)
+Milyen kenyeret parancsol?	[sound:Hungarian_FSI_1_0.06.06.335-0.06.08.121.mp3]	What kind of bread do you want?
+fehér	[sound:Hungarian_FSI_1_0.06.10.578-0.06.11.691.mp3]	white
+vagy	[sound:Hungarian_FSI_1_0.06.11.874-0.06.12.761.mp3]	or
+barna	[sound:Hungarian_FSI_1_0.06.12.940-0.06.13.832.mp3]	brown
+Van fehér vagy barna.	[sound:Hungarian_FSI_1_0.06.14.003-0.06.15.943.mp3]	We have white or brown.
+Fehér kenyeret kérek.	[sound:Hungarian_FSI_1_0.06.17.913-0.06.20.060.mp3]	I want white bread.
+sör	[sound:Hungarian_FSI_1_0.06.22.076-0.06.22.920.mp3]	beer
+tej	[sound:Hungarian_FSI_1_0.06.23.120-0.06.24.021.mp3]	milk
+hideg	[sound:Hungarian_FSI_1_0.06.24.121-0.06.24.812.mp3]	cold
+A sör hideg?	[sound:Hungarian_FSI_1_0.06.25.016-0.06.26.386.mp3]	Is the beer cold?
+Nem hideg.	[sound:Hungarian_FSI_1_0.06.27.933-0.06.29.223.mp3]	It isn't cold.
+bor	[sound:Hungarian_FSI_1_0.06.30.606-0.06.31.564.mp3]	wine
+És a bor?	[sound:Hungarian_FSI_1_0.06.31.664-0.06.32.781.mp3]	And the wine?
+A bor nagyon jó.	[sound:Hungarian_FSI_1_0.06.34.381-0.06.36.110.mp3]	The wine is very good.
+kávé	[sound:Hungarian_FSI_1_0.06.38.002-0.06.39.105.mp3]	coffee
+tea	[sound:Hungarian_FSI_1_0.06.39.305-0.06.40.364.mp3]	tea
+meleg	[sound:Hungarian_FSI_1_0.06.40.464-0.06.41.382.mp3]	warm
+A kávé és a tea is jó.	[sound:Hungarian_FSI_1_0.06.41.482-0.06.43.862.mp3]	The coffee and the tea are very good also.
+Jó meleg.	[sound:Hungarian_FSI_1_0.06.46.544-0.06.47.911.mp3]	They're good and hot.
+azt (accusative)	[sound:Hungarian_FSI_1_0.06.49.471-0.06.50.445.mp3]	that (object)
+Azt nem kérek.	[sound:Hungarian_FSI_1_0.06.50.645-0.06.52.106.mp3]	I don't want any.
+Bort szeretnék.	[sound:Hungarian_FSI_1_0.06.53.804-0.06.55.339.mp3]	I'd like wine.
+bocsánat	[sound:Hungarian_FSI_1_0.06.57.016-0.06.58.079.mp3]	pardon
+bocsánatot kérek	[sound:Hungarian_FSI_1_0.06.58.279-0.06.59.722.mp3]	I beg your pardon, excuse me
+óra	[sound:Hungarian_FSI_1_0.06.59.922-0.07.00.736.mp3]	hour
+Bocsánatot kérek. hány óra van?	[sound:Hungarian_FSI_1_0.07.00.936-0.07.02.943.mp3]	Excuse me, what time is it?
+három	[sound:Hungarian_FSI_1_0.07.05.759-0.07.06.850.mp3]	three
+Három óra van.	[sound:Hungarian_FSI_1_0.07.07.050-0.07.08.452.mp3]	It's three o'clock.
+mikor	[sound:Hungarian_FSI_1_0.07.10.085-0.07.11.129.mp3]	when
+indul	[sound:Hungarian_FSI_1_0.07.11.329-0.07.12.300.mp3]	you leave, start, depart; he, she, it leaves. starts, departs
+vonat	[sound:Hungarian_FSI_1_0.07.12.700-0.07.13.670.mp3]	train
+Mikor indul a vonat?	[sound:Hungarian_FSI_1_0.07.13.712-0.07.15.418.mp3]	When does the train leave?
+hat	[sound:Hungarian_FSI_1_0.07.17.338-0.07.18.128.mp3]	six
+Hatkor indul a vonat.	[sound:Hungarian_FSI_1_0.07.18.328-0.07.19.768.mp3]	The train leaves at six.
+érkezik	[sound:Hungarian_FSI_1_0.07.21.765-0.07.23.184.mp3]	you arrive; he, she, it arrives
+Mikor érkezik a vonat?	[sound:Hungarian_FSI_1_0.07.23.319-0.07.24.976.mp3]	At what time does the train arrive?
+hét	[sound:Hungarian_FSI_1_0.07.27.187-0.07.28.298.mp3]	seven
+Hétkor.	[sound:Hungarian_FSI_1_0.07.28.498-0.07.29.665.mp3]	At seven.
+kezdődik	[sound:Hungarian_FSI_1_0.07.30.632-0.07.31.882.mp3]	begins, starts
+mozi	[sound:Hungarian_FSI_1_0.07.31.977-0.07.32.831.mp3]	movie
+Mikor kezdődik a mozi?	[sound:Hungarian_FSI_1_0.07.33.031-0.07.34.729.mp3]	At what time does the movie begin?
+nyolc	[sound:Hungarian_FSI_1_0.07.37.097-0.07.38.214.mp3]	eight
+kilenc	[sound:Hungarian_FSI_1_0.07.38.313-0.07.39.207.mp3]	nine
+tizenegy	[sound:Hungarian_FSI_1_0.07.39.307-0.07.40.209.mp3]	eleven
+tizenkettő	[sound:Hungarian_FSI_1_0.07.40.280-0.07.41.584.mp3]	twelve
+Nyolckor kezdődik a mozi.	[sound:Hungarian_FSI_1_0.07.41.725-0.07.43.755.mp3]	The movie begins at eight.
+mennyi	[sound:Hungarian_FSI_1_0.07.46.057-0.07.47.189.mp3]	how much
+meg	[sound:Hungarian_FSI_1_0.07.47.389-0.07.48.202.mp3]	and
+Mennyi kettő meg három?	[sound:Hungarian_FSI_1_0.07.48.402-0.07.50.101.mp3]	How much is two and three?
+Kettő meg három az öt.	[sound:Hungarian_FSI_1_0.07.52.712-0.07.54.731.mp3]	Two and three is five.
+Mennyi öt meg hat?	[sound:Hungarian_FSI_1_0.07.56.886-0.07.58.779.mp3]	How much is five and six?
+Öt meg hat az tizenegy.	[sound:Hungarian_FSI_1_0.08.00.735-0.08.02.805.mp3]	Five and six is eleven.
+Mennyi négy meg nyolc?	[sound:Hungarian_FSI_1_0.08.05.062-0.08.07.227.mp3]	How much is four and eight?
+Négy meg nyolc az tizenkettő.	[sound:Hungarian_FSI_1_0.08.09.498-0.08.12.052.mp3]	Four and eight is twelve.
+Mennyi öt meg öt?	[sound:Hungarian_FSI_1_0.08.14.971-0.08.16.893.mp3]	How much is five and five?
+Öt meg öt az tíz.	[sound:Hungarian_FSI_1_0.08.18.814-0.08.20.430.mp3]	Five and five is ten.
+rózsa	[sound:Hungarian_FSI_1_0.08.28.228-0.08.29.062.mp3]	rose
+János	[sound:Hungarian_FSI_1_0.08.29.262-0.08.30.230.mp3]	John
+Johnsonék	[sound:Hungarian_FSI_1_0.08.30.430-0.08.31.525.mp3]	the Johnsons
+találkozni	[sound:Hungarian_FSI_1_0.08.31.725-0.08.32.880.mp3]	to meet
+találkoznak	[sound:Hungarian_FSI_1_0.08.32.980-0.08.34.180.mp3]	you, they meet
+Budapesten	[sound:Hungarian_FSI_1_0.08.34.380-0.08.35.444.mp3]	in Budapest
+Rózsa János és Johnsonék találkoznak Budapesten.	[sound:Hungarian_FSI_1_0.08.35.644-0.08.38.753.mp3]	John Rose and the Johnsons meet in Budapest.
+amerikaiak	[sound:Hungarian_FSI_1_0.08.42.320-0.08.44.126.mp3]	Americans
+diplomata	[sound:Hungarian_FSI_1_0.08.45.327-0.08.46.614.mp3]	diplomat
+Johnsonék amerikaiak.	[sound:Hungarian_FSI_1_0.08.46.814-0.08.48.619.mp3]	The Johnsons are Americans.
+Johnson Péter diplomata.	[sound:Hungarian_FSI_1_0.08.50.803-0.08.52.896.mp3]	Peter Johnson is a Foreign Service Officer.
+Jó napot, Johnson úr! Hogy van?	[sound:Hungarian_FSI_1_0.08.56.440-0.08.59.125.mp3]	Hello, Mr. Johnson! How are you?
+Jó napot, Rózsa úr!	[sound:Hungarian_FSI_1_0.09.00.282-0.09.02.171.mp3]	Hello, Mr. Rose!
+kéz	[sound:Hungarian_FSI_1_0.09.07.168-0.09.08.185.mp3]	hand
+csókolni	[sound:Hungarian_FSI_1_0.09.08.385-0.09.09.694.mp3]	to kiss
+kezét csókolom	[sound:Hungarian_FSI_1_0.09.09.894-0.09.11.078.mp3]	I kiss your hand
+asszony	[sound:Hungarian_FSI_1_0.09.11.278-0.09.12.338.mp3]	woman
+asszonyom	[sound:Hungarian_FSI_1_0.09.12.538-0.09.13.548.mp3]	my lady, madam
+Kezét csókolom, asszonyom!	[sound:Hungarian_FSI_1_0.09.13.748-0.09.15.542.mp3]	I kiss your hand, Madam!
+régen	[sound:Hungarian_FSI_1_0.09.17.467-0.09.18.728.mp3]	long ago
+látni	[sound:Hungarian_FSI_1_0.09.18.928-0.09.19.844.mp3]	to see
+láttam	[sound:Hungarian_FSI_1_0.09.20.044-0.09.21.201.mp3]	I saw
+Régen nem láttam.	[sound:Hungarian_FSI_1_0.09.24.388-0.09.26.093.mp3]	I haven't seen you for a long time.
+bizony	[sound:Hungarian_FSI_1_0.09.27.898-0.09.28.881.mp3]	certainly, indeed
+hova	[sound:Hungarian_FSI_1_0.09.28.981-0.09.29.674.mp3]	where, in which direction
+sietni	[sound:Hungarian_FSI_1_0.09.30.074-0.09.31.102.mp3]	to hurry
+siet	[sound:Hungarian_FSI_1_0.09.31.302-0.09.32.116.mp3]	you hurry; he, she, it hurries
+Bizony nagyon régen.	[sound:Hungarian_FSI_1_0.09.32.216-0.09.33.800.mp3]	It's been a long time, indeed.
+Hova siet, asszonyom?	[sound:Hungarian_FSI_1_0.09.35.665-0.09.37.370.mp3]	Where are you hurrying, Madam?
+vásárolni	[sound:Hungarian_FSI_1_0.09.39.432-0.09.40.922.mp3]	to purchase, go shopping
+akarni	[sound:Hungarian_FSI_1_0.09.43.673-0.09.44.937.mp3]	to want, intend
+akar	[sound:Hungarian_FSI_1_0.09.45.137-0.09.46.020.mp3]	you want; he, she wants
+Mit akar vásárolni?	[sound:Hungarian_FSI_1_0.09.46.220-0.09.47.993.mp3]	What do you intend to buy?
+kalap	[sound:Hungarian_FSI_1_0.09.49.962-0.09.50.915.mp3]	hat
+kabát	[sound:Hungarian_FSI_1_0.09.51.015-0.09.51.822.mp3]	coat
+akarok	[sound:Hungarian_FSI_1_0.09.51.846-0.09.52.843.mp3]	I want
+venni	[sound:Hungarian_FSI_1_0.09.52.943-0.09.53.602.mp3]	to buy, take
+Kalapot akarok venni.	[sound:Hungarian_FSI_1_0.09.53.706-0.09.55.293.mp3]	I intend to buy a hat.
+akarsz	[sound:Hungarian_FSI_1_0.09.57.174-0.09.58.162.mp3]	you want (speaking to family member or intimate friend)
+Mária	[sound:Hungarian_FSI_1_0.09.58.562-0.09.59.670.mp3]	Mary
+Milyen kalapot akarsz venni. Mária?	[sound:Hungarian_FSI_1_0.09.59.870-0.10.02.219.mp3]	What kind of a hat do you want to buy, Mary?
+Egy szép fehér kalapot.	[sound:Hungarian_FSI_1_0.10.04.947-0.10.07.332.mp3]	A nice white hat.
+Hogy tetszik Budapest, asszonyom?	[sound:Hungarian_FSI_1_0.10.09.685-0.10.11.629.mp3]	How do you like Budapest, Madam?
+gyönyörű	[sound:Hungarian_FSI_1_0.10.14.081-0.10.15.438.mp3]	beautiful, magnificent
+város	[sound:Hungarian_FSI_1_0.10.15.538-0.10.16.449.mp3]	city
+most	[sound:Hungarian_FSI_1_0.10.16.649-0.10.17.441.mp3]	now
+sietek	[sound:Hungarian_FSI_1_0.10.17.541-0.10.18.355.mp3]	I hurry
+Nagyon tetszik.	[sound:Hungarian_FSI_1_0.10.18.458-0.10.19.699.mp3]	I like it very much.
+Budapest gyönyörű város.	[sound:Hungarian_FSI_1_0.10.21.000-0.10.22.673.mp3]	Budapest is a beautiful city.
+De most sietek.	[sound:Hungarian_FSI_1_0.10.24.930-0.10.26.368.mp3]	But I'm in a hurry now.
+Viszontlátásra, Rózsa úr!	[sound:Hungarian_FSI_1_0.10.30.255-0.10.32.616.mp3]	Goodby, Mr. Rose!
+csinálni	[sound:Hungarian_FSI_1_0.10.32.816-0.10.33.797.mp3]	to do, make
+csinál	[sound:Hungarian_FSI_1_0.10.33.997-0.10.34.832.mp3]	you do, make; he, she, it does, makes
+Maga most mit csinál. Johnson úr?	[sound:Hungarian_FSI_1_0.10.38.577-0.10.40.676.mp3]	What are you going to do now, Mr. Johnson?
+ebédelni	[sound:Hungarian_FSI_1_0.10.42.931-0.10.44.322.mp3]	to have lunch or dinner
+jönni	[sound:Hungarian_FSI_1_0.10.44.522-0.10.45.416.mp3]	to come
+jön	[sound:Hungarian_FSI_1_0.10.45.616-0.10.46.230.mp3]	you come; he, she, it comes
+velem	[sound:Hungarian_FSI_1_0.10.46.430-0.10.47.206.mp3]	with me
+Ebédelni akarok.	[sound:Hungarian_FSI_1_0.10.47.406-0.10.48.832.mp3]	I'd like to have lunch.
+Nem jön velem?	[sound:Hungarian_FSI_1_0.10.50.534-0.10.51.819.mp3]	Won't you come with me?
+Köszönöm, nagyon szívesen.	[sound:Hungarian_FSI_1_0.10.53.065-0.10.55.054.mp3]	Thank you, I'll be glad to.
+(A kávéházban)	[sound:Hungarian_FSI_1_0.10.57.167-0.10.58.983.mp3]	(In the café)
+Jó reggelt, Kovács úr!	[sound:Hungarian_FSI_1_0.11.01.951-0.11.03.788.mp3]	Good morning, Mr. Smith!
+Mit csinál?	[sound:Hungarian_FSI_1_0.11.05.666-0.11.06.860.mp3]	What are you doing?
+csak	[sound:Hungarian_FSI_1_0.11.08.424-0.11.09.217.mp3]	only, merely, just
+ülni (ülök)	[sound:Hungarian_FSI_1_0.11.09.317-0.11.10.710.mp3]	to sit (I sit)
+olvasni (olvasok)	[sound:Hungarian_FSI_1_0.11.10.910-0.11.12.457.mp3]	to read (I read)
+írni (írok)	[sound:Hungarian_FSI_1_0.11.12.657-0.11.14.307.mp3]	to write (I write)
+nézni (nézek)	[sound:Hungarian_FSI_1_0.11.14.507-0.11.16.388.mp3]	to look (I look)
+rajzolni (rajzolok)	[sound:Hungarian_FSI_1_0.11.16.588-0.11.18.515.mp3]	to draw (I draw)
+Jó reggelt, Johnson úr!	[sound:Hungarian_FSI_1_0.11.18.715-0.11.20.187.mp3]	Good morning, Mr. Johnson!
+Csak ülök és olvasok.	[sound:Hungarian_FSI_1_0.11.22.061-0.11.23.786.mp3]	I'm just sitting and reading.
+olvas	[sound:Hungarian_FSI_1_0.11.26.206-0.11.27.259.mp3]	you read; he, she reads
+újság	[sound:Hungarian_FSI_1_0.11.27.459-0.11.28.518.mp3]	newspaper
+könyv	[sound:Hungarian_FSI_1_0.11.28.618-0.11.29.379.mp3]	book
+levél	[sound:Hungarian_FSI_1_0.11.29.466-0.11.30.535.mp3]	letter
+Milyen újságot olvas?	[sound:Hungarian_FSI_1_0.11.30.735-0.11.32.506.mp3]	What paper are you reading?
+magyar	[sound:Hungarian_FSI_1_0.11.34.989-0.11.35.982.mp3]	Hungarian
+angol	[sound:Hungarian_FSI_1_0.11.36.182-0.11.37.353.mp3]	English
+Magyar újságot.	[sound:Hungarian_FSI_1_0.11.37.553-0.11.39.122.mp3]	A Hungarian newspaper.
+hely	[sound:Hungarian_FSI_1_0.11.40.784-0.11.41.729.mp3]	seat, place
+foglalni	[sound:Hungarian_FSI_1_0.11.41.929-0.11.42.789.mp3]	to occupy
+helyet foglalni	[sound:Hungarian_FSI_1_0.11.42.989-0.11.44.105.mp3]	to take a seat, to sit down
+szék	[sound:Hungarian_FSI_1_0.11.44.200-0.11.45.066.mp3]	chair
+Tessék helyet foglalni.	[sound:Hungarian_FSI_1_0.11.45.266-0.11.46.673.mp3]	Please sit down.
+Itt van egy szék.	[sound:Hungarian_FSI_1_0.11.48.600-0.11.50.017.mp3]	Here's a chair.
+fáradt	[sound:Hungarian_FSI_1_0.11.51.527-0.11.52.723.mp3]	tired
+beteg	[sound:Hungarian_FSI_1_0.11.52.923-0.11.53.705.mp3]	sick
+Köszönöm. Fáradt vagyok.	[sound:Hungarian_FSI_1_0.11.55.019-0.11.57.403.mp3]	Thank you. I'm tired.
+Nagyon meleg van.	[sound:Hungarian_FSI_1_0.12.00.091-0.12.01.471.mp3]	It's very hot.
+pincér	[sound:Hungarian_FSI_1_0.12.01.574-0.12.02.518.mp3]	waiter
+mindjárt	[sound:Hungarian_FSI_1_0.12.02.669-0.12.03.620.mp3]	right away, immediately
+hozni	[sound:Hungarian_FSI_1_0.12.03.717-0.12.04.440.mp3]	to bring
+hoz	[sound:Hungarian_FSI_1_0.12.04.505-0.12.05.207.mp3]	you bring; he, she, it brings
+pohár	[sound:Hungarian_FSI_1_0.12.05.293-0.12.06.324.mp3]	glass
+A pincér mindjárt hoz egy pohár vizet. Éhes?	[sound:Hungarian_FSI_1_0.12.09.122-0.12.13.125.mp3]	The waiter will bring a glass of water right away. Are you hungry?
+Nem vagyok éhes.	[sound:Hungarian_FSI_1_0.12.14.631-0.12.15.910.mp3]	I'm not hungry.
+mondani	[sound:Hungarian_FSI_1_0.12.17.943-0.12.19.180.mp3]	to say
+mondja	[sound:Hungarian_FSI_1_0.12.19.380-0.12.20.321.mp3]	you say; he, she says
+ki	[sound:Hungarian_FSI_1_0.12.20.521-0.12.21.209.mp3]	who
+magas	[sound:Hungarian_FSI_1_0.12.21.409-0.12.22.235.mp3]	tall, high
+alacsony	[sound:Hungarian_FSI_1_0.12.22.435-0.12.23.470.mp3]	short, low
+kövér	[sound:Hungarian_FSI_1_0.12.23.670-0.12.24.376.mp3]	fat
+sovány	[sound:Hungarian_FSI_1_0.12.24.576-0.12.25.470.mp3]	thin, slim
+hölgy	[sound:Hungarian_FSI_1_0.12.25.670-0.12.26.389.mp3]	lady
+lány	[sound:Hungarian_FSI_1_0.12.26.589-0.12.27.335.mp3]	girl
+nő	[sound:Hungarian_FSI_1_0.12.27.435-0.12.28.083.mp3]	woman
+Mondja, ki az a magas hölgy?	[sound:Hungarian_FSI_1_0.12.28.283-0.12.30.524.mp3]	Say, who is that tall lady?
+ismerni	[sound:Hungarian_FSI_1_0.12.33.578-0.12.34.729.mp3]	to know, be acquainted
+ismeri	[sound:Hungarian_FSI_1_0.12.34.829-0.12.35.704.mp3]	you know; he, she knows
+ő	[sound:Hungarian_FSI_1_0.12.35.815-0.12.36.488.mp3]	he, she
+őt	[sound:Hungarian_FSI_1_0.12.36.688-0.12.37.517.mp3]	him, her
+Szabó Mária. Nem ismeri őt?	[sound:Hungarian_FSI_1_0.12.39.077-0.12.41.656.mp3]	She's Mary Taylor. Don't you know her?
+ismerem	[sound:Hungarian_FSI_1_0.12.43.283-0.12.44.613.mp3]	I know
+Nem ismerem. Amerikai?	[sound:Hungarian_FSI_1_0.12.46.007-0.12.48.336.mp3]	No, I don't. Is she an American?
+gyakran	[sound:Hungarian_FSI_1_0.12.49.635-0.12.50.791.mp3]	often
+vele	[sound:Hungarian_FSI_1_0.12.50.991-0.12.51.657.mp3]	with her, him, it
+Nem amerikai. Magyar.	[sound:Hungarian_FSI_1_0.12.53.157-0.12.55.553.mp3]	No, she's not. she's a Hungarian.
+Gyakran beszélek vele magyarul.	[sound:Hungarian_FSI_1_0.12.58.694-0.13.01.005.mp3]	I often speak Hungarian with her.
+De angolul is jól beszél.	[sound:Hungarian_FSI_1_0.13.01.205-0.13.03.015.mp3]	But she speaks English well, too.
+holnap	[sound:Hungarian_FSI_1_0.13.05.734-0.13.06.894.mp3]	tomorrow
+Bécs	[sound:Hungarian_FSI_1_0.13.07.094-0.13.07.788.mp3]	Vienna
+Bécsbe	[sound:Hungarian_FSI_1_0.13.07.971-0.13.09.050.mp3]	to Vienna
+utazni	[sound:Hungarian_FSI_1_0.13.09.250-0.13.10.132.mp3]	to travel
+utazunk	[sound:Hungarian_FSI_1_0.13.10.332-0.13.11.297.mp3]	we travel
+Holnap Bécsbe utazunk.	[sound:Hungarian_FSI_1_0.13.11.497-0.13.13.176.mp3]	we're traveling to Vienna tomorrow.
+csinálnak	[sound:Hungarian_FSI_1_0.13.15.229-0.13.16.316.mp3]	you, they do, make
+Bécsben	[sound:Hungarian_FSI_1_0.13.16.516-0.13.17.547.mp3]	in Vienna
+Mit csinálnak Bécsben?	[sound:Hungarian_FSI_1_0.13.17.747-0.13.19.436.mp3]	What will you be doing in Vienna?
+vásárolunk	[sound:Hungarian_FSI_1_0.13.21.378-0.13.22.716.mp3]	we purchase
+feleség	[sound:Hungarian_FSI_1_0.13.22.816-0.13.23.721.mp3]	wife
+feleségem	[sound:Hungarian_FSI_1_0.13.23.921-0.13.25.023.mp3]	my wife
+találni	[sound:Hungarian_FSI_1_0.13.25.223-0.13.26.238.mp3]	to find
+talál	[sound:Hungarian_FSI_1_0.13.26.438-0.13.27.255.mp3]	you find; he, she finds
+semmi	[sound:Hungarian_FSI_1_0.13.27.455-0.13.28.408.mp3]	nothing
+Vásárolunk. A feleségem Budapesten nem talál semmit.	[sound:Hungarian_FSI_1_0.13.29.705-0.13.33.720.mp3]	We're going shopping. My wife can't find anything in Budapest,
+Mit akar venni?	[sound:Hungarian_FSI_1_0.13.36.841-0.13.38.370.mp3]	What does she want to buy?
+piros	[sound:Hungarian_FSI_1_0.13.39.950-0.13.41.203.mp3]	red
+táska	[sound:Hungarian_FSI_1_0.13.41.403-0.13.42.434.mp3]	handbag
+sárga	[sound:Hungarian_FSI_1_0.13.42.534-0.13.43.495.mp3]	yellow
+Egy piros táskát.	[sound:Hungarian_FSI_1_0.13.43.695-0.13.45.467.mp3]	A red handbag.
+De itt nem talál pirosat, csak sárgát.	[sound:Hungarian_FSI_1_0.13.47.160-0.13.50.106.mp3]	But here she can't find ahy red ones, only yellow ones.
+biztosan	[sound:Hungarian_FSI_1_0.13.52.898-0.13.54.181.mp3]	surely
+találnak	[sound:Hungarian_FSI_1_0.13.54.232-0.13.55.277.mp3]	you, they find
+minden	[sound:Hungarian_FSI_1_0.13.55.477-0.13.56.274.mp3]	everything, every, all
+Bécsben biztosan találnak mindent.	[sound:Hungarian_FSI_1_0.13.56.293-0.13.58.768.mp3]	You'll surely find everything in Vienna.
+ha	[sound:Hungarian_FSI_1_0.14.01.675-0.14.02.327.mp3]	if
+találok	[sound:Hungarian_FSI_1_0.14.02.502-0.14.03.546.mp3]	I find
+hozok	[sound:Hungarian_FSI_1_0.14.03.576-0.14.04.319.mp3]	I bring
+hanem	[sound:Hungarian_FSI_1_0.14.04.455-0.14.05.413.mp3]	but
+Biztosan. És ha szép táskát találok nem egyet hozok, hanem kettőt.	[sound:Hungarian_FSI_1_0.14.06.367-0.14.11.409.mp3]	Of course. And if I find any nice bags, I'll bring not one but two.
+Mást nem akar venni?	[sound:Hungarian_FSI_1_0.14.15.574-0.14.17.206.mp3]	Don't you intend to buy anything else?
+egy par	[sound:Hungarian_FSI_1_0.14.19.495-0.14.20.640.mp3]	a pair
+cipő	[sound:Hungarian_FSI_1_0.14.20.840-0.14.21.743.mp3]	shoe
+De igen. Egy pár cipőt is akarok venni.	[sound:Hungarian_FSI_1_0.14.22.796-0.14.26.240.mp3]	yes, I intend to buy a pair of shoes also.
+valami	[sound:Hungarian_FSI_1_0.14.28.902-0.14.29.779.mp3]	something, some
+ajándék	[sound:Hungarian_FSI_1_0.14.29.979-0.14.31.151.mp3]	gift, present
+játék	[sound:Hungarian_FSI_1_0.14.31.351-0.14.32.281.mp3]	toy
+labda	[sound:Hungarian_FSI_1_0.14.32.481-0.14.33.298.mp3]	ball
+ceruza	[sound:Hungarian_FSI_1_0.14.33.498-0.14.34.348.mp3]	pencil
+papír	[sound:Hungarian_FSI_1_0.14.34.448-0.14.35.302.mp3]	paper
+toll	[sound:Hungarian_FSI_1_0.14.35.402-0.14.36.135.mp3]	pen
+Meg valami ajándékot.	[sound:Hungarian_FSI_1_0.14.36.335-0.14.38.042.mp3]	And some presents.
+útlevél	[sound:Hungarian_FSI_1_0.14.39.893-0.14.40.904.mp3]	passport
+útlevelek	[sound:Hungarian_FSI_1_0.14.41.104-0.14.42.134.mp3]	passports
+vizsgálat	[sound:Hungarian_FSI_1_0.14.42.334-0.14.43.289.mp3]	examination, inspection
+kérem	[sound:Hungarian_FSI_1_0.14.43.489-0.14.44.337.mp3]	please
+Útlevélvizsgálat!	[sound:Hungarian_FSI_1_0.14.44.537-0.14.46.225.mp3]	Passport inspection!
+Kérem az útleveleket.	[sound:Hungarian_FSI_1_0.14.47.956-0.14.49.804.mp3]	Passports, please.
+Tessék.	[sound:Hungarian_FSI_1_0.14.51.990-0.14.53.092.mp3]	Here you are.
+név	[sound:Hungarian_FSI_1_0.14.54.339-0.14.55.105.mp3]	name
+a neve	[sound:Hungarian_FSI_1_0.14.55.305-0.14.56.033.mp3]	your, his, her, its name
+Mi a neve?	[sound:Hungarian_FSI_1_0.14.56.233-0.14.57.080.mp3]	What's your name?
+a nevem	[sound:Hungarian_FSI_1_0.14.58.172-0.14.59.376.mp3]	my name
+Johnson Péter a nevem.	[sound:Hungarian_FSI_1_0.14.59.576-0.15.01.424.mp3]	My name is Peter Johnson.
+utazik	[sound:Hungarian_FSI_1_0.15.03.363-0.15.04.551.mp3]	you travel; he, she travels
+Hova utazik?	[sound:Hungarian_FSI_1_0.15.04.651-0.15.05.721.mp3]	Where are you traveling?
+Bécsbe.	[sound:Hungarian_FSI_1_0.15.07.027-0.15.07.990.mp3]	To Vienna.
+meddig	[sound:Hungarian_FSI_1_0.15.09.019-0.15.09.909.mp3]	how long
+maradni	[sound:Hungarian_FSI_1_0.15.10.094-0.15.10.980.mp3]	to remain, stay
+marad	[sound:Hungarian_FSI_1_0.15.11.079-0.15.11.814.mp3]	you remain, stay; he, she, it remains, stays
+Meddig marad ott?	[sound:Hungarian_FSI_1_0.15.12.014-0.15.13.147.mp3]	How long are you staying there?
+két hétig	[sound:Hungarian_FSI_1_0.15.15.892-0.15.17.060.mp3]	for two weeks
+azután	[sound:Hungarian_FSI_1_0.15.17.260-0.15.18.129.mp3]	afterwards, then
+visszamenni	[sound:Hungarian_FSI_1_0.15.18.329-0.15.19.551.mp3]	to go back, return
+Csak két hétig.	[sound:Hungarian_FSI_1_0.15.19.751-0.15.21.277.mp3]	Just for a couple of weeks.
+Azután vissza akarok menni Budapestre.	[sound:Hungarian_FSI_1_0.15.22.904-0.15.25.524.mp3]	Then I intend to go back to Budapest.
+vám	[sound:Hungarian_FSI_1_0.15.28.649-0.15.29.465.mp3]	customs
+bőrönd	[sound:Hungarian_FSI_1_0.15.29.665-0.15.30.548.mp3]	suitcase
+a bőröndben	[sound:Hungarian_FSI_1_0.15.30.748-0.15.31.862.mp3]	in the suitcase
+Vámvizsgálat!	[sound:Hungarian_FSI_1_0.15.33.689-0.15.35.019.mp3]	Customs inspection:
+Mi van a bőröndben?	[sound:Hungarian_FSI_1_0.15.35.219-0.15.36.699.mp3]	What's in the suitcase?
+ruha	[sound:Hungarian_FSI_1_0.15.38.898-0.15.39.817.mp3]	clothes, suit, dress
+szerencsés	[sound:Hungarian_FSI_1_0.15.44.196-0.15.45.721.mp3]	lucky
+út	[sound:Hungarian_FSI_1_0.15.46.121-0.15.47.147.mp3]	trip
+Köszönöm. Szerencsés utat.	[sound:Hungarian_FSI_1_0.15.48.180-0.15.50.851.mp3]	Thank you. Have a nice trip.
+molnár	[sound:Hungarian_FSI_1_0.15.57.915-0.15.58.876.mp3]	miller
+menni	[sound:Hungarian_FSI_1_0.15.59.076-0.15.59.909.mp3]	to go
+megy	[sound:Hungarian_FSI_1_0.16.00.109-0.16.00.789.mp3]	you go; he, she, it goes
+úrral	[sound:Hungarian_FSI_1_0.16.00.889-0.16.02.231.mp3]	with Mr...
+Molnár úr vásárolni megy Johnson úrral.	[sound:Hungarian_FSI_1_0.16.02.431-0.16.05.073.mp3]	Mr. Miller is going shopping with Mr. Johnson.
+új	[sound:Hungarian_FSI_1_0.16.08.147-0.16.09.224.mp3]	new
+üzlet	[sound:Hungarian_FSI_1_0.16.09.424-0.16.10.410.mp3]	shop, business, store
+Egy új ruhát szeretnék venni.	[sound:Hungarian_FSI_1_0.16.10.610-0.16.12.500.mp3]	I'd like to buy a new suit.
+Ismer egy jó üzletet?	[sound:Hungarian_FSI_1_0.16.14.756-0.16.16.602.mp3]	Do you know a good store?
+szoktam	[sound:Hungarian_FSI_1_0.16.18.712-0.16.19.900.mp3]	I usually
+tegnap	[sound:Hungarian_FSI_1_0.16.20.100-0.16.20.777.mp3]	yesterday
+vettem	[sound:Hungarian_FSI_1_0.16.20.977-0.16.22.099.mp3]	I bought
+állam	[sound:Hungarian_FSI_1_0.16.22.299-0.16.23.198.mp3]	state
+állami (adj.)	[sound:Hungarian_FSI_1_0.16.23.499-0.16.24.580.mp3]	state
+áruház, -at	[sound:Hungarian_FSI_1_0.16.24.780-0.16.27.838.mp3]	department store
+állami áruház	[sound:Hungarian_FSI_1_0.16.28.038-0.16.29.400.mp3]	state store
+Én Bécsben szoktam vásárolni.	[sound:Hungarian_FSI_1_0.16.29.600-0.16.32.018.mp3]	I usually shop in Vienna.
+De tegnap vettem egy jó ruhát az Állami Áruházban.	[sound:Hungarian_FSI_1_0.16.34.733-0.16.38.206.mp3]	But yesterday I bought a good suit at the State store.
+elég	[sound:Hungarian_FSI_1_0.16.42.212-0.16.43.282.mp3]	enough, sufficient, quite
+férfi, -ak	[sound:Hungarian_FSI_1_0.16.43.482-0.16.45.321.mp3]	man
+férfiruha	[sound:Hungarian_FSI_1_0.16.45.427-0.16.46.602.mp3]	suit
+vannak	[sound:Hungarian_FSI_1_0.16.46.802-0.16.47.782.mp3]	are (they are, there are)
+költeni	[sound:Hungarian_FSI_1_0.16.47.982-0.16.48.848.mp3]	to spend
+Ott elég jó férfiruhák vannak.	[sound:Hungarian_FSI_1_0.16.48.948-0.16.51.122.mp3]	They have some fairly good men's suits there.
+Mennyit akar költeni?	[sound:Hungarian_FSI_1_0.16.54.100-0.16.55.910.mp3]	How much do you want to spend?
+sok	[sound:Hungarian_FSI_1_0.16.58.166-0.16.59.015.mp3]	much, many
+Nem akarok sokat költeni.	[sound:Hungarian_FSI_1_0.16.59.215-0.17.01.218.mp3]	I don't want to spend a lot.
+Mibe kerül egy jó férfiruha?	[sound:Hungarian_FSI_1_0.17.03.340-0.17.05.451.mp3]	How much does a good suit cost?
+körülbelül	[sound:Hungarian_FSI_1_0.17.08.121-0.17.09.382.mp3]	about, approximately
+ezer, ezret	[sound:Hungarian_FSI_1_0.17.09.582-0.17.12.040.mp3]	thousand
+Körülbelül kétezer forintba kerül.	[sound:Hungarian_FSI_1_0.17.12.140-0.17.14.300.mp3]	It costs about 2,000 forints.
+túl	[sound:Hungarian_FSI_1_0.17.17.225-0.17.18.008.mp3]	too
+lehet	[sound:Hungarian_FSI_1_0.17.18.208-0.17.19.132.mp3]	it's possible
+olcsóbb	[sound:Hungarian_FSI_1_0.17.19.332-0.17.20.219.mp3]	cheaper
+kapni	[sound:Hungarian_FSI_1_0.17.20.519-0.17.21.462.mp3]	to get, receive
+Az túl drága.	[sound:Hungarian_FSI_1_0.17.21.662-0.17.22.983.mp3]	That's too expensive.
+Nem lehet olcsóbbat kapni?	[sound:Hungarian_FSI_1_0.17.24.908-0.17.26.931.mp3]	Isn't it possible to get a cheaper one?
+utca	[sound:Hungarian_FSI_1_0.17.30.472-0.17.31.407.mp3]	street
+még	[sound:Hungarian_FSI_1_0.17.31.607-0.17.32.584.mp3]	still, yet, in addition, even
+MASZEK, -et	[sound:Hungarian_FSI_1_0.17.32.784-0.17.35.052.mp3]	MASZEK
+A Petőfi Sándor utcában van egy kis üzlet.	[sound:Hungarian_FSI_1_0.17.35.152-0.17.37.827.mp3]	There's a small shop on Alexander Petőfi street.
+Az még MASZEK.	[sound:Hungarian_FSI_1_0.17.41.057-0.17.42.622.mp3]	It's still a MASZEK.
+talán	[sound:Hungarian_FSI_1_0.17.44.309-0.17.45.430.mp3]	perhaps
+menjünk	[sound:Hungarian_FSI_1_0.17.45.630-0.17.46.738.mp3]	let's go
+oda	[sound:Hungarian_FSI_1_0.17.46.938-0.17.47.620.mp3]	there (to that place)
+ide	[sound:Hungarian_FSI_1_0.17.47.820-0.17.48.827.mp3]	here (to this place)
+először	[sound:Hungarian_FSI_1_0.17.49.027-0.17.50.034.mp3]	first, the first time
+Talán ott kapunk olcsóbbat.	[sound:Hungarian_FSI_1_0.17.50.234-0.17.52.265.mp3]	Perhaps we'll get a cheaper one there.
+Menjünk oda először.	[sound:Hungarian_FSI_1_0.17.54.845-0.17.56.695.mp3]	Let's go there first.
+(Az üzletben)	[sound:Hungarian_FSI_1_0.17.58.791-0.18.00.131.mp3]	(In the store)
+eladó	[sound:Hungarian_FSI_1_0.18.00.160-0.18.01.192.mp3]	salesclerk
+kívánni	[sound:Hungarian_FSI_1_0.18.01.392-0.18.02.484.mp3]	to wish
+Jó napot kívánok!	[sound:Hungarian_FSI_1_0.18.02.510-0.18.04.066.mp3]	Good day!
+könnyű, -ek	[sound:Hungarian_FSI_1_0.18.08.357-0.18.10.933.mp3]	light (weight), easy
+nyár, nyarat	[sound:Hungarian_FSI_1_0.18.11.133-0.18.13.142.mp3]	summer
+nyári ruha	[sound:Hungarian_FSI_1_0.18.13.342-0.18.14.357.mp3]	summer suit, dress
+Egy könnyű nyári ruhát szeretnék.	[sound:Hungarian_FSI_1_0.18.14.557-0.18.16.860.mp3]	I'd like a light-weight summer suit.
+színű, -ek	[sound:Hungarian_FSI_1_0.18.19.137-0.18.21.656.mp3]	colored
+Milyen színűt parancsol?	[sound:Hungarian_FSI_1_0.18.21.756-0.18.23.343.mp3]	What color do you want?
+világos	[sound:Hungarian_FSI_1_0.18.25.785-0.18.26.938.mp3]	light (color), bright
+szürke	[sound:Hungarian_FSI_1_0.18.27.138-0.18.28.127.mp3]	grey
+Világosbarnát vagy szürkét, de nem nagyon drágát.	[sound:Hungarian_FSI_1_0.18.28.327-0.18.31.909.mp3]	Light brown or grey, but not very expensive.
+kirakat	[sound:Hungarian_FSI_1_0.18.35.345-0.18.36.422.mp3]	show window
+hasonló	[sound:Hungarian_FSI_1_0.18.36.622-0.18.37.642.mp3]	similar, like
+Az a szürke ruha a kirakatban nagyon tetszik.	[sound:Hungarian_FSI_1_0.18.37.842-0.18.40.311.mp3]	I like that grey suit in the show. window a lot.
+Egy hasonlót kérek.	[sound:Hungarian_FSI_1_0.18.43.273-0.18.45.072.mp3]	I want one like it.
+kitűnő	[sound:Hungarian_FSI_1_0.18.47.030-0.18.48.304.mp3]	excellent
+anyag	[sound:Hungarian_FSI_1_0.18.48.504-0.18.49.328.mp3]	material, fabric, cloth
+felpróbálni	[sound:Hungarian_FSI_1_0.18.49.528-0.18.50.861.mp3]	to try on
+Itt van egy.	[sound:Hungarian_FSI_1_0.18.51.061-0.18.52.435.mp3]	Here's one.
+Ez kitűnő angol anyag.	[sound:Hungarian_FSI_1_0.18.53.680-0.18.55.691.mp3]	This is excellent English material.
+Tessék a kabátot felpróbálni.	[sound:Hungarian_FSI_1_0.18.57.845-0.19.00.291.mp3]	Please try the jacket on.
+állni	[sound:Hungarian_FSI_1_0.19.02.911-0.19.04.124.mp3]	to stand
+jól áll	[sound:Hungarian_FSI_1_0.19.04.324-0.19.05.496.mp3]	becomes, suits ('stands well')
+jól áll magának	[sound:Hungarian_FSI_1_0.19.05.696-0.19.07.529.mp3]	is becoming to you, suits you
+tükör, tükröt	[sound:Hungarian_FSI_1_0.19.07.729-0.19.09.464.mp3]	mirror
+Nagyon jól áll magának.	[sound:Hungarian_FSI_1_0.19.09.474-0.19.11.110.mp3]	This looks very good on you.
+Ott van egy tükör.	[sound:Hungarian_FSI_1_0.19.13.181-0.19.14.722.mp3]	There's a mirror over there.
+Hogy tetszik?	[sound:Hungarian_FSI_1_0.19.16.684-0.19.18.038.mp3]	How do you like it?
+tényleg	[sound:Hungarian_FSI_1_0.19.19.513-0.19.20.679.mp3]	really, indeed
+Tényleg jól áll.	[sound:Hungarian_FSI_1_0.19.20.979-0.19.22.352.mp3]	It really fits well.
+Mi az ára?	[sound:Hungarian_FSI_1_0.19.24.380-0.19.25.636.mp3]	What price is it?
+száz, -at	[sound:Hungarian_FSI_1_0.19.27.511-0.19.30.104.mp3]	hundred
+Ezerötszáz forint.	[sound:Hungarian_FSI_1_0.19.30.304-0.19.31.885.mp3]	1,500 forints.
+megveszem	[sound:Hungarian_FSI_1_0.19.33.728-0.19.34.949.mp3]	I buy
+Jó, ezt megveszem.	[sound:Hungarian_FSI_1_0.19.35.149-0.19.36.943.mp3]	Good, I'll buy this one.
+sport	[sound:Hungarian_FSI_1_0.19.38.696-0.19.39.706.mp3]	sport
+zakó	[sound:Hungarian_FSI_1_0.19.39.906-0.19.40.714.mp3]	jacket
+nadrág	[sound:Hungarian_FSI_1_0.19.40.914-0.19.41.910.mp3]	pair of trousers
+alsónadrág	[sound:Hungarian_FSI_1_0.19.42.110-0.19.43.425.mp3]	shorts
+zokni	[sound:Hungarian_FSI_1_0.19.43.625-0.19.44.678.mp3]	sock
+zsebkendő	[sound:Hungarian_FSI_1_0.19.44.878-0.19.46.143.mp3]	handkerchief
+Parancsol még valamit?	[sound:Hungarian_FSI_1_0.19.46.343-0.19.47.964.mp3]	Do you want anything else?
+Sportzakót vagy nadrágot?	[sound:Hungarian_FSI_1_0.19.49.948-0.19.52.132.mp3]	Sportjacket or trousers?
+kell	[sound:Hungarian_FSI_1_0.19.54.781-0.19.55.613.mp3]	is needed, wanted, necessary
+néhány	[sound:Hungarian_FSI_1_0.19.55.813-0.19.56.880.mp3]	few, some
+ing	[sound:Hungarian_FSI_1_0.19.57.080-0.19.57.927.mp3]	shirt
+Köszönöm, az nem kell, de néhány inget szeretnék.	[sound:Hungarian_FSI_1_0.19.58.127-0.20.01.592.mp3]	No, thank you, I don't need any, but I would like a few shirts.
+kaptunk	[sound:Hungarian_FSI_1_0.20.05.122-0.20.06.174.mp3]	we got, received
+Milyen inget parancsol?	[sound:Hungarian_FSI_1_0.20.06.193-0.20.07.727.mp3]	What kind of shirts do you want?
+Tegnap sok szépet kaptunk.	[sound:Hungarian_FSI_1_0.20.09.905-0.20.11.968.mp3]	We received many nice ones yesterday.
+kék	[sound:Hungarian_FSI_1_0.20.14.097-0.20.14.999.mp3]	blue
+Kék is van?	[sound:Hungarian_FSI_1_0.20.15.199-0.20.16.420.mp3]	Do you have blue ones also?
+persze	[sound:Hungarian_FSI_1_0.20.18.202-0.20.19.312.mp3]	of course
+szabad	[sound:Hungarian_FSI_1_0.20.20.583-0.20.21.292.mp3]	permitted, allowed
+szabad kérnem	[sound:Hungarian_FSI_1_0.20.21.492-0.20.23.007.mp3]	may I ask
+méret	[sound:Hungarian_FSI_1_0.20.23.207-0.20.24.295.mp3]	size, measurement
+Persze, hogy van!	[sound:Hungarian_FSI_1_0.20.24.495-0.20.25.725.mp3]	Of course we have.
+Szabad kérnem a méretet?	[sound:Hungarian_FSI_1_0.20.27.386-0.20.29.456.mp3]	May I have your size?
+sajnos	[sound:Hungarian_FSI_1_0.20.31.719-0.20.32.931.mp3]	unfortunately
+tudni	[sound:Hungarian_FSI_1_0.20.33.131-0.20.34.004.mp3]	to know, to know how, to be able
+tudom	[sound:Hungarian_FSI_1_0.20.34.204-0.20.35.068.mp3]	I know
+pontosan	[sound:Hungarian_FSI_1_0.20.35.268-0.20.36.303.mp3]	exactly
+Amerika	[sound:Hungarian_FSI_1_0.20.36.503-0.20.37.557.mp3]	America
+fél, felet	[sound:Hungarian_FSI_1_0.20.37.757-0.20.39.860.mp3]	half
+Sajnos, nem tudom pontosan.	[sound:Hungarian_FSI_1_0.20.40.060-0.20.41.881.mp3]	Unfortunately I don't know exactly.
+Amerikában tizenöt és fél.	[sound:Hungarian_FSI_1_0.20.44.260-0.20.46.101.mp3]	In America it's fifteen and a half.
+hinni	[sound:Hungarian_FSI_1_0.20.48.799-0.20.49.973.mp3]	to, believe
+hiszem	[sound:Hungarian_FSI_1_0.20.50.173-0.20.50.940.mp3]	I believe
+lesz	[sound:Hungarian_FSI_1_0.20.51.140-0.20.52.124.mp3]	(you, he, she, it) will be
+Azt hiszem, ez elég nagy lesz.	[sound:Hungarian_FSI_1_0.20.52.324-0.20.54.079.mp3]	I think this one will be big enough.
+összesen	[sound:Hungarian_FSI_1_0.21.00.637-0.21.02.136.mp3]	altogether
+Egy kéket és két fehéret kérek.	[sound:Hungarian_FSI_1_0.21.02.336-0.21.04.920.mp3]	I want a blue one and two white ones.
+Mennyi az összesen?	[sound:Hungarian_FSI_1_0.21.07.611-0.21.09.408.mp3]	How much is that altogether?
+ötven	[sound:Hungarian_FSI_1_0.21.11.129-0.21.12.535.mp3]	fifty
+nyakkendő	[sound:Hungarian_FSI_1_0.21.12.735-0.21.13.914.mp3]	necktie
+Négyszázötven forint.	[sound:Hungarian_FSI_1_0.21.14.114-0.21.16.081.mp3]	450 forints.
+valahol	[sound:Hungarian_FSI_1_0.21.22.342-0.21.23.594.mp3]	somewhere, anywhere
+illatszer	[sound:Hungarian_FSI_1_0.21.23.794-0.21.24.989.mp3]	perfume, scent
+bolt	[sound:Hungarian_FSI_1_0.21.25.189-0.21.26.234.mp3]	store, shop
+Köszonom, nyakkendöt most nem kérek.	[sound:Hungarian_FSI_1_0.21.26.434-0.21.28.896.mp3]	Thanks, I don't want neckties now.
+Van itt valahol egy illatszerbolt?	[sound:Hungarian_FSI_1_0.21.31.650-0.21.33.772.mp3]	Is there a perfumery here somewhere?
+harmadik	[sound:Hungarian_FSI_1_0.21.36.095-0.21.37.308.mp3]	third
+ház, -at	[sound:Hungarian_FSI_1_0.21.37.408-0.21.39.400.mp3]	house
+Jobbra, a harmadik házban van egy.	[sound:Hungarian_FSI_1_0.21.39.600-0.21.41.629.mp3]	There's one in the third building to the right.
+(Az illatszerboltban)	[sound:Hungarian_FSI_1_0.21.44.301-0.21.46.085.mp3]	(In the perfumery)
+szappan	[sound:Hungarian_FSI_1_0.21.46.135-0.21.47.109.mp3]	soap
+Jó napot kívánok! Szappant szeretnék.	[sound:Hungarian_FSI_1_0.21.48.941-0.21.52.333.mp3]	Good morning! I'd like some soap.
+mosdószappan	[sound:Hungarian_FSI_1_0.21.53.870-0.21.55.488.mp3]	toilet soap
+mosószappan	[sound:Hungarian_FSI_1_0.21.55.688-0.21.56.961.mp3]	laundry soap
+Mosdószappant vagy mosószappant?	[sound:Hungarian_FSI_1_0.21.57.161-0.21.59.829.mp3]	Toilet soap or laundry soap?
+Mosdószappant.	[sound:Hungarian_FSI_1_0.22.02.637-0.22.04.573.mp3]	Toilet soap.
+minőségi	[sound:Hungarian_FSI_1_0.22.06.324-0.22.07.374.mp3]	quality
+darab	[sound:Hungarian_FSI_1_0.22.07.574-0.22.08.638.mp3]	piece, bar
+Minőségi mosdószappan van.	[sound:Hungarian_FSI_1_0.22.08.838-0.22.11.142.mp3]	We have 'quality' toilet soap.
+Hány darabot parancsol?	[sound:Hungarian_FSI_1_0.22.12.733-0.22.14.188.mp3]	How many bars do you want?
+adni	[sound:Hungarian_FSI_1_0.22.15.547-0.22.16.433.mp3]	to give
+adjon (imperative)	[sound:Hungarian_FSI_1_0.22.16.633-0.22.17.473.mp3]	give (command)
+borotvaszappan	[sound:Hungarian_FSI_1_0.22.17.673-0.22.18.807.mp3]	shaving soap
+borotvakrém	[sound:Hungarian_FSI_1_0.22.19.007-0.22.20.023.mp3]	shaving cream
+arckrém	[sound:Hungarian_FSI_1_0.22.20.223-0.22.21.243.mp3]	face cream
+kölnivíz	[sound:Hungarian_FSI_1_0.22.21.443-0.22.22.317.mp3]	eau de Cologne
+Kérem, adjon két darabot.	[sound:Hungarian_FSI_1_0.22.22.417-0.22.24.294.mp3]	Give me two bars, please.
+Borotvaszappan is van?	[sound:Hungarian_FSI_1_0.22.26.400-0.22.28.146.mp3]	Do you have shaving soap also?
+Igen, van. Az is minőségi.	[sound:Hungarian_FSI_1_0.22.31.482-0.22.34.373.mp3]	Yes, we have. It also is 'quality'.
+kefe	[sound:Hungarian_FSI_1_0.22.37.839-0.22.38.792.mp3]	brush
+fogkefe	[sound:Hungarian_FSI_1_0.22.38.992-0.22.40.261.mp3]	toothbrush
+Fogkefét is kérek.	[sound:Hungarian_FSI_1_0.22.40.461-0.22.42.321.mp3]	I want a toothbrush also.
+választani	[sound:Hungarian_FSI_1_0.22.43.924-0.22.45.031.mp3]	to choose
+Itt vannak a fogkefék.	[sound:Hungarian_FSI_1_0.22.45.131-0.22.46.546.mp3]	Here are the toothbrushes.
+Tessék választani.	[sound:Hungarian_FSI_1_0.22.48.378-0.22.49.773.mp3]	You can have your choice.
+zöld	[sound:Hungarian_FSI_1_0.22.51.722-0.22.52.461.mp3]	green
+Adjon egy zöldet.	[sound:Hungarian_FSI_1_0.22.52.661-0.22.54.054.mp3]	Give me a green one.
+fogkrém	[sound:Hungarian_FSI_1_0.22.55.649-0.22.56.945.mp3]	toothpaste
+Fogkrémet is parancsol?	[sound:Hungarian_FSI_1_0.22.57.145-0.22.58.924.mp3]	Do you want some toothpaste also?
+Jó, hogy mondja.	[sound:Hungarian_FSI_1_0.23.01.122-0.23.02.550.mp3]	Good that you mentioned it.
+Igen, azt is kérek.	[sound:Hungarian_FSI_1_0.23.04.237-0.23.05.991.mp3]	Yes, I do want some also.
+Van Odol?	[sound:Hungarian_FSI_1_0.23.07.257-0.23.08.192.mp3]	Do you have 'Odol'?
+tubus	[sound:Hungarian_FSI_1_0.23.09.639-0.23.10.730.mp3]	tube
+Csak minőségi fogkrém van.	[sound:Hungarian_FSI_1_0.23.10.930-0.23.12.714.mp3]	We have only 'quality' toothpaste.
+Kis vagy nagy tubust parancsol?	[sound:Hungarian_FSI_1_0.23.15.175-0.23.16.885.mp3]	Do you want a small or a large tube?
+borotvapenge	[sound:Hungarian_FSI_1_0.23.18.464-0.23.19.643.mp3]	razor blade
+Nagyot kérek.	[sound:Hungarian_FSI_1_0.23.19.843-0.23.20.861.mp3]	I want a large one.
+Borotvapenge is van?	[sound:Hungarian_FSI_1_0.23.22.007-0.23.23.554.mp3]	Do you have razor blades?
+elfogyott	[sound:Hungarian_FSI_1_0.23.25.281-0.23.26.490.mp3]	run out (past participle)
+Sajnos, a borotvapenge elfogyott.	[sound:Hungarian_FSI_1_0.23.26.690-0.23.28.596.mp3]	I'm sorry, but we're out of razor blades.
+fizetni	[sound:Hungarian_FSI_1_0.23.34.329-0.23.35.501.mp3]	to pay
+Köszönöm, nem kérek. Mit fizetek?	[sound:Hungarian_FSI_1_0.23.37.385-0.23.40.252.mp3]	No, thank you. How much is the bill?
+harminc	[sound:Hungarian_FSI_1_0.23.41.662-0.23.44.007.mp3]	thirty
+negyven	[sound:Hungarian_FSI_1_0.23.44.207-0.23.44.995.mp3]	forty
+hatvan	[sound:Hungarian_FSI_1_0.23.45.195-0.23.47.266.mp3]	sixty
+hetven	[sound:Hungarian_FSI_1_0.23.47.466-0.23.48.516.mp3]	seventy
+nyolcvan	[sound:Hungarian_FSI_1_0.23.48.716-0.23.51.020.mp3]	eighty
+kilencven	[sound:Hungarian_FSI_1_0.23.51.220-0.23.52.258.mp3]	ninety
+Háromszázharminc forintot.	[sound:Hungarian_FSI_1_0.23.52.458-0.23.54.454.mp3]	330 forints.
+edény	[sound:Hungarian_FSI_1_0.23.55.970-0.23.56.777.mp3]	dish, utensil
+Tessék a háromszázharminc forint.	[sound:Hungarian_FSI_1_0.23.56.977-0.23.59.370.mp3]	Here's 330 forints.
+Mondja kérem, hol tudunk edényt venni?	[sound:Hungarian_FSI_1_0.24.04.267-0.24.06.579.mp3]	Tell me please, where can we buy dishes?
+megpróbálni	[sound:Hungarian_FSI_1_0.24.08.073-0.24.09.233.mp3]	to try
+A Kossuth Lajos utcában van egy edénybolt.	[sound:Hungarian_FSI_1_0.24.09.433-0.24.11.855.mp3]	There's a china shop on Lajos Kossuth street.
+Ott nagyon szep edenyek vannak.	[sound:Hungarian_FSI_1_0.24.14.473-0.24.16.273.mp3]	They have very beautiful dishes there.
+Tessék ott megpróbálni.	[sound:Hungarian_FSI_1_0.24.18.542-0.24.20.268.mp3]	Please try there.
+vagyunk	[sound:Hungarian_FSI_1_0.24.28.217-0.24.29.524.mp3]	we are
+Itt vagyunk a Kossuth Lajos utcában.	[sound:Hungarian_FSI_1_0.24.29.696-0.24.31.945.mp3]	Here we are on Louis Kossuth street.
+Milyen szép edények vannak a kirakatban!	[sound:Hungarian_FSI_1_0.24.34.851-0.24.37.654.mp3]	What beautiful dishes there are in the show window!
+porcelán	[sound:Hungarian_FSI_1_0.24.40.523-0.24.41.890.mp3]	china
+Ez herendi porcelán.	[sound:Hungarian_FSI_1_0.24.42.090-0.24.43.798.mp3]	This is Herend china.
+világ	[sound:Hungarian_FSI_1_0.24.49.003-0.24.50.082.mp3]	world
+híres	[sound:Hungarian_FSI_1_0.24.50.282-0.24.51.412.mp3]	famous
+A herendi porcelán világhíres.	[sound:Hungarian_FSI_1_0.24.51.612-0.24.54.156.mp3]	Herend china is world famous.
+Nem ismeri?	[sound:Hungarian_FSI_1_0.24.57.340-0.24.58.654.mp3]	Aren't you acquainted with it?
+Nem. Drága?	[sound:Hungarian_FSI_1_0.25.00.570-0.25.02.358.mp3]	No. Is it expensive?
+ezek	[sound:Hungarian_FSI_1_0.25.04.670-0.25.05.723.mp3]	these
+tányér	[sound:Hungarian_FSI_1_0.25.05.823-0.25.06.825.mp3]	plate
+csésze	[sound:Hungarian_FSI_1_0.25.07.025-0.25.08.017.mp3]	cup
+csészealj, -at	[sound:Hungarian_FSI_1_0.25.08.217-0.25.11.430.mp3]	saucer
+villa	[sound:Hungarian_FSI_1_0.25.11.630-0.25.12.648.mp3]	fork
+kés	[sound:Hungarian_FSI_1_0.25.12.848-0.25.13.679.mp3]	knife
+kanál, kanalat	[sound:Hungarian_FSI_1_0.25.13.879-0.25.16.294.mp3]	spoon
+Elég drága.	[sound:Hungarian_FSI_1_0.25.16.494-0.25.17.432.mp3]	Quite expensive.
+Ezek a tányérok nagyon drágák.	[sound:Hungarian_FSI_1_0.25.19.175-0.25.21.708.mp3]	These plates are very expensive.
+Vannak persze olcsó tányérok is.	[sound:Hungarian_FSI_1_0.25.24.471-0.25.27.312.mp3]	Of course we have cheap plates also.
+mennyibe kerül	[sound:Hungarian_FSI_1_0.25.32.430-0.25.33.945.mp3]	what does it cost
+Mennyibe kerül ez a hat tányér?	[sound:Hungarian_FSI_1_0.25.34.145-0.25.36.634.mp3]	How much do these six plates cost?
+Kétszáz forintba kerül.	[sound:Hungarian_FSI_1_0.25.39.304-0.25.41.404.mp3]	They cost 200 forints.
+azok	[sound:Hungarian_FSI_1_0.25.43.738-0.25.44.881.mp3]	those
+És mennyibe kerülnek azok a kékek?	[sound:Hungarian_FSI_1_0.25.48.546-0.25.51.374.mp3]	And how much do those blue ones cost?
+A kékek?	[sound:Hungarian_FSI_1_0.25.54.221-0.25.55.628.mp3]	The blue ones?
+Azok csak százhatvan forintba kerülnek.	[sound:Hungarian_FSI_1_0.25.57.045-0.25.59.741.mp3]	Those are only 160 forints.
+csomagolni	[sound:Hungarian_FSI_1_0.26.03.025-0.26.04.348.mp3]	to wrap, to pack
+csomagolja be (imperative)	[sound:Hungarian_FSI_1_0.26.04.548-0.26.06.188.mp3]	wrap, pack (command)
+A kékeket megveszem.	[sound:Hungarian_FSI_1_0.26.06.388-0.26.08.271.mp3]	I'll buy the blue ones.
+Kérem, csomagolja be.	[sound:Hungarian_FSI_1_0.26.10.503-0.26.12.302.mp3]	Please wrap them.
+Néhány poharat is szeretnék.	[sound:Hungarian_FSI_1_0.26.14.551-0.26.16.970.mp3]	I'd like a few glasses also.
+Milyen poharak vannak?	[sound:Hungarian_FSI_1_0.26.18.992-0.26.20.725.mp3]	What kind of glasses do you have?
+Milyent parancsol?	[sound:Hungarian_FSI_1_0.26.24.630-0.26.26.504.mp3]	What kind do you want?
+Valami szépet?	[sound:Hungarian_FSI_1_0.26.26.704-0.26.28.522.mp3]	Something beautiful?
+egyszerű	[sound:Hungarian_FSI_1_0.26.30.553-0.26.31.576.mp3]	plain, simple
+sima	[sound:Hungarian_FSI_1_0.26.31.776-0.26.32.662.mp3]	even, smooth, plain
+Csak egyszerű poharakat akarok venni.	[sound:Hungarian_FSI_1_0.26.32.862-0.26.35.498.mp3]	I want to buy only plain glasses.
+Ezek szépek és nem drágák.	[sound:Hungarian_FSI_1_0.26.38.028-0.26.40.594.mp3]	These are beautiful and not expensive.
+tucat	[sound:Hungarian_FSI_1_0.26.43.379-0.26.44.563.mp3]	dozen
+Adjon egy tucatot.	[sound:Hungarian_FSI_1_0.26.44.763-0.26.46.184.mp3]	Give me a dozen.
+És kérem, csomagolja be azokat is.	[sound:Hungarian_FSI_1_0.26.48.041-0.26.50.327.mp3]	And please wrap them also.
+Hol fizetek?	[sound:Hungarian_FSI_1_0.26.55.597-0.26.56.972.mp3]	Where do I pay?
+pénztár, -ak	[sound:Hungarian_FSI_1_0.26.58.826-0.27.01.908.mp3]	cash desk
+A pénztárnál.	[sound:Hungarian_FSI_1_0.27.02.108-0.27.03.626.mp3]	At the cashier's.
+elfelejteni	[sound:Hungarian_FSI_1_0.27.05.622-0.27.07.495.mp3]	to forget
+elfelejtettem	[sound:Hungarian_FSI_1_0.27.07.695-0.27.09.418.mp3]	I forgot
+aszpirin	[sound:Hungarian_FSI_1_0.27.09.618-0.27.10.817.mp3]	aspirin
+Elfelejtettem aszpirint és cigarettát venni.	[sound:Hungarian_FSI_1_0.27.11.017-0.27.14.335.mp3]	I forgot to buy some aspirin and cigarettes.
+orvosság	[sound:Hungarian_FSI_1_0.27.17.577-0.27.18.939.mp3]	medicine
+gyógyszertár	[sound:Hungarian_FSI_1_0.27.19.139-0.27.21.034.mp3]	pharmacy
+pedig	[sound:Hungarian_FSI_1_0.27.21.234-0.27.22.370.mp3]	on the other hand, however
+dohánybolt	[sound:Hungarian_FSI_1_0.27.22.570-0.27.23.928.mp3]	tobacco shop
+Orvosságot csak gyógyszertárban lehet kapni.	[sound:Hungarian_FSI_1_0.27.24.128-0.27.27.303.mp3]	You can get medicine only in a pharmacy.
+Cigarettat pedig a dohányboltban.	[sound:Hungarian_FSI_1_0.27.30.627-0.27.33.172.mp3]	Cigarettes, however, you get at the tobacco shop.
+erős	[sound:Hungarian_FSI_1_0.27.36.210-0.27.37.401.mp3]	strong
+gyenge	[sound:Hungarian_FSI_1_0.27.37.601-0.27.38.517.mp3]	mild, weak
+Lehet amerikai cigarettát kapni?	[sound:Hungarian_FSI_1_0.27.38.917-0.27.41.225.mp3]	Is it possible to get American cigarettes?
+A magyar cigaretta nagyon erős.	[sound:Hungarian_FSI_1_0.27.44.077-0.27.46.234.mp3]	Hungarian cigarettes are very strong.
+nehéz	[sound:Hungarian_FSI_1_0.27.49.016-0.27.50.100.mp3]	difficult, heavy
+szoktunk	[sound:Hungarian_FSI_1_0.27.51.483-0.27.52.659.mp3]	we usually
+Pesten nehéz kapni.	[sound:Hungarian_FSI_1_0.27.52.859-0.27.54.554.mp3]	It's difficult to get them in Pest.
+Mi Bécsben szoktunk venni.	[sound:Hungarian_FSI_1_0.27.56.710-0.27.58.750.mp3]	We usually get them in Vienna.
+jövő	[sound:Hungarian_FSI_1_0.28.01.351-0.28.02.352.mp3]	future
+jövő hét	[sound:Hungarian_FSI_1_0.28.02.552-0.28.04.045.mp3]	next week
+megyek	[sound:Hungarian_FSI_1_0.28.04.245-0.28.05.196.mp3]	I go
+maguknak (plural)	[sound:Hungarian_FSI_1_0.28.05.396-0.28.06.660.mp3]	for you, to you
+Jövő héten megyek Bécsbe.	[sound:Hungarian_FSI_1_0.28.06.760-0.28.08.796.mp3]	Next week I'm going to Vienna.
+Akkor hozok maguknak is. Jó?	[sound:Hungarian_FSI_1_0.28.12.972-0.28.16.054.mp3]	Then I'll bring some for you too. O.K.?
+hálás	[sound:Hungarian_FSI_1_0.28.17.334-0.28.18.494.mp3]	grateful
+leszek	[sound:Hungarian_FSI_1_0.28.18.694-0.28.19.772.mp3]	I'll be
+Nagyon hálás leszek, ha hoz.	[sound:Hungarian_FSI_1_0.28.19.972-0.28.21.964.mp3]	I'll be very grateful if you do.
+dohányozni	[sound:Hungarian_FSI_1_0.28.24.995-0.28.26.178.mp3]	to smoke
+dohányzik	[sound:Hungarian_FSI_1_0.28.26.378-0.28.27.518.mp3]	you smoke; he, she smokes
+Sokat dohányzik?	[sound:Hungarian_FSI_1_0.28.27.718-0.28.29.120.mp3]	Do you smoke very much?
+Sajllos, elég sokat.	[sound:Hungarian_FSI_1_0.28.30.977-0.28.32.789.mp3]	Unfortunately quite a lot.
+(A gyógyszertárban)	[sound:Hungarian_FSI_1_0.28.34.877-0.28.36.701.mp3]	(In the pharmacy)
+doboz	[sound:Hungarian_FSI_1_0.28.39.388-0.28.40.559.mp3]	box, carton
+Kérek egy doboz aszpirint.	[sound:Hungarian_FSI_1_0.28.40.759-0.28.42.817.mp3]	I want a box of aspirin.
+kötszer	[sound:Hungarian_FSI_1_0.28.48.843-0.28.50.049.mp3]	oandage
+fertőtlenítő	[sound:Hungarian_FSI_1_0.28.50.549-0.28.52.182.mp3]	disinfectant, antiseptic
+Szeretnék kötszert és fertőtlenítőt.	[sound:Hungarian_FSI_1_0.28.52.382-0.28.55.268.mp3]	I'd like some bandage and antiseptic.
+széles	[sound:Hungarian_FSI_1_0.28.58.218-0.28.59.216.mp3]	wide
+keskeny	[sound:Hungarian_FSI_1_0.28.59.416-0.29.00.343.mp3]	narrow
+Széles vagy keskeny kötszert parancsol?	[sound:Hungarian_FSI_1_0.29.00.543-0.29.03.232.mp3]	Do you want wide or narrow bandage?
+otthon	[sound:Hungarian_FSI_1_0.29.06.531-0.29.07.546.mp3]	at home
+üveg	[sound:Hungarian_FSI_1_0.29.07.746-0.29.08.690.mp3]	bottle, glass
+Keskenyet kérek.	[sound:Hungarian_FSI_1_0.29.09.190-0.29.10.586.mp3]	Narrow. (I'm asking for)
+Széles kötszer van otthon.	[sound:Hungarian_FSI_1_0.29.12.369-0.29.14.537.mp3]	We have plenty of wide bandage at home.
+És kérek egy kis üveg fertőtlenítőt.	[sound:Hungarian_FSI_1_0.29.16.600-0.29.19.113.mp3]	And I want a small bottle of antiseptic.
+Tessék. Ez összesen hetven forint.	[sound:Hungarian_FSI_1_0.29.22.870-0.29.25.996.mp3]	Here you are. That's 70 forints altogether.
+Itt van száz forint.	[sound:Hungarian_FSI_1_0.29.28.527-0.29.30.134.mp3]	Here's a hundred forints.
+vissza	[sound:Hungarian_FSI_1_0.29.32.051-0.29.33.234.mp3]	back
+visszajáró	[sound:Hungarian_FSI_1_0.29.33.434-0.29.34.831.mp3]	due (as change)
+pénz	[sound:Hungarian_FSI_1_0.29.35.031-0.29.36.364.mp3]	money
+Tessék a visszajáró pénz.	[sound:Hungarian_FSI_1_0.29.36.564-0.29.38.862.mp3]	Here's the change.
+(Az utcán)	[sound:Hungarian_FSI_1_0.29.41.433-0.29.42.753.mp3]	(On the street)
+vesz	[sound:Hungarian_FSI_1_0.29.43.153-0.29.44.020.mp3]	you buy; he, she buys
+Vesz még valami mást is?	[sound:Hungarian_FSI_1_0.29.44.220-0.29.45.964.mp3]	Are you still going to buy something more?
+gyerek	[sound:Hungarian_FSI_1_0.29.48.251-0.29.49.567.mp3]	child
+harisnya	[sound:Hungarian_FSI_1_0.29.49.767-0.29.50.826.mp3]	stocking
+szoknya	[sound:Hungarian_FSI_1_0.29.51.026-0.29.52.072.mp3]	skirt
+blúz	[sound:Hungarian_FSI_1_0.29.52.272-0.29.53.305.mp3]	blouse
+kesztyű	[sound:Hungarian_FSI_1_0.29.53.505-0.29.54.638.mp3]	glove
+fehérnemű	[sound:Hungarian_FSI_1_0.29.55.138-0.29.56.347.mp3]	underclothing, linen
+veszek	[sound:Hungarian_FSI_1_0.29.56.547-0.29.57.611.mp3]	I buy
+Még két pár gyerekharisnyát veszek.	[sound:Hungarian_FSI_1_0.29.57.811-0.30.00.414.mp3]	I'm still going to buy two pairs of children's stockings.
+Hol lehet azt kapni?	[sound:Hungarian_FSI_1_0.30.03.218-0.30.04.806.mp3]	Where can I get them?
+úttörő	[sound:Hungarian_FSI_1_0.30.07.085-0.30.08.541.mp3]	pioneer
+Talán az úttörő Áruházban.	[sound:Hungarian_FSI_1_0.30.08.941-0.30.11.072.mp3]	Perhaps in the Pioneer Store.
+akkor	[sound:Hungarian_FSI_1_0.30.13.892-0.30.14.948.mp3]	then
+Akkor menjünk oda.	[sound:Hungarian_FSI_1_0.30.15.228-0.30.16.721.mp3]	Then let's go there.
+év	[sound:Hungarian_FSI_1_0.30.19.027-0.30.19.860.mp3]	year
+éves	[sound:Hungarian_FSI_1_0.30.20.060-0.30.21.229.mp3]	years old
+hány éves	[sound:Hungarian_FSI_1_0.30.21.429-0.30.22.917.mp3]	how old
+Hány évesek a gyerekek?	[sound:Hungarian_FSI_1_0.30.23.117-0.30.25.067.mp3]	How old are the children?
+fiú	[sound:Hungarian_FSI_1_0.30.27.457-0.30.28.216.mp3]	boy
+már	[sound:Hungarian_FSI_1_0.30.28.416-0.30.29.413.mp3]	already
+elmúlt	[sound:Hungarian_FSI_1_0.30.29.813-0.30.31.109.mp3]	past, gone
+A fiú nyolc éves.	[sound:Hungarian_FSI_1_0.30.31.309-0.30.32.948.mp3]	The boy's 8 years old.
+A kislány már tizenkét éves elmúlt.	[sound:Hungarian_FSI_1_0.30.34.885-0.30.37.224.mp3]	Rhe girl's already past 12.
+járni	[sound:Hungarian_FSI_1_0.30.40.124-0.30.41.085.mp3]	to go, walk
+iskola	[sound:Hungarian_FSI_1_0.30.41.285-0.30.42.118.mp3]	school
+iskolába járni	[sound:Hungarian_FSI_1_0.30.42.518-0.30.44.102.mp3]	to attend school
+Hova járnak iskolába?	[sound:Hungarian_FSI_1_0.30.44.302-0.30.46.206.mp3]	Where do they go to school?
+elemi	[sound:Hungarian_FSI_1_0.30.48.559-0.30.49.790.mp3]	elementary, grammar
+közép	[sound:Hungarian_FSI_1_0.30.49.990-0.30.51.070.mp3]	middle
+középiskola	[sound:Hungarian_FSI_1_0.30.51.270-0.30.52.719.mp3]	high school
+A fiú az angol elemibe jár, a kislány meg középiskolába.	[sound:Hungarian_FSI_1_0.30.52.919-0.30.56.854.mp3]	The boy goes to the English grarnmar school, and the girl to high school.
+Szeretnek iskolába járni?	[sound:Hungarian_FSI_1_0.31.01.449-0.31.03.568.mp3]	Do they like to go to school?
+mind	[sound:Hungarian_FSI_1_0.31.06.311-0.31.07.205.mp3]	all, every, each
+tanuló	[sound:Hungarian_FSI_1_0.31.07.405-0.31.08.602.mp3]	student
+Igen. Mind a ketté jó tanuló.	[sound:Hungarian_FSI_1_0.31.09.747-0.31.12.573.mp3]	Yes. Both are good students.
+annak	[sound:Hungarian_FSI_1_0.31.14.469-0.31.15.644.mp3]	to that
+ennek	[sound:Hungarian_FSI_1_0.31.15.844-0.31.16.717.mp3]	to this
+igazán	[sound:Hungarian_FSI_1_0.31.16.917-0.31.17.978.mp3]	really
+örülni	[sound:Hungarian_FSI_1_0.31.18.178-0.31.19.383.mp3]	to be glad, delighted, pleased
+Annak igazán nagyon örülök.	[sound:Hungarian_FSI_1_0.31.19.583-0.31.21.653.mp3]	I'm really happy about that.
+nemsokára	[sound:Hungarian_FSI_1_0.31.24.161-0.31.25.423.mp3]	soon, before long
+Magyarország	[sound:Hungarian_FSI_1_0.31.25.623-0.31.27.159.mp3]	Hungary
+Magyarországon	[sound:Hungarian_FSI_1_0.31.27.359-0.31.28.960.mp3]	in Hungary
+Nemsokára itt van a nyár.	[sound:Hungarian_FSI_1_0.31.29.160-0.31.30.900.mp3]	Summer will soon be here.
+Milyen a nyár Magyarországon?	[sound:Hungarian_FSI_1_0.31.33.427-0.31.35.334.mp3]	What's the summer like in Hungary?
+kellemes	[sound:Hungarian_FSI_1_0.31.37.760-0.31.40.199.mp3]	pleasant, agreeable
+lakás	[sound:Hungarian_FSI_1_0.31.40.399-0.31.41.598.mp3]	apartment, flat
+lakásuk	[sound:Hungarian_FSI_1_0.31.41.798-0.31.42.831.mp3]	your, their apartment
+hűvös	[sound:Hungarian_FSI_1_0.31.43.031-0.31.44.085.mp3]	cool
+Nagyon kellemes.	[sound:Hungarian_FSI_1_0.31.44.285-0.31.45.613.mp3]	Very pleasant.
+Nem túl meleg.	[sound:Hungarian_FSI_1_0.31.47.520-0.31.49.197.mp3]	Not too hot.
+Milyen a lakásuk?	[sound:Hungarian_FSI_1_0.31.50.911-0.31.52.734.mp3]	How's your apartment?
+Elég hűvös?	[sound:Hungarian_FSI_1_0.31.54.887-0.31.56.363.mp3]	Cool enough?
+Budán	[sound:Hungarian_FSI_1_0.31.58.150-0.31.59.293.mp3]	in Buda
+lakni	[sound:Hungarian_FSI_1_0.31.59.493-0.32.00.608.mp3]	to dwell, live in
+szoba	[sound:Hungarian_FSI_1_0.32.00.808-0.32.01.758.mp3]	room
+Igen. Budán lakunk egy nagy lakásban.	[sound:Hungarian_FSI_1_0.32.03.091-0.32.06.095.mp3]	Yes. We live in a big apartment in Buda.
+A szobák elég hűvösek.	[sound:Hungarian_FSI_1_0.32.08.393-0.32.10.457.mp3]	The rooms are quite cool.
+berendezve	[sound:Hungarian_FSI_1_0.32.12.039-0.32.13.141.mp3]	furnished
+Már be van a lakás rendezve?	[sound:Hungarian_FSI_1_0.32.13.341-0.32.15.707.mp3]	Is the apartment already furnished?
+egészen	[sound:Hungarian_FSI_1_0.32.18.764-0.32.19.983.mp3]	completely
+radió	[sound:Hungarian_FSI_1_0.32.20.183-0.32.21.441.mp3]	radio
+lámpa	[sound:Hungarian_FSI_1_0.32.21.641-0.32.22.753.mp3]	lamp
+kép	[sound:Hungarian_FSI_1_0.32.22.953-0.32.24.070.mp3]	pieture
+ágy	[sound:Hungarian_FSI_1_0.32.24.270-0.32.25.037.mp3]	bed
+szekrény	[sound:Hungarian_FSI_1_0.32.25.237-0.32.26.265.mp3]	wardrobe, eabinet, closet
+asztal	[sound:Hungarian_FSI_1_0.32.26.465-0.32.27.581.mp3]	table
+Még nem egészen.	[sound:Hungarian_FSI_1_0.32.28.081-0.32.29.434.mp3]	Not completely yet.
+Egy rádiót és néhány lámpát kell venni.	[sound:Hungarian_FSI_1_0.32.31.517-0.32.34.554.mp3]	We have to buy a radio and a few lamps.
+remélni	[sound:Hungarian_FSI_1_0.32.37.605-0.32.38.898.mp3]	to hope
+remélem	[sound:Hungarian_FSI_1_0.32.39.098-0.32.40.269.mp3]	I hope
+Remélem, talál szép lámpákat.	[sound:Hungarian_FSI_1_0.32.40.469-0.32.43.000.mp3]	I hope you find niee lamps.
+De most megyek. Viszontlátásra.	[sound:Hungarian_FSI_1_0.32.47.323-0.32.50.727.mp3]	But I've got to go now. See you later.
+fekete	[sound:Hungarian_FSI_1_0.32.58.018-0.32.59.363.mp3]	black
+vacsora	[sound:Hungarian_FSI_1_0.32.59.563-0.33.00.533.mp3]	supper, dinner (evening meal)
+vacsorára	[sound:Hungarian_FSI_1_0.33.00.733-0.33.01.987.mp3]	for supper
+vacsorázni	[sound:Hungarian_FSI_1_0.33.02.187-0.33.03.276.mp3]	to eat supper
+hívni	[sound:Hungarian_FSI_1_0.33.03.476-0.33.04.625.mp3]	to invite, call
+hívtak	[sound:Hungarian_FSI_1_0.33.04.825-0.33.05.908.mp3]	you, they invited
+házaspár	[sound:Hungarian_FSI_1_0.33.06.108-0.33.07.271.mp3]	married couple
+Feketéék vacsorára hívtak egy amerikai házaspárt, Johnsonekat.	[sound:Hungarian_FSI_1_0.33.07.471-0.33.11.908.mp3]	The Blacks have invited an American couple, the Johnsons, for supper.
+virág	[sound:Hungarian_FSI_1_0.33.15.758-0.33.16.609.mp3]	flower
+vinni	[sound:Hungarian_FSI_1_0.33.16.809-0.33.17.961.mp3]	to carry, take
+visz	[sound:Hungarian_FSI_1_0.33.18.161-0.33.19.215.mp3]	you carry, take; he, she, it carries, takes
+háziasszony	[sound:Hungarian_FSI_1_0.33.19.415-0.33.20.839.mp3]	the lady of the house, landlady
+a háziasszonynak	[sound:Hungarian_FSI_1_0.33.21.039-0.33.22.442.mp3]	to the lady of the house
+Johnson úr virágot visz a háziasszonynak.	[sound:Hungarian_FSI_1_0.33.22.642-0.33.25.412.mp3]	Mr. Johnson brings flowers for the hostess.
+bemutatni	[sound:Hungarian_FSI_1_0.33.27.826-0.33.28.948.mp3]	to introduce
+bemutatom	[sound:Hungarian_FSI_1_0.33.29.148-0.33.30.145.mp3]	I introduce
+Éva	[sound:Hungarian_FSI_1_0.33.30.345-0.33.31.654.mp3]	Eve
+találkoztak	[sound:Hungarian_FSI_1_0.33.31.854-0.33.33.319.mp3]	you, they met
+Bemutatom a feleségemet, Évát.	[sound:Hungarian_FSI_1_0.33.37.727-0.33.40.148.mp3]	Let me introduce my wife, Eve.
+Azt hiszem, még nem találkoztak.	[sound:Hungarian_FSI_1_0.33.43.138-0.33.45.386.mp3]	I don't believe you've met yet.
+Isten	[sound:Hungarian_FSI_1_0.33.48.281-0.33.49.337.mp3]	God
+hozta	[sound:Hungarian_FSI_1_0.33.49.637-0.33.50.654.mp3]	you, he, she, it brought
+férj	[sound:Hungarian_FSI_1_0.33.50.854-0.33.51.825.mp3]	husband
+a férjem	[sound:Hungarian_FSI_1_0.33.52.025-0.33.53.297.mp3]	my husband
+magukról	[sound:Hungarian_FSI_1_0.33.53.497-0.33.54.772.mp3]	from you
+Isten hozta magukat!	[sound:Hungarian_FSI_1_0.33.54.972-0.33.56.738.mp3]	Welcome to our home!
+A férjem gyakran beszél magukról.	[sound:Hungarian_FSI_1_0.33.58.774-0.34.00.936.mp3]	My husband often speaks about you.
+mindenhol	[sound:Hungarian_FSI_1_0.34.11.639-0.34.12.973.mp3]	everywhere, all over
+fa	[sound:Hungarian_FSI_1_0.34.13.173-0.34.13.738.mp3]	tree, wood
+kert	[sound:Hungarian_FSI_1_0.34.13.938-0.34.14.605.mp3]	garden
+Mindenhol fák és kertek vannak a városban.	[sound:Hungarian_FSI_1_0.34.17.640-0.34.20.640.mp3]	There are trees and gardens everywhere in the city.
+Sok szép virág van minden kertben.	[sound:Hungarian_FSI_1_0.34.24.039-0.34.26.606.mp3]	And so many beautiful flowers in every garden!
+tavasz	[sound:Hungarian_FSI_1_0.34.29.118-0.34.30.059.mp3]	spring
+tavasszal	[sound:Hungarian_FSI_1_0.34.30.259-0.34.31.422.mp3]	in spring
+Igen, a város nagyon szép tavasszal.	[sound:Hungarian_FSI_1_0.34.31.822-0.34.34.743.mp3]	Yes, the city is very beautiful in the springtime.
+nemcsak	[sound:Hungarian_FSI_1_0.34.37.803-0.34.38.714.mp3]	not only
+ősz, -ök	[sound:Hungarian_FSI_1_0.34.39.214-0.34.41.282.mp3]	autumn, fall
+ősszel	[sound:Hungarian_FSI_1_0.34.41.482-0.34.42.412.mp3]	in the autumn
+tél, telet, (télen)	[sound:Hungarian_FSI_1_0.34.42.612-0.34.45.444.mp3]	winter, (in winter)
+Nemcsak tavasszal szép, hanem ősszel is.	[sound:Hungarian_FSI_1_0.34.45.644-0.34.48.491.mp3]	It's beautiful not only in spring but in the fall also.
+hegy	[sound:Hungarian_FSI_1_0.34.51.230-0.34.52.232.mp3]	mountain, hill
+völgy	[sound:Hungarian_FSI_1_0.34.52.432-0.34.53.040.mp3]	valley
+erdő	[sound:Hungarian_FSI_1_0.34.53.240-0.34.54.049.mp3]	forest, woods
+környék	[sound:Hungarian_FSI_1_0.34.54.249-0.34.55.087.mp3]	surroundings, vicinity
+a környéken	[sound:Hungarian_FSI_1_0.34.55.287-0.34.56.239.mp3]	in the vicinity
+Sok hegy és erdő van a környéken.	[sound:Hungarian_FSI_1_0.34.56.439-0.34.58.963.mp3]	There are many hills and forests in the vicinity.
+szoktak	[sound:Hungarian_FSI_1_0.35.01.512-0.35.02.504.mp3]	you, they usually
+kirándulni	[sound:Hungarian_FSI_1_0.35.02.704-0.35.03.821.mp3]	to make, to go on an excursion
+Szoktak gyakran kirándulni a hegyekbe?	[sound:Hungarian_FSI_1_0.35.04.021-0.35.06.735.mp3]	Do you often go hiking in the mountains?
+vasárnap	[sound:Hungarian_FSI_1_0.35.09.676-0.35.10.955.mp3]	Sunday, on Sunday
+mindig	[sound:Hungarian_FSI_1_0.35.11.155-0.35.12.083.mp3]	always
+fel	[sound:Hungarian_FSI_1_0.35.12.283-0.35.12.785.mp3]	up
+megyünk	[sound:Hungarian_FSI_1_0.35.12.985-0.35.13.885.mp3]	we go
+szeretni	[sound:Hungarian_FSI_1_0.35.14.085-0.35.15.232.mp3]	to love
+halaszni	[sound:Hungarian_FSI_1_0.35.15.432-0.35.16.504.mp3]	to fish
+patak	[sound:Hungarian_FSI_1_0.35.16.704-0.35.17.647.mp3]	creek, brook, stream
+folyó	[sound:Hungarian_FSI_1_0.35.17.847-0.35.18.559.mp3]	river
+tó, tavat	[sound:Hungarian_FSI_1_0.35.19.047-0.35.20.855.mp3]	lake
+Igen. Vasárnap mindig felmegyünk a hegyekbe.	[sound:Hungarian_FSI_1_0.35.22.180-0.35.25.337.mp3]	Yes. On Sundays we always go up into the mountains.
+A gyerekek szeretnek halászni a patakban.	[sound:Hungarian_FSI_1_0.35.28.004-0.35.30.802.mp3]	The children like to fish in the creek.
+konyak	[sound:Hungarian_FSI_1_0.35.33.684-0.35.34.672.mp3]	cognac
+Egy kis sört vagy konyakot parancsolnak?	[sound:Hungarian_FSI_1_0.35.34.872-0.35.37.533.mp3]	Would you like some beer or cognac?
+inni	[sound:Hungarian_FSI_1_0.35.40.943-0.35.41.843.mp3]	to drink
+iszom	[sound:Hungarian_FSI_1_0.35.42.043-0.35.42.802.mp3]	I drink
+Köszönöm szépen, én nem iszom semmit.	[sound:Hungarian_FSI_1_0.35.43.002-0.35.45.786.mp3]	Thank you very much, but I don't drink anything.
+iszik	[sound:Hungarian_FSI_1_0.35.48.696-0.35.49.703.mp3]	you drink; he, she drinks
+És maga, Johnson úr?	[sound:Hungarian_FSI_1_0.35.49.903-0.35.51.236.mp3]	And you, Mr. Johnson?
+Mit iszik?	[sound:Hungarian_FSI_1_0.35.53.402-0.35.54.581.mp3]	What will you have?
+Én egy kis sört kérek.	[sound:Hungarian_FSI_1_0.35.55.917-0.35.57.975.mp3]	I want some beer.
+Egyesült Államok	[sound:Hungarian_FSI_1_0.36.00.728-0.36.02.589.mp3]	United States
+Mi újság az Egyesült Allamokban?	[sound:Hungarian_FSI_1_0.36.02.789-0.36.04.921.mp3]	What's the latest in the United States?
+nincs, nincsen	[sound:Hungarian_FSI_1_0.36.07.553-0.36.09.790.mp3]	there isn't; you aren't; he, she, it isn't
+régi, -ek	[sound:Hungarian_FSI_1_0.36.09.990-0.36.11.990.mp3]	old, ancient
+Nincs semmi újság.	[sound:Hungarian_FSI_1_0.36.12.190-0.36.13.878.mp3]	There's no news.
+Minden a régi.	[sound:Hungarian_FSI_1_0.36.15.730-0.36.17.115.mp3]	Everything is just as before.
+Milyen szép nagy ez a lakás!	[sound:Hungarian_FSI_1_0.36.18.589-0.36.21.157.mp3]	What a lovely, big apartment this is!
+Örülök, hogy tetszik.	[sound:Hungarian_FSI_1_0.36.24.291-0.36.26.231.mp3]	I'm glad you like it.
+Maguk hol laknak?	[sound:Hungarian_FSI_1_0.36.28.318-0.36.29.968.mp3]	Where do you live?
+mert	[sound:Hungarian_FSI_1_0.36.31.935-0.36.32.988.mp3]	because
+konyha	[sound:Hungarian_FSI_1_0.36.33.188-0.36.33.817.mp3]	kitchen
+modern	[sound:Hungarian_FSI_1_0.36.33.973-0.36.34.629.mp3]	modern
+keresni	[sound:Hungarian_FSI_1_0.36.34.818-0.36.35.821.mp3]	to look for
+másik	[sound:Hungarian_FSI_1_0.36.36.021-0.36.36.760.mp3]	other
+A Kossuth Lajos utcában.	[sound:Hungarian_FSI_1_0.36.36.960-0.36.38.580.mp3]	On Kossuth Lajos Street.
+De nem szeretek ott lakni, mert a konyha nem modern.	[sound:Hungarian_FSI_1_0.36.40.480-0.36.43.758.mp3]	But I don't like to live there, because the kitchen isn't modern.
+Keresünk egy másik lakást.	[sound:Hungarian_FSI_1_0.36.47.577-0.36.49.577.mp3]	we're looking for another apartment.
+ebben	[sound:Hungarian_FSI_1_0.36.52.216-0.36.53.252.mp3]	in this
+abban	[sound:Hungarian_FSI_1_0.36.53.452-0.36.54.335.mp3]	in that
+kiadó	[sound:Hungarian_FSI_1_0.36.54.535-0.36.55.396.mp3]	for rent, to let
+mögött	[sound:Hungarian_FSI_1_0.36.55.735-0.36.56.669.mp3]	behind
+Ebben az utcában van egy ház kiadó.	[sound:Hungarian_FSI_1_0.36.56.869-0.36.59.333.mp3]	There's a house for rent on this street.
+A ház mögött nagy kert van.	[sound:Hungarian_FSI_1_0.37.02.486-0.37.04.720.mp3]	Behind the house is a big garden.
+Hány szoba van a házban?	[sound:Hungarian_FSI_1_0.37.07.259-0.37.09.364.mp3]	How many rooms are there in the house?
+ebédlő	[sound:Hungarian_FSI_1_0.37.11.831-0.37.13.032.mp3]	dining room
+nappali	[sound:Hungarian_FSI_1_0.37.13.232-0.37.14.094.mp3]	living room
+dohányzó	[sound:Hungarian_FSI_1_0.37.14.294-0.37.15.262.mp3]	smoker
+hálószoba	[sound:Hungarian_FSI_1_0.37.15.462-0.37.16.569.mp3]	bedroom
+természetesen	[sound:Hungarian_FSI_1_0.37.16.769-0.37.18.533.mp3]	of course, naturally
+fürdőszoba	[sound:Hungarian_FSI_1_0.37.18.633-0.37.19.712.mp3]	bathroom
+egy ebédlő, egy nappali, egy dohányzó, harom halószoba és természetesen konyha és fürdőszoba.	[sound:Hungarian_FSI_1_0.37.23.984-0.37.31.196.mp3]	a dining room, a living room, a study, three bedrooms, and, of course, a kitchen and a bathroom.
+megnézni	[sound:Hungarian_FSI_1_0.37.37.907-0.37.39.153.mp3]	to look at
+megnézem	[sound:Hungarian_FSI_1_0.37.39.416-0.37.40.482.mp3]	I look at
+megfelelni	[sound:Hungarian_FSI_1_0.37.40.682-0.37.41.953.mp3]	to be suitable
+cím	[sound:Hungarian_FSI_1_0.37.42.153-0.37.43.089.mp3]	address
+Holnap megnézem.	[sound:Hungarian_FSI_1_0.37.43.353-0.37.44.918.mp3]	I'm going to look at it tomorrow.
+Talán megfelel.	[sound:Hungarian_FSI_1_0.37.46.495-0.37.48.022.mp3]	Perhaps it'll be suitable.
+Szabad kérnem a címet?	[sound:Hungarian_FSI_1_0.37.49.829-0.37.51.684.mp3]	May I have the address?
+költő	[sound:Hungarian_FSI_1_0.37.53.908-0.37.54.902.mp3]	poet
+kész	[sound:Hungarian_FSI_1_0.37.56.388-0.37.57.227.mp3]	ready
+Költő utca huszonhat.	[sound:Hungarian_FSI_1_0.37.57.427-0.37.59.303.mp3]	26 Költő Street.
+De most menjünk az ebédlőbe.	[sound:Hungarian_FSI_1_0.38.01.259-0.38.03.100.mp3]	But now let's go into the dining room.
+Kész a vacsora.	[sound:Hungarian_FSI_1_0.38.05.281-0.38.06.603.mp3]	Dinner's ready.
+be	[sound:Hungarian_FSI_1_0.38.08.433-0.38.09.194.mp3]	into, in
+mennek	[sound:Hungarian_FSI_1_0.38.09.494-0.38.10.460.mp3]	you, they go
+(Bemennek az ebédlőbe.)	[sound:Hungarian_FSI_1_0.38.10.642-0.38.12.139.mp3]	(They go into the diuing room.)
+váza	[sound:Hungarian_FSI_1_0.38.14.809-0.38.15.798.mp3]	vase
+Milyen gyönyörű rózsák vannak a vázában!	[sound:Hungarian_FSI_1_0.38.15.998-0.38.18.910.mp3]	What beautiful roses there are in the vase!
+nap	[sound:Hungarian_FSI_1_0.38.21.842-0.38.22.506.mp3]	day, sun
+mindennap	[sound:Hungarian_FSI_1_0.38.22.706-0.38.23.649.mp3]	every day, daily
+friss	[sound:Hungarian_FSI_1_0.38.23.849-0.38.24.439.mp3]	fresh
+tenni	[sound:Hungarian_FSI_1_0.38.24.639-0.38.25.555.mp3]	to put
+teszek	[sound:Hungarian_FSI_1_0.38.25.655-0.38.26.428.mp3]	I put
+Mindennap friss virágot teszek a vázákba.	[sound:Hungarian_FSI_1_0.38.26.628-0.38.29.309.mp3]	I put fresh flowers in the vases every day.
+zongora	[sound:Hungarian_FSI_1_0.38.32.120-0.38.33.228.mp3]	piano
+zongorázni	[sound:Hungarian_FSI_1_0.38.33.728-0.38.35.008.mp3]	to play the piano
+zongorázik	[sound:Hungarian_FSI_1_0.38.35.208-0.38.36.409.mp3]	you play; he, she plays the piano
+Egy fekete zongorát láttam a másik szobában.	[sound:Hungarian_FSI_1_0.38.36.609-0.38.39.692.mp3]	I saw a black piano in the other room.
+Ki zongorázik?	[sound:Hungarian_FSI_1_0.38.42.845-0.38.44.325.mp3]	Who plays it?
+játszani	[sound:Hungarian_FSI_1_0.38.46.216-0.38.47.400.mp3]	to play
+játszik	[sound:Hungarian_FSI_1_0.38.47.600-0.38.48.610.mp3]	you play; he, she plays
+A feleségem játszik.	[sound:Hungarian_FSI_1_0.38.48.810-0.38.50.659.mp3]	My wife does.
+zene	[sound:Hungarian_FSI_1_0.38.52.808-0.38.53.755.mp3]	music
+klasszikus	[sound:Hungarian_FSI_1_0.38.53.955-0.38.55.262.mp3]	classic, classical
+Modern vagy klasszikus zenét játszik?	[sound:Hungarian_FSI_1_0.38.55.462-0.38.57.778.mp3]	Does she play modern or classical music?
+főleg	[sound:Hungarian_FSI_1_0.39.00.867-0.39.01.931.mp3]	mainly, especially
+lemez	[sound:Hungarian_FSI_1_0.39.02.131-0.39.03.167.mp3]	record
+lemezjátszó	[sound:Hungarian_FSI_1_0.39.03.367-0.39.04.884.mp3]	phonograph
+Főleg klasszikusokat.	[sound:Hungarian_FSI_1_0.39.05.084-0.39.07.097.mp3]	Classical for the most part.
+De van egy lemezjátszó és néhány modern lemez a másik szobában.	[sound:Hungarian_FSI_1_0.39.09.541-0.39.13.751.mp3]	But we have a phonograph and some modern records in the other room.
+dal	[sound:Hungarian_FSI_1_0.39.18.666-0.39.19.475.mp3]	song
+népdal	[sound:Hungarian_FSI_1_0.39.19.875-0.39.20.792.mp3]	folksong
+cigány	[sound:Hungarian_FSI_1_0.39.20.992-0.39.21.671.mp3]	gypsy
+szeretem	[sound:Hungarian_FSI_1_0.39.21.871-0.39.22.992.mp3]	I like
+Vannak népdalok is?	[sound:Hungarian_FSI_1_0.39.23.192-0.39.24.882.mp3]	Do you have folksongs also?
+Nagyon szeretem a magyar népdalokat és a cigányzenét.	[sound:Hungarian_FSI_1_0.39.26.567-0.39.29.970.mp3]	I like Hungarian folksongs and gypsy music very much.
+nincsenek	[sound:Hungarian_FSI_1_0.39.33.216-0.39.34.254.mp3]	there aren't; you, they aren't
+játszom	[sound:Hungarian_FSI_1_0.39.34.454-0.39.35.487.mp3]	I play
+zongorán	[sound:Hungarian_FSI_1_0.39.35.687-0.39.36.834.mp3]	on the piano
+Sajnos, azok nincsenek.	[sound:Hungarian_FSI_1_0.39.37.034-0.39.38.992.mp3]	Unfortunately we don't have any.
+De szívesen játszom néhány magyar dalt a zongorán.	[sound:Hungarian_FSI_1_0.39.41.251-0.39.44.431.mp3]	But I'll be happy to play some Hungarian songs on the piano.
+onnan	[sound:Hungarian_FSI_1_0.39.48.312-0.39.49.179.mp3]	from there
+innen	[sound:Hungarian_FSI_1_0.39.49.379-0.39.50.390.mp3]	from here
+kilátás	[sound:Hungarian_FSI_1_0.39.50.590-0.39.51.919.mp3]	view, sight
+eszünk	[sound:Hungarian_FSI_1_0.39.52.119-0.39.53.315.mp3]	we eat
+fagylalt	[sound:Hungarian_FSI_1_0.39.53.515-0.39.54.518.mp3]	ice cream
+iszunk	[sound:Hungarian_FSI_1_0.39.54.718-0.39.55.906.mp3]	we drink
+Menjünk ki a kertbe.	[sound:Hungarian_FSI_1_0.39.56.106-0.39.57.687.mp3]	Let's go out into the garden.
+Onnan szép a kilátás.	[sound:Hungarian_FSI_1_0.40.00.288-0.40.02.099.mp3]	The view from there is lovely.
+Ott eszünk egy kis fagylaltot és iszunk valamit.	[sound:Hungarian_FSI_1_0.40.04.676-0.40.07.942.mp3]	There we'll have some ice cream and something to drink.
+eszem	[sound:Hungarian_FSI_1_0.40.11.299-0.40.12.340.mp3]	I eat
+sohasem	[sound:Hungarian_FSI_1_0.40.12.740-0.40.13.801.mp3]	never
+Köszonom, én nem eszem sohasem fagylaltot.	[sound:Hungarian_FSI_1_0.40.14.301-0.40.17.195.mp3]	Thank you, I never eat ice cream.
+eszik	[sound:Hungarian_FSI_1_0.40.20.097-0.40.21.006.mp3]	you eat; he, she eats
+És maga, asszonyom?	[sound:Hungarian_FSI_1_0.40.21.206-0.40.22.608.mp3]	And you, Madam?
+Eszik egy kis fagylaltot?	[sound:Hungarian_FSI_1_0.40.24.757-0.40.26.680.mp3]	Will you have a little ice cream?
+Szívesen.	[sound:Hungarian_FSI_1_0.40.29.218-0.40.30.360.mp3]	Yes, thank you.
+barack	[sound:Hungarian_FSI_1_0.40.31.741-0.40.32.717.mp3]	apricot
+pálinka	[sound:Hungarian_FSI_1_0.40.33.117-0.40.34.353.mp3]	brandy
+Parancsol egy kis barackpálinkát, Johnson úr?	[sound:Hungarian_FSI_1_0.40.34.753-0.40.37.537.mp3]	Would you like some apricot brandy, Mr. Johnson?
+kevés	[sound:Hungarian_FSI_1_0.40.40.896-0.40.41.931.mp3]	little, few
+Köszönöm, egy keveset kérek.	[sound:Hungarian_FSI_1_0.40.42.131-0.40.44.011.mp3]	Thank you, a small amount.
+egészség	[sound:Hungarian_FSI_1_0.40.46.421-0.40.47.679.mp3]	health
+Egészségére!	[sound:Hungarian_FSI_1_0.40.47.879-0.40.49.454.mp3]	To your health!
+(Isznak.)	[sound:Hungarian_FSI_1_0.40.51.507-0.40.52.865.mp3]	(They drink.)
+(Johnson megnézi az órát.)	[sound:Hungarian_FSI_1_0.40.53.891-0.40.55.892.mp3]	(Johnson looks at his watch.)
+késő	[sound:Hungarian_FSI_1_0.40.56.092-0.40.56.951.mp3]	late
+fél tizenkettő	[sound:Hungarian_FSI_1_0.40.57.451-0.40.59.061.mp3]	half past eleven
+negyed tizenkettő	[sound:Hungarian_FSI_1_0.40.59.261-0.41.00.854.mp3]	quarter past eleven
+háromnegyed tizenkettő	[sound:Hungarian_FSI_1_0.41.01.054-0.41.02.967.mp3]	quarter to twelve
+haza	[sound:Hungarian_FSI_1_0.41.03.167-0.41.03.886.mp3]	home
+Nagyon késó van, már fél tizenkettő.	[sound:Hungarian_FSI_1_0.41.04.286-0.41.07.042.mp3]	It's very late, half past eleven already.
+Sajnos, haza kell menni.	[sound:Hungarian_FSI_1_0.41.09.987-0.41.11.949.mp3]	I'm afraid we'll have to go home.
+köszönjük	[sound:Hungarian_FSI_1_0.41.14.037-0.41.15.320.mp3]	we thank.
+meglátogatni	[sound:Hungarian_FSI_1_0.41.15.520-0.41.16.818.mp3]	to visit
+minket	[sound:Hungarian_FSI_1_0.41.17.018-0.41.18.011.mp3]	us
+Nagyon köszönjük ezt a kellemes estét.	[sound:Hungarian_FSI_1_0.41.18.511-0.41.20.776.mp3]	Thank you very much for the delightful evening.
+Remélem, hogy maguk is nemsokára meglátogatnak minket.	[sound:Hungarian_FSI_1_0.41.23.844-0.41.27.309.mp3]	I hope that you also will come to visit us soon.
+ma	[sound:Hungarian_FSI_1_0.41.36.081-0.41.36.721.mp3]	today
+Hova megyünk ma?	[sound:Hungarian_FSI_1_0.41.36.807-0.41.38.164.mp3]	Where are we going today?
+nemzeti	[sound:Hungarian_FSI_1_0.41.39.593-0.41.40.627.mp3]	national
+bank	[sound:Hungarian_FSI_1_0.41.40.827-0.41.41.669.mp3]	bank
+csekk	[sound:Hungarian_FSI_1_0.41.41.869-0.41.42.668.mp3]	check
+beváltani	[sound:Hungarian_FSI_1_0.41.42.868-0.41.44.187.mp3]	to cash
+Először menjünk a Magyar Nemzeti Bankba.	[sound:Hungarian_FSI_1_0.41.44.387-0.41.47.117.mp3]	Let's first go to the Hungarian National Bank.
+Egy csekket akarok beváltani.	[sound:Hungarian_FSI_1_0.41.50.029-0.41.52.099.mp3]	I want to cash a check.
+Azután találkozunk Nagy Jánossal.	[sound:Hungarian_FSI_1_0.41.54.306-0.41.56.922.mp3]	Afterwards we'll meet John Nagy.
+Megnézzük a várost.	[sound:Hungarian_FSI_1_0.41.59.233-0.42.00.869.mp3]	We're going to see the city.
+melyik	[sound:Hungarian_FSI_1_0.42.02.794-0.42.03.836.mp3]	which
+fiók	[sound:Hungarian_FSI_1_0.42.03.993-0.42.04.760.mp3]	branch, sub-office
+Melyik bankfiókba akar menni?	[sound:Hungarian_FSI_1_0.42.04.960-0.42.06.921.mp3]	What branch office do you wanr to go to?
+úgy	[sound:Hungarian_FSI_1_0.42.09.138-0.42.10.038.mp3]	so, like
+úgy tudom	[sound:Hungarian_FSI_1_0.42.10.238-0.42.11.498.mp3]	as far as I know
+városháza	[sound:Hungarian_FSI_1_0.42.11.698-0.42.13.212.mp3]	city hall
+mellett	[sound:Hungarian_FSI_1_0.42.13.412-0.42.14.461.mp3]	next to, beside, by
+Úgy tudom, a városháza mellett van egy.	[sound:Hungarian_FSI_1_0.42.14.661-0.42.17.554.mp3]	I think there's one next to the city hall.
+Tudja, hogy hol van a városháza?	[sound:Hungarian_FSI_1_0.42.20.679-0.42.23.092.mp3]	Do you know where the city hall is?
+engem	[sound:Hungarian_FSI_1_0.42.25.631-0.42.26.927.mp3]	me
+hiaba	[sound:Hungarian_FSI_1_0.42.27.127-0.42.28.078.mp3]	in vain
+kérdezni, megkérdezni	[sound:Hungarian_FSI_1_0.42.28.278-0.42.31.288.mp3]	to ask (a question)
+miért	[sound:Hungarian_FSI_1_0.42.31.488-0.42.32.410.mp3]	why
+portás	[sound:Hungarian_FSI_1_0.42.32.610-0.42.33.839.mp3]	doorman, porter
+Nem tudom, engem hiába kérdez.	[sound:Hungarian_FSI_1_0.42.34.239-0.42.36.982.mp3]	I don't know - no use asking me.
+Miért nem kérdezi meg a portást?	[sound:Hungarian_FSI_1_0.42.42.265-0.42.44.676.mp3]	Why don't you ask the doorman?
+Jó, megkérdezem.	[sound:Hungarian_FSI_1_0.42.45.076-0.42.46.824.mp3]	AlI right, I'll ask hím.
+megtalálni	[sound:Hungarian_FSI_1_0.42.48.810-0.42.49.971.mp3]	to find
+Mondja kérem, hol van a városháza?	[sound:Hungarian_FSI_1_0.42.50.371-0.42.53.064.mp3]	Will you tell me, please, where the city hall is?
+Hogy találom meg?	[sound:Hungarian_FSI_1_0.42.56.066-0.42.57.481.mp3]	How can I find it?
+menjen (imperative)	[sound:Hungarian_FSI_1_0.42.59.728-0.43.00.740.mp3]	go (command)
+belváros	[sound:Hungarian_FSI_1_0.43.00.940-0.43.02.019.mp3]	downtown
+külváros	[sound:Hungarian_FSI_1_0.43.02.219-0.43.03.398.mp3]	suburb
+autóbusz	[sound:Hungarian_FSI_1_0.43.03.598-0.43.04.976.mp3]	bus
+autóbuszon	[sound:Hungarian_FSI_1_0.43.05.176-0.43.06.762.mp3]	on bus
+villamos	[sound:Hungarian_FSI_1_0.43.06.962-0.43.08.153.mp3]	streetcar
+Menjen be autóbuszon vagy villamoson a belvárosba.	[sound:Hungarian_FSI_1_0.43.08.353-0.43.11.632.mp3]	Go downtown by bus or by streetcar.
+megálló	[sound:Hungarian_FSI_1_0.43.15.688-0.43.16.828.mp3]	stop, stopping place
+Hol van az autóbuszmegálló?	[sound:Hungarian_FSI_1_0.43.17.228-0.43.19.410.mp3]	Where's the bus stop?
+éppen	[sound:Hungarian_FSI_1_0.43.21.370-0.43.22.355.mp3]	exactly
+ajtó	[sound:Hungarian_FSI_1_0.43.22.755-0.43.23.791.mp3]	door
+ablak	[sound:Hungarian_FSI_1_0.43.23.991-0.43.25.139.mp3]	window
+előtt	[sound:Hungarian_FSI_1_0.43.25.339-0.43.26.480.mp3]	before, in front of
+park	[sound:Hungarian_FSI_1_0.43.26.680-0.43.27.563.mp3]	park
+Éppen az ajtó előtt van.	[sound:Hungarian_FSI_1_0.43.27.963-0.43.29.708.mp3]	It's just in front of the door.
+A villamosmegálló pedig a park mellett van.	[sound:Hungarian_FSI_1_0.43.32.310-0.43.35.308.mp3]	However, the streetcar stop is right next to the park.
+leszállni	[sound:Hungarian_FSI_1_0.43.38.675-0.43.39.951.mp3]	to get off
+felszállni	[sound:Hungarian_FSI_1_0.43.40.151-0.43.41.437.mp3]	to get on
+Hol kell leszállni?	[sound:Hungarian_FSI_1_0.43.41.637-0.43.43.272.mp3]	Where do I have to get off?
+jegy	[sound:Hungarian_FSI_1_0.43.45.411-0.43.46.324.mp3]	ticket
+jegyszedő	[sound:Hungarian_FSI_1_0.43.46.524-0.43.47.610.mp3]	ticket collector
+majd	[sound:Hungarian_FSI_1_0.43.47.810-0.43.48.634.mp3]	then, later
+megmondani	[sound:Hungarian_FSI_1_0.43.48.834-0.43.50.277.mp3]	to tell
+A jegyszedő majd megmondja, hol kell leszállni.	[sound:Hungarian_FSI_1_0.43.50.477-0.43.53.472.mp3]	The driver will tell you later where you have to get off.
+konzulátus	[sound:Hungarian_FSI_1_0.43.56.751-0.43.58.101.mp3]	consulate
+Hol van az amerikai konzulátus?	[sound:Hungarian_FSI_1_0.44.00.136-0.44.02.265.mp3]	Where's the American Consulate?
+szabadság	[sound:Hungarian_FSI_1_0.44.02.465-0.44.03.496.mp3]	freedom, liberty
+tér, teret	[sound:Hungarian_FSI_1_0.44.03.696-0.44.05.759.mp3]	square
+a téren	[sound:Hungarian_FSI_1_0.44.05.810-0.44.06.830.mp3]	on the square
+A Nemzeti Bank mellett van, a Szabadság téren.	[sound:Hungarian_FSI_1_0.44.07.330-0.44.10.090.mp3]	It's next to the National Bank, on Liberty Square.
+szombat	[sound:Hungarian_FSI_1_0.44.13.661-0.44.14.900.mp3]	Saturday
+hétfő	[sound:Hungarian_FSI_1_0.44.15.100-0.44.15.929.mp3]	Monday
+kedd	[sound:Hungarian_FSI_1_0.44.16.129-0.44.16.797.mp3]	Tuesday
+szerda	[sound:Hungarian_FSI_1_0.44.16.997-0.44.18.127.mp3]	Wednesday
+csütörtök, -öt	[sound:Hungarian_FSI_1_0.44.18.327-0.44.21.293.mp3]	Thursday
+péntek	[sound:Hungarian_FSI_1_0.44.21.493-0.44.22.645.mp3]	Friday
+dolgozni	[sound:Hungarian_FSI_1_0.44.22.845-0.44.24.094.mp3]	to work
+Ma szombat van, így nem dolgozunk.	[sound:Hungarian_FSI_1_0.44.24.294-0.44.26.697.mp3]	It's saturday today, and so we're not working.
+után	[sound:Hungarian_FSI_1_0.44.29.593-0.44.30.640.mp3]	after, behind
+sétálni	[sound:Hungarian_FSI_1_0.44.30.840-0.44.32.078.mp3]	to walk
+szeretném	[sound:Hungarian_FSI_1_0.44.32.278-0.44.33.374.mp3]	I'd like
+szépművészet	[sound:Hungarian_FSI_1_0.44.33.574-0.44.35.089.mp3]	fine art
+muzeum	[sound:Hungarian_FSI_1_0.44.35.289-0.44.36.104.mp3]	museum
+Szépművészeti Múzeum	[sound:Hungarian_FSI_1_0.44.36.604-0.44.38.011.mp3]	Museum of Fine Arts
+A bank után menjünk sétálni.	[sound:Hungarian_FSI_1_0.44.38.031-0.44.40.179.mp3]	After the bank let's go for a walk.
+Szeretném megnézni a Szépművészeti Múzeumot.	[sound:Hungarian_FSI_1_0.44.42.286-0.44.45.079.mp3]	I'd like to see the Museum of Fine Arts.
+képtár, -at	[sound:Hungarian_FSI_1_0.44.47.647-0.44.49.944.mp3]	picture gallery
+érdekes	[sound:Hungarian_FSI_1_0.44.50.344-0.44.51.487.mp3]	interesting
+Jó, menjünk megnézni a képtárat.	[sound:Hungarian_FSI_1_0.44.51.687-0.44.54.238.mp3]	All right, let's visit the picture gallery.
+Nagyon érdekes.	[sound:Hungarian_FSI_1_0.44.57.340-0.44.58.722.mp3]	It's very interesting.
+Milyen képeket szeret? A moderneket?	[sound:Hungarian_FSI_1_0.45.02.976-0.45.06.257.mp3]	What kind of paintings do you like? The modern ones?
+Nem a modern képeket szeretem, hanem a régieket.	[sound:Hungarian_FSI_1_0.45.08.009-0.45.11.299.mp3]	I don't like modern paintings but old ones.
+Hol van a Szépművészeti Múzeum?	[sound:Hungarian_FSI_1_0.45.16.807-0.45.18.814.mp3]	Where's the Museum of Fine Arts?
+városliget	[sound:Hungarian_FSI_1_0.45.18.914-0.45.19.950.mp3]	town park
+volt	[sound:Hungarian_FSI_1_0.45.20.250-0.45.21.405.mp3]	was
+közel	[sound:Hungarian_FSI_1_0.45.21.605-0.45.22.286.mp3]	near
+messze	[sound:Hungarian_FSI_1_0.45.22.486-0.45.23.673.mp3]	far
+szobor, szobrot	[sound:Hungarian_FSI_1_0.45.23.873-0.45.26.307.mp3]	statue
+emlékmű, -vet	[sound:Hungarian_FSI_1_0.45.26.507-0.45.29.045.mp3]	monument
+A városligetben.	[sound:Hungarian_FSI_1_0.45.29.445-0.45.30.893.mp3]	It's in the City Park.
+Ott volt közel a híres Sztálin-szobor is.	[sound:Hungarian_FSI_1_0.45.33.212-0.45.36.407.mp3]	The famous Stalin monument used to be near there also.
+a felesége	[sound:Hungarian_FSI_1_0.45.39.542-0.45.40.877.mp3]	your, his wife
+velünk	[sound:Hungarian_FSI_1_0.45.41.077-0.45.42.309.mp3]	with us
+A felesége nem jön velünk?	[sound:Hungarian_FSI_1_0.45.42.509-0.45.44.525.mp3]	Isn't your wife coming with us?
+Sajnos, ma nem tud jönni.	[sound:Hungarian_FSI_1_0.45.46.680-0.45.48.574.mp3]	Unfortunately she can't today.
+Miért? Mit csinál?	[sound:Hungarian_FSI_1_0.45.52.067-0.45.54.247.mp3]	Why? What's she doing?
+délelőtt, -öt	[sound:Hungarian_FSI_1_0.45.55.821-0.45.58.678.mp3]	in the morning
+főzni, megfőzni	[sound:Hungarian_FSI_1_0.45.59.078-0.46.01.469.mp3]	to cook
+ebéd	[sound:Hungarian_FSI_1_0.46.01.669-0.46.02.760.mp3]	lunch, dinner
+elvinni	[sound:Hungarian_FSI_1_0.46.02.960-0.46.04.097.mp3]	to take
+állat	[sound:Hungarian_FSI_1_0.46.04.297-0.46.05.243.mp3]	animal
+állatkert	[sound:Hungarian_FSI_1_0.46.05.443-0.46.06.854.mp3]	zoo
+Délelőtt megfőzi az ebédet.	[sound:Hungarian_FSI_1_0.46.07.054-0.46.09.224.mp3]	She's cooking the dinner in the morning.
+Azután elviszi a gyerekeket az állatkertbe.	[sound:Hungarian_FSI_1_0.46.11.961-0.46.15.016.mp3]	Afterwards she's taking the children to the zoo.
+délután	[sound:Hungarian_FSI_1_0.46.18.613-0.46.19.754.mp3]	afternoon
+És délután?	[sound:Hungarian_FSI_1_0.46.21.776-0.46.23.239.mp3]	And in the afternoon?
+cukrászda	[sound:Hungarian_FSI_1_0.46.23.539-0.46.24.659.mp3]	pastry shop
+sütemény	[sound:Hungarian_FSI_1_0.46.24.959-0.46.25.981.mp3]	pastry, cake
+Délután cukrászdába viszi őket.	[sound:Hungarian_FSI_1_0.46.26.181-0.46.28.658.mp3]	In the afternoon she's taking them to a pastry shop.
+A gyerekek nagyon szeretnek fagylaltot enni.	[sound:Hungarian_FSI_1_0.46.31.885-0.46.34.537.mp3]	The children like to eat ice cream very much.
+De szeretik a süteményt is.	[sound:Hungarian_FSI_1_0.46.37.716-0.46.39.702.mp3]	But they like pastry also.
+érdemes	[sound:Hungarian_FSI_1_0.46.41.629-0.46.42.808.mp3]	worth while
+Még nem ismerem a várost.	[sound:Hungarian_FSI_1_0.46.43.008-0.46.44.931.mp3]	I'm not acquainted with the city yet.
+Mit érdemes megnézni Budapesten?	[sound:Hungarian_FSI_1_0.46.48.544-0.46.50.650.mp3]	What's there in Budapest worth looking at?
+vár, -at	[sound:Hungarian_FSI_1_0.46.50.850-0.46.52.882.mp3]	citadel, castle, fort
+mutatni, megmutatni	[sound:Hungarian_FSI_1_0.46.53.082-0.46.55.448.mp3]	to show
+Mátyás	[sound:Hungarian_FSI_1_0.46.55.648-0.46.56.756.mp3]	Matthias
+templom	[sound:Hungarian_FSI_1_0.46.57.156-0.46.58.120.mp3]	church
+halász	[sound:Hungarian_FSI_1_0.46.58.520-0.46.59.445.mp3]	fisher, fisherman
+bástya	[sound:Hungarian_FSI_1_0.46.59.945-0.47.01.157.mp3]	bastion
+A vár nagyon érdekes.	[sound:Hungarian_FSI_1_0.47.01.357-0.47.03.353.mp3]	The fort is very interesting.
+A múzeum után megmutatom a várat is.	[sound:Hungarian_FSI_1_0.47.05.769-0.47.08.350.mp3]	After the museum I''ll show you the fort also.
+Ott van a hires Mátyás -templom és a Halászbástya.	[sound:Hungarian_FSI_1_0.47.11.778-0.47.15.235.mp3]	The famous Matthias Church and the Fishermen's Bastion are there.
+bazilika	[sound:Hungarian_FSI_1_0.47.19.251-0.47.20.385.mp3]	cathedral
+A bazilika is a várban van?	[sound:Hungarian_FSI_1_0.47.20.585-0.47.22.700.mp3]	Is the cathedral also in the fort?
+Nem. A vár Budán van, a Bazilika pedig Pesten.	[sound:Hungarian_FSI_1_0.47.25.137-0.47.28.435.mp3]	No. The fort is in Buda; the cathedral, however, is in Pest.
+országház, -at	[sound:Hungarian_FSI_1_0.47.32.359-0.47.35.446.mp3]	parliament
+Az országház hol van? Pesten?	[sound:Hungarian_FSI_1_0.47.37.450-0.47.40.625.mp3]	Where's the parliament? In Pest?
+Duna	[sound:Hungarian_FSI_1_0.47.42.195-0.47.43.074.mp3]	Danube
+part	[sound:Hungarian_FSI_1_0.47.43.274-0.47.44.192.mp3]	shore, bank
+a parton	[sound:Hungarian_FSI_1_0.47.44.392-0.47.45.327.mp3]	on the shore, bank
+épület	[sound:Hungarian_FSI_1_0.47.45.527-0.47.46.585.mp3]	building
+Igen, a Dunaparton van.	[sound:Hungarian_FSI_1_0.47.46.785-0.47.48.631.mp3]	Yes, it's on the bank of the Danube.
+Nagyon szép épület.	[sound:Hungarian_FSI_1_0.47.50.811-0.47.52.434.mp3]	It's a very beautiful building.
+Azt is érdemes megnézni.	[sound:Hungarian_FSI_1_0.47.54.748-0.47.56.875.mp3]	It's worth seeing too.
+(Késo délután egy kávéházban a Dunaparton)	[sound:Hungarian_FSI_1_0.47.59.605-0.48.01.862.mp3]	(Late afternoon in a café on the bank of the Danube)
+ilyen	[sound:Hungarian_FSI_1_0.48.01.955-0.48.02.707.mp3]	such, of this kind
+olyan	[sound:Hungarian_FSI_1_0.48.02.907-0.48.03.680.mp3]	such, of that kind
+hajó	[sound:Hungarian_FSI_1_0.48.03.907-0.48.04.915.mp3]	ship
+csónak	[sound:Hungarian_FSI_1_0.48.05.115-0.48.06.056.mp3]	rowboat
+úszni	[sound:Hungarian_FSI_1_0.48.06.256-0.48.07.358.mp3]	to swim, float, sail
+úszik	[sound:Hungarian_FSI_1_0.48.07.558-0.48.08.524.mp3]	you swim; he, she, it swims, floats, sails
+a Dunán	[sound:Hungarian_FSI_1_0.48.08.724-0.48.09.719.mp3]	on the Danube
+Mindig ilyen sok hajó úszik a Dunán?	[sound:Hungarian_FSI_1_0.48.10.119-0.48.12.373.mp3]	Are there always so many ships on the Danube?
+teher, terhet	[sound:Hungarian_FSI_1_0.48.15.393-0.48.17.665.mp3]	freight
+szállító	[sound:Hungarian_FSI_1_0.48.17.865-0.48.18.959.mp3]	carrier, transporter
+teherszállító hajó	[sound:Hungarian_FSI_1_0.48.19.159-0.48.20.958.mp3]	freighter
+személy	[sound:Hungarian_FSI_1_0.48.21.358-0.48.22.392.mp3]	person, individual
+kirándulóhajó	[sound:Hungarian_FSI_1_0.48.22.792-0.48.24.065.mp3]	excursion boat, pleasure boat
+Igen. Sok a teherszállító és a személyszállító hajó.	[sound:Hungarian_FSI_1_0.48.24.565-0.48.28.539.mp3]	Yes. There are many freighters and passenger ships.
+Vannak persze kirándulóhajók is.	[sound:Hungarian_FSI_1_0.48.33.007-0.48.35.532.mp3]	There are, of course, excursion boats also.
+szállítani	[sound:Hungarian_FSI_1_0.48.38.757-0.48.40.136.mp3]	to transport, carry
+Mit szállítanak a teherszállító hajók?	[sound:Hungarian_FSI_1_0.48.40.336-0.48.42.674.mp3]	What do the freighters transport?
+gyümölcs, -öt	[sound:Hungarian_FSI_1_0.48.45.391-0.48.47.444.mp3]	fruit
+zöldség	[sound:Hungarian_FSI_1_0.48.47.644-0.48.48.645.mp3]	vegetable
+főváros	[sound:Hungarian_FSI_1_0.48.48.845-0.48.50.051.mp3]	capital
+gép	[sound:Hungarian_FSI_1_0.48.50.351-0.48.51.152.mp3]	machine
+bútor	[sound:Hungarian_FSI_1_0.48.51.352-0.48.52.366.mp3]	furniture
+falu, falut (falvat)	[sound:Hungarian_FSI_1_0.48.52.566-0.48.55.931.mp3]	village
+A tehnerszállító hajók hoszák a gyümölcsöt  és a zöldséget a fővárosba.	[sound:Hungarian_FSI_1_0.48.56.131-0.49.00.664.mp3]	The freighters bring fruit and vegetables into the capital.
+Innen pedig a gépeket viszik más városokba es falukba.	[sound:Hungarian_FSI_1_0.49.06.023-0.49.09.899.mp3]	From here, on the other hand, they carry machines into other cities and villages.
+fürdeni	[sound:Hungarian_FSI_1_0.49.14.698-0.49.15.784.mp3]	to bathe
+Lehet fürdeni a Dunában?	[sound:Hungarian_FSI_1_0.49.15.984-0.49.17.871.mp3]	Is it possible to swim in the Danube?
+fürdő	[sound:Hungarian_FSI_1_0.49.20.292-0.49.21.496.mp3]	bath
+gyógyfürdő	[sound:Hungarian_FSI_1_0.49.21.896-0.49.23.181.mp3]	thermal bath, medical bath
+ember	[sound:Hungarian_FSI_1_0.49.23.681-0.49.24.681.mp3]	man, human being
+Nyáron lehet, de a víz hideg.	[sound:Hungarian_FSI_1_0.49.24.881-0.49.27.088.mp3]	It's possible in the summer, but the water is cold.
+Budapesten sok fürdő van.	[sound:Hungarian_FSI_1_0.49.29.685-0.49.32.058.mp3]	There are many baths in Budapest.
+A beteg emberek főleg gyógyfürdőkbe járnak.	[sound:Hungarian_FSI_1_0.49.34.812-0.49.38.014.mp3]	Sick people in particular frequent the thermal baths.
+Mennyi ember sétál a Dunaparton!	[sound:Hungarian_FSI_1_0.49.41.548-0.49.44.303.mp3]	How many people there are on the bank of the Danube!
+Ha nem fáradt, mi is menjünk sétálni. Jó?	[sound:Hungarian_FSI_1_0.49.46.907-0.49.49.659.mp3]	If you aren't tired, let's go for a walk also, shall we?
+meginni	[sound:Hungarian_FSI_1_0.49.53.279-0.49.54.556.mp3]	to drink up
+megenni	[sound:Hungarian_FSI_1_0.49.54.756-0.49.55.894.mp3]	to eat up
+a kávém	[sound:Hungarian_FSI_1_0.49.56.094-0.49.57.266.mp3]	my coffee
+Szívesen, csak először megiszom a kávémat.	[sound:Hungarian_FSI_1_0.50.00.724-0.50.03.781.mp3]	Gladly, only I'll finish my coffee first.
+Nem eszi meg a süteményt?	[sound:Hungarian_FSI_1_0.50.03.881-0.50.05.639.mp3]	Aren't you going to eat your pastry?
+De igen, megeszem.	[sound:Hungarian_FSI_1_0.50.07.798-0.50.09.344.mp3]	Why, yes, I'll finish it.
+Mindjárt hivom a pincért fizetni.	[sound:Hungarian_FSI_1_0.50.11.529-0.50.13.803.mp3]	I'll call the walter right away and pay hlm.
+meggyújtani, gyújtani	[sound:Hungarian_FSI_1_0.50.16.346-0.50.19.050.mp3]	to light, to switch on
+égni	[sound:Hungarian_FSI_1_0.50.19.250-0.50.20.419.mp3]	to burn
+Éppen most gyújtják meg a lámpákat a Dunaparton.	[sound:Hungarian_FSI_1_0.50.20.619-0.50.23.440.mp3]	Right now they're lighting the lamps on the bank of the Danube.
+Látja? Már égnek is.	[sound:Hungarian_FSI_1_0.50.27.375-0.50.30.028.mp3]	Do you see them? They're already on.
+Milyen szép ez a város!	[sound:Hungarian_FSI_1_0.50.32.057-0.50.33.963.mp3]	How beautifuI this city is!
+számla	[sound:Hungarian_FSI_1_0.50.36.414-0.50.37.440.mp3]	bill
+Gyönyörű! De itt jön a pincér.	[sound:Hungarian_FSI_1_0.50.38.913-0.50.41.523.mp3]	Magnificent! But here comes the waiter.
+Kérem a számlát.	[sound:Hungarian_FSI_1_0.50.43.969-0.50.45.510.mp3]	Check, please.
+bérház	[sound:Hungarian_FSI_1_0.50.53.273-0.50.54.294.mp3]	apartment house
+kopogni	[sound:Hungarian_FSI_1_0.50.54.494-0.50.55.529.mp3]	to knock
+az ajtón	[sound:Hungarian_FSI_1_0.50.55.729-0.50.56.840.mp3]	on the door
+Kisék és Nagyék egy bérházban laknak a Bajza utcaban.	[sound:Hungarian_FSI_1_0.50.57.340-0.51.00.988.mp3]	The Kises and the Nagys live in an apartment house on Bajza street.
+Kis kopog az ajtón.	[sound:Hungarian_FSI_1_0.51.05.227-0.51.07.160.mp3]	Kis knocks on the door.
+bejönni	[sound:Hungarian_FSI_1_0.51.09.529-0.51.10.626.mp3]	to come in
+Tessék bejönni.	[sound:Hungarian_FSI_1_0.51.10.826-0.51.12.435.mp3]	Please come in.
+írógép, -e, -je	[sound:Hungarian_FSI_1_0.51.14.372-0.51.18.851.mp3]	typewriter
+kölcsönltérni	[sound:Hungarian_FSI_1_0.51.19.051-0.51.20.618.mp3]	to borrow
+hivatal, -a	[sound:Hungarian_FSI_1_0.51.20.818-0.51.23.374.mp3]	office
+töltőtoll, -at, -a	[sound:Hungarian_FSI_1_0.51.23.574-0.51.28.965.mp3]	fountain pen
+rossz	[sound:Hungarian_FSI_1_0.51.29.365-0.51.30.777.mp3]	bad, out of order
+üres	[sound:Hungarian_FSI_1_0.51.30.977-0.51.31.922.mp3]	empty
+Bocsánat, Nagy úr!	[sound:Hungarian_FSI_1_0.51.32.122-0.51.33.647.mp3]	Excuse me, Mr. Nagy!
+Szeretnék egy írógépet kölcsönltérni.	[sound:Hungarian_FSI_1_0.51.35.709-0.51.38.400.mp3]	I'd like to borrow a typewriter.
+Néhánr levelet akarok írni, de az írogépem a hivatalban van, a töltőtollam pedig rossz.	[sound:Hungarian_FSI_1_0.51.41.821-0.51.48.187.mp3]	I want to write a few letters, but my typewriter is in the office and my fountain pen is broken.
+itthon	[sound:Hungarian_FSI_1_0.51.55.004-0.51.56.201.mp3]	(here) at home
+sincs, sincsen	[sound:Hungarian_FSI_1_0.51.56.401-0.51.58.835.mp3]	it isn't, there isn't...either
+nővér, -e	[sound:Hungarian_FSI_1_0.51.59.235-0.52.01.556.mp3]	sister
+kölcsönadni	[sound:Hungarian_FSI_1_0.52.01.756-0.52.02.991.mp3]	to lend, loan
+Sajnos, az én írógépem sincs itthon.	[sound:Hungarian_FSI_1_0.52.03.191-0.52.05.759.mp3]	Unfortunately my typewriter isn't here either.
+De itt van a nővérem írógépe.	[sound:Hungarian_FSI_1_0.52.08.282-0.52.10.690.mp3]	But here's my sister's machine.
+ő szívesen kölcsönadja maganak.	[sound:Hungarian_FSI_1_0.52.13.572-0.52.16.187.mp3]	She'll be glad to lend it to you.
+kedves	[sound:Hungarian_FSI_1_0.52.18.660-0.52.19.776.mp3]	dear, kind, nice
+Itthon van a kedves nővére?	[sound:Hungarian_FSI_1_0.52.19.976-0.52.21.927.mp3]	Is your (dear) sister at home?
+Nincs itthon.	[sound:Hungarian_FSI_1_0.52.24.671-0.52.26.013.mp3]	"She""s not at home."
+Még a hivatalában van.	[sound:Hungarian_FSI_1_0.52.27.577-0.52.29.504.mp3]	She's still in her office.
+Messze van a hivatala?	[sound:Hungarian_FSI_1_0.52.31.649-0.52.33.354.mp3]	Is her office far?
+dolgozik	[sound:Hungarian_FSI_1_0.52.35.680-0.52.36.945.mp3]	you work: he, she, it works
+egyik	[sound:Hungarian_FSI_1_0.52.37.145-0.52.38.206.mp3]	one
+igazgató	[sound:Hungarian_FSI_1_0.52.38.606-0.52.39.812.mp3]	director
+titkarnő	[sound:Hungarian_FSI_1_0.52.40.012-0.52.41.185.mp3]	secretary
+Nincs messze.	[sound:Hungarian_FSI_1_0.52.41.685-0.52.42.924.mp3]	It's not far.
+A Nemzeti Bankban dolgozik.	[sound:Hungarian_FSI_1_0.52.44.979-0.52.47.168.mp3]	She works in the National Bank.
+Az egyik igazgató titkárnője.	[sound:Hungarian_FSI_1_0.52.48.848-0.52.50.968.mp3]	She's the secretary to one of the directors.
+Szereti a hivatalát?	[sound:Hungarian_FSI_1_0.52.53.455-0.52.55.293.mp3]	Does she like her office?
+rendes	[sound:Hungarian_FSI_1_0.52.57.426-0.52.58.783.mp3]	decent, fair, right, fine
+Igen. Az igazgatója rendes ember.	[sound:Hungarian_FSI_1_0.53.00.310-0.53.03.527.mp3]	Yes. Her director is a fine man.
+Tessék helyet foglalni, Kis úr!	[sound:Hungarian_FSI_1_0.53.06.561-0.53.08.617.mp3]	Please sit down, Mr. Kis!
+perc	[sound:Hungarian_FSI_1_0.53.11.046-0.53.12.276.mp3]	minute
+egy percre	[sound:Hungarian_FSI_1_0.53.12.435-0.53.13.635.mp3]	for a minute
+posta	[sound:Hungarian_FSI_1_0.53.14.035-0.53.15.005.mp3]	post, mail
+Köszönöm, csak egy percre, mert késő van.	[sound:Hungarian_FSI_1_0.53.15.205-0.53.18.055.mp3]	Thanks, just for a minute, because it's late.
+Még a postahivatalba akarok menni.	[sound:Hungarian_FSI_1_0.53.21.501-0.53.23.892.mp3]	I still want to go to the post office.
+Nem akar valamit onnan?	[sound:Hungarian_FSI_1_0.53.26.491-0.53.28.163.mp3]	Don't you want something from there?
+levelezőlap, -ja	[sound:Hungarian_FSI_1_0.53.30.566-0.53.33.905.mp3]	postcard
+légiposta	[sound:Hungarian_FSI_1_0.53.34.405-0.53.35.692.mp3]	air mail
+Ha hoz tíz levelezőlapot és öt légipostalevelet, megköszönöm.	[sound:Hungarian_FSI_1_0.53.36.092-0.53.40.378.mp3]	If you bring me ten post cards and five aerogrammes, I'll be grateful
+béke	[sound:Hungarian_FSI_1_0.53.45.168-0.53.46.187.mp3]	peace
+utolsó	[sound:Hungarian_FSI_1_0.53.46.487-0.53.47.430.mp3]	last
+szám, -a	[sound:Hungarian_FSI_1_0.53.47.630-0.53.49.869.mp3]	number, issue
+Látom, hogy itt van a Béke és Szabadság utolsó száma.	[sound:Hungarian_FSI_1_0.53.50.131-0.53.53.613.mp3]	I see that you have the last issue of Béke és Szabadság.
+Maga olvassa?	[sound:Hungarian_FSI_1_0.53.57.802-0.53.59.307.mp3]	Do you read it?
+a fiam	[sound:Hungarian_FSI_1_0.54.01.416-0.54.02.719.mp3]	my son
+képeslap, -ja	[sound:Hungarian_FSI_1_0.54.02.919-0.54.05.957.mp3]	illustrated magazine
+újságot járatni	[sound:Hungarian_FSI_1_0.54.06.357-0.54.07.848.mp3]	to take, to subscribe to a paper
+a lányom	[sound:Hungarian_FSI_1_0.54.08.048-0.54.09.057.mp3]	my daughter
+Nem, nem én olvasom.	[sound:Hungarian_FSI_1_0.54.09.557-0.54.11.415.mp3]	No, I don't read it.
+Ez a fiam képeslapja.	[sound:Hungarian_FSI_1_0.54.13.773-0.54.15.781.mp3]	That's my son's picture magazine.
+A lányom az Ország Világot járatja.	[sound:Hungarian_FSI_1_0.54.18.149-0.54.21.110.mp3]	My daughter takes the Ország-Világ.
+Maga melyik újságot olvassa?	[sound:Hungarian_FSI_1_0.54.23.740-0.54.25.745.mp3]	Which newspaper do you read?
+nemzet, -e	[sound:Hungarian_FSI_1_0.54.28.744-0.54.31.240.mp3]	nation
+Én a Magyar Nemzetet olvasom.	[sound:Hungarian_FSI_1_0.54.31.440-0.54.33.680.mp3]	I read the Magyar Nemzet.
+A felesége is szeret olvasni?	[sound:Hungarian_FSI_1_0.54.36.293-0.54.38.421.mp3]	Does your wife like to read also?
+regény	[sound:Hungarian_FSI_1_0.54.41.361-0.54.42.458.mp3]	novel
+vers, -et	[sound:Hungarian_FSI_1_0.54.42.858-0.54.45.052.mp3]	poem
+kedvenc	[sound:Hungarian_FSI_1_0.54.45.295-0.54.46.328.mp3]	favorite
+külföldi	[sound:Hungarian_FSI_1_0.54.46.528-0.54.47.578.mp3]	foreign
+író	[sound:Hungarian_FSI_1_0.54.47.978-0.54.48.883.mp3]	writer
+Igen. ő főleg regényeket és verseket olvas.	[sound:Hungarian_FSI_1_0.54.50.438-0.54.54.324.mp3]	Yes. She reads novels and poems mostly.
+Petőfi a kedvenc költője.	[sound:Hungarian_FSI_1_0.54.58.166-0.55.00.292.mp3]	Petőfi is her favorite poet.
+De szereti a külföldi írókat is.	[sound:Hungarian_FSI_1_0.55.02.516-0.55.04.754.mp3]	But she likes foreign writers also.
+ajánlani	[sound:Hungarian_FSI_1_0.55.07.655-0.55.08.872.mp3]	to recommend
+Petőfi az én kedvenc költőm is.	[sound:Hungarian_FSI_1_0.55.09.072-0.55.11.625.mp3]	Petőfi is my favorite poet too.
+Tud egy jó könyvet ajánlani?	[sound:Hungarian_FSI_1_0.55.15.173-0.55.17.289.mp3]	Can you recommend a good book?
+Szeretnék egyet kölcsönkérni.	[sound:Hungarian_FSI_1_0.55.20.008-0.55.22.409.mp3]	l'd like to borrow one.
+Szereti az új magyar írókat?	[sound:Hungarian_FSI_1_0.55.25.316-0.55.27.377.mp3]	Do you like the new Hungarian writers?
+hallgatni	[sound:Hungarian_FSI_1_0.55.29.890-0.55.30.998.mp3]	to be silent, to listen
+mostanában	[sound:Hungarian_FSI_1_0.55.31.198-0.55.32.406.mp3]	lately, nowadays
+hallani	[sound:Hungarian_FSI_1_0.55.32.806-0.55.33.835.mp3]	to hear
+kommunista	[sound:Hungarian_FSI_1_0.55.34.035-0.55.35.157.mp3]	communist
+rendszer, -e	[sound:Hungarian_FSI_1_0.55.35.557-0.55.38.200.mp3]	system, method, regime
+Nagyon! Sajnos, sok jó írónk hallgat mostanában.	[sound:Hungarian_FSI_1_0.55.39.452-0.55.43.433.mp3]	Very much. Unfortunately many of our good writers remain silent these days.
+Úgy hallom, nem akarnak a kommunista rendszernek írni.	[sound:Hungarian_FSI_1_0.55.46.955-0.55.50.361.mp3]	I hear that they don't want to write for the Communist regime.
+Megértem. De itt van egy érdekes könyv.	[sound:Hungarian_FSI_1_0.55.56.948-0.56.00.428.mp3]	I can understand that. But here's an interesting book.
+Ezt ajánlom. Elviszi?	[sound:Hungarian_FSI_1_0.56.04.424-0.56.07.257.mp3]	I recommend it. Will you take it?
+visszahozni	[sound:Hungarian_FSI_1_0.56.09.114-0.56.10.360.mp3]	to bring back
+Köszönöm, igen.	[sound:Hungarian_FSI_1_0.56.10.760-0.56.12.092.mp3]	Yes, thank you.
+A jövő héten visszahozom.	[sound:Hungarian_FSI_1_0.56.13.926-0.56.16.019.mp3]	I'll bring it back next week.
+sürgős	[sound:Hungarian_FSI_1_0.56.18.652-0.56.19.863.mp3]	urgent, pressing
+Nem sürgős.	[sound:Hungarian_FSI_1_0.56.20.163-0.56.21.643.mp3]	There's no hurry.
+barát, -ja	[sound:Hungarian_FSI_1_0.56.22.992-0.56.25.232.mp3]	friend
+édes	[sound:Hungarian_FSI_1_0.56.25.432-0.56.26.531.mp3]	sweet
+apam apja	[sound:Hungarian_FSI_1_0.56.26.931-0.56.28.959.mp3]	father
+Mondja, kedves barátom hogy van az édesapja?	[sound:Hungarian_FSI_1_0.56.29.159-0.56.31.949.mp3]	Tell me, my dear friend, how's your (dear) father?
+öreg	[sound:Hungarian_FSI_1_0.56.35.485-0.56.36.557.mp3]	old
+fiatal, -t	[sound:Hungarian_FSI_1_0.56.36.757-0.56.39.329.mp3]	young, youthful
+hála	[sound:Hungarian_FSI_1_0.56.39.529-0.56.40.368.mp3]	gratitude, thanks
+Az édesapám már elég öreg de hála Isten jól van.	[sound:Hungarian_FSI_1_0.56.40.868-0.56.44.344.mp3]	My father is already quite old, but thank goodness he's weIl.
+egész	[sound:Hungarian_FSI_1_0.56.48.255-0.56.49.307.mp3]	whole, entire
+Mit csinál egész nap?	[sound:Hungarian_FSI_1_0.56.49.507-0.56.51.180.mp3]	What does he do all day?
+idő, ideje	[sound:Hungarian_FSI_1_0.56.53.354-0.56.55.624.mp3]	weather, time, period
+gyönyörködni	[sound:Hungarian_FSI_1_0.56.56.024-0.56.57.246.mp3]	to enjoy, take pleasure in
+A házuk mögött van egy kis kert.	[sound:Hungarian_FSI_1_0.56.57.446-0.56.59.757.mp3]	There's a small garden behind their house.
+Ha jó idő van ott ül és gyönyörködik a kertjükben.	[sound:Hungarian_FSI_1_0.57.02.501-0.57.06.834.mp3]	If the weather is good he sits there and enjoys their garden.
+Az ő házuk Pest-környékén van, a Dunaparton.	[sound:Hungarian_FSI_1_0.57.10.695-0.57.13.565.mp3]	Their house is in the outskirts of Pest on the bank of the Danube.
+anya, anyja	[sound:Hungarian_FSI_1_0.57.16.821-0.57.18.733.mp3]	mother
+És az édesanyja?	[sound:Hungarian_FSI_1_0.57.19.133-0.57.20.576.mp3]	And your (dear) mother?
+gondozni	[sound:Hungarian_FSI_1_0.57.22.800-0.57.24.175.mp3]	to take care of, look after
+ápolni	[sound:Hungarian_FSI_1_0.57.24.375-0.57.25.608.mp3]	to nurse, tend
+fivér, -e	[sound:Hungarian_FSI_1_0.57.25.808-0.57.28.222.mp3]	brother
+Az édesanyám is jól van.	[sound:Hungarian_FSI_1_0.57.28.422-0.57.30.598.mp3]	My mother is well also.
+ő gondozzaaz apámat.	[sound:Hungarian_FSI_1_0.57.32.504-0.57.34.366.mp3]	She takes care of my father.
+Az egyik fivérem is ott lakik.	[sound:Hungarian_FSI_1_0.57.36.444-0.57.38.556.mp3]	One of my brothers lives there too.
+aki	[sound:Hungarian_FSI_1_0.57.40.684-0.57.41.625.mp3]	who (relative pronoun)
+Moszkva	[sound:Hungarian_FSI_1_0.57.41.825-0.57.42.823.mp3]	Moscow
+Melyik fivére?	[sound:Hungarian_FSI_1_0.57.43.223-0.57.44.422.mp3]	Which brother of yours?
+Aki Moszkvában volt?	[sound:Hungarian_FSI_1_0.57.46.268-0.57.48.205.mp3]	The one who was in Moscow?
+bátya, bátyja	[sound:Hungarian_FSI_1_0.57.50.505-0.57.52.789.mp3]	older brother
+oroszul	[sound:Hungarian_FSI_1_0.57.52.989-0.57.54.146.mp3]	in Russian
+németül	[sound:Hungarian_FSI_1_0.57.54.346-0.57.55.510.mp3]	in German
+franciául	[sound:Hungarian_FSI_1_0.57.55.710-0.57.57.083.mp3]	in French
+tanítani	[sound:Hungarian_FSI_1_0.57.57.283-0.57.58.628.mp3]	to teach
+tanulni	[sound:Hungarian_FSI_1_0.57.58.828-0.57.59.989.mp3]	to learn, study
+egyetem, -e	[sound:Hungarian_FSI_1_0.58.00.189-0.58.02.693.mp3]	university
+az egyetemen	[sound:Hungarian_FSI_1_0.58.03.093-0.58.04.379.mp3]	at the university
+Igen, a bátyám két évig Moszkvában volt.	[sound:Hungarian_FSI_1_0.58.07.425-0.58.10.210.mp3]	Yes, my older brother was in Moscow for two years.
+ő jól beszél oroszul.	[sound:Hungarian_FSI_1_0.58.10.342-0.58.12.080.mp3]	He speaks Russian well.
+Most tanít az egyik egyetemen.	[sound:Hungarian_FSI_1_0.58.14.537-0.58.16.598.mp3]	He's now teaching in one of the universities.
+És mit csinál a másik fivére?	[sound:Hungarian_FSI_1_0.58.19.195-0.58.21.392.mp3]	And what is your other brother doing?
+az öcsém	[sound:Hungarian_FSI_1_0.58.24.446-0.58.25.729.mp3]	my younger brother
+mérnök, -öt, -e	[sound:Hungarian_FSI_1_0.58.26.129-0.58.30.094.mp3]	engineer
+ügyvéd, -je	[sound:Hungarian_FSI_1_0.58.30.294-0.58.32.733.mp3]	lawyer
+orvos	[sound:Hungarian_FSI_1_0.58.33.133-0.58.34.140.mp3]	doctor
+katona	[sound:Hungarian_FSI_1_0.58.34.540-0.58.35.539.mp3]	soldier
+repülő	[sound:Hungarian_FSI_1_0.58.35.939-0.58.36.930.mp3]	flier
+hivatalnok, -a	[sound:Hungarian_FSI_1_0.58.37.330-0.58.40.143.mp3]	clerk, official
+tanár, -a	[sound:Hungarian_FSI_1_0.58.40.343-0.58.43.040.mp3]	teacher
+német	[sound:Hungarian_FSI_1_0.58.43.440-0.58.44.444.mp3]	German
+orosz	[sound:Hungarian_FSI_1_0.58.44.644-0.58.45.611.mp3]	Russian
+francia	[sound:Hungarian_FSI_1_0.58.45.811-0.58.47.029.mp3]	French
+kocsi	[sound:Hungarian_FSI_1_0.58.47.429-0.58.48.375.mp3]	car
+Az öcsém?	[sound:Hungarian_FSI_1_0.58.48.775-0.58.49.908.mp3]	My younger brother?
+ő mérnök.	[sound:Hungarian_FSI_1_0.58.51.764-0.58.53.149.mp3]	He's an engineer.
+Most vesz egy német kocsit.	[sound:Hungarian_FSI_1_0.58.54.851-0.58.56.710.mp3]	He's just buying a German car.
+az öccse	[sound:Hungarian_FSI_1_0.58.58.701-0.58.59.914.mp3]	your, his, net younger brother
+autó	[sound:Hungarian_FSI_1_0.59.00.314-0.59.01.419.mp3]	automobile
+gazdag, -ot	[sound:Hungarian_FSI_1_0.59.01.819-0.59.04.319.mp3]	rich
+szegény, -t	[sound:Hungarian_FSI_1_0.59.04.519-0.59.07.242.mp3]	poor
+Új autót vesz az öccse?	[sound:Hungarian_FSI_1_0.59.07.442-0.59.09.087.mp3]	Is your brother buying a new car?
+Akkor biztosan gazdag ember.	[sound:Hungarian_FSI_1_0.59.11.637-0.59.14.007.mp3]	Then he certainly is a rich man.
+jól keresni	[sound:Hungarian_FSI_1_0.59.17.021-0.59.18.638.mp3]	to make good money, earn a good living
+Nem éppen gazdag, de jól keres.	[sound:Hungarian_FSI_1_0.59.18.838-0.59.21.381.mp3]	He isn't exactly rich, but he's earning a lot of money.
+lakbér, -e	[sound:Hungarian_FSI_1_0.59.24.527-0.59.27.376.mp3]	rent
+Szép lakásuk van, Nagy úr.	[sound:Hungarian_FSI_1_0.59.27.576-0.59.29.746.mp3]	you have a nice apartment, Mr. Nagy.
+Sok lakbért fizetnek?	[sound:Hungarian_FSI_1_0.59.32.260-0.59.34.128.mp3]	Do you pay much rent?
+óta	[sound:Hungarian_FSI_1_0.59.36.762-0.59.37.701.mp3]	since
+A mi lakbérünk nem magas.	[sound:Hungarian_FSI_1_0.59.37.901-0.59.40.215.mp3]	Our rent isn't high.
+Tíz év óta lakunk itt és még a regi lakbért fizetjük.	[sound:Hungarian_FSI_1_0.59.42.858-0.59.47.219.mp3]	We have been living here for ten years and we still pay the old rent.
+Sajnos, az én lakásom nagyon drága, pedig a hálószobánk kicsi.	[sound:Hungarian_FSI_1_0.59.52.576-0.59.56.863.mp3]	Unfortunately my apartment is very expensive, although our bedroom is small.
+Szeretnék egy házat venni.	[sound:Hungarian_FSI_1_1.00.01.756-1.00.03.804.mp3]	I'd like to buy a house.
+telefon, -ja	[sound:Hungarian_FSI_1_1.00.06.552-1.00.08.991.mp3]	telephone
+szólni	[sound:Hungarian_FSI_1_1.00.09.191-1.00.10.424.mp3]	to speak, say, talk
+(A telefon szól.)	[sound:Hungarian_FSI_1_1.00.10.824-1.00.12.338.mp3]	(The phone rings.)
+telefonálni	[sound:Hungarian_FSI_1_1.00.12.538-1.00.13.790.mp3]	to phone
+Bocsánat egy percre.	[sound:Hungarian_FSI_1_1.00.14.190-1.00.15.639.mp3]	Excuse me for a minute.
+Azt hiszem, az egyik barátom telefonál.	[sound:Hungarian_FSI_1_1.00.18.024-1.00.20.564.mp3]	I believe one of my friends is on the phone.
+úgyis	[sound:Hungarian_FSI_1_1.00.23.324-1.00.24.202.mp3]	anyway
+Én már úgyis megyek.	[sound:Hungarian_FSI_1_1.00.24.702-1.00.26.598.mp3]	I'll have to be leaving now, anyway.
+Elviszem a nővére írógépét.	[sound:Hungarian_FSI_1_1.00.28.577-1.00.31.286.mp3]	I'm taking your sister's typewriter.
+Ma este visszahozom. Jó?	[sound:Hungarian_FSI_1_1.00.34.302-1.00.36.266.mp3]	I will bring it back this evening. All right?
+Nem sürgős, Kis úr.	[sound:Hungarian_FSI_1_1.00.39.036-1.00.40.806.mp3]	There's no hurry, Mr. Kis.
+konzul, -ja	[sound:Hungarian_FSI_1_1.00.48.565-1.00.50.932.mp3]	consul
+mióta	[sound:Hungarian_FSI_1_1.00.51.132-1.00.52.193.mp3]	since when
+Konzul úr, mióta van Magyarországon?	[sound:Hungarian_FSI_1_1.00.52.393-1.00.55.197.mp3]	How long have you beeq here in Hungary, Consul?
+hónap, -ja	[sound:Hungarian_FSI_1_1.00.58.649-1.01.00.903.mp3]	month
+Három hónap óta vagyok itt.	[sound:Hungarian_FSI_1_1.01.01.103-1.01.03.391.mp3]	I've been here for three months.
+család, -ja	[sound:Hungarian_FSI_1_1.01.05.620-1.01.08.011.mp3]	family
+A családja is Budapesten van?	[sound:Hungarian_FSI_1_1.01.08.211-1.01.10.276.mp3]	Is your family also in Budapest?
+várni	[sound:Hungarian_FSI_1_1.01.13.040-1.01.14.265.mp3]	to wait
+Még nincsen.	[sound:Hungarian_FSI_1_1.01.14.465-1.01.15.612.mp3]	Not yet.
+Most váram őket.	[sound:Hungarian_FSI_1_1.01.17.152-1.01.19.000.mp3]	I'm expecting them now.
+repülőgép, -e, -je	[sound:Hungarian_FSI_1_1.01.21.397-1.01.26.087.mp3]	airplane
+Hajón vagy repülőgépen jönnek Amerikábol?	[sound:Hungarian_FSI_1_1.01.26.287-1.01.29.182.mp3]	Are they coming from America by ship or plane?
+Repülőgépen.	[sound:Hungarian_FSI_1_1.01.32.694-1.01.34.137.mp3]	By plane.
+honnan	[sound:Hungarian_FSI_1_1.01.36.242-1.01.37.406.mp3]	from where
+Honnan indulnak?	[sound:Hungarian_FSI_1_1.01.37.806-1.01.39.257.mp3]	Where are they starting from?
+repülni	[sound:Hungarian_FSI_1_1.01.41.199-1.01.42.461.mp3]	to fly
+velük	[sound:Hungarian_FSI_1_1.01.42.661-1.01.43.848.mp3]	with them
+New Yorkból Bécsbe repülnek.	[sound:Hungarian_FSI_1_1.01.44.048-1.01.45.950.mp3]	They're flying from New York to Vienna.
+Én Bécsben találkozom velük.	[sound:Hungarian_FSI_1_1.01.48.570-1.01.50.991.mp3]	I'm meeting them in Vienna.
+Hogy megy Bécsbe? Vonaton?	[sound:Hungarian_FSI_1_1.01.55.587-1.01.58.440.mp3]	How are you going to Vienna? By train?
+vagy ... vagy	[sound:Hungarian_FSI_1_1.01.59.870-1.02.01.435.mp3]	either ... or
+Még nem tudom biztosan.	[sound:Hungarian_FSI_1_1.02.01.635-1.02.03.527.mp3]	I don't know for sure.
+Vagy vonaton, vagy kocsin.	[sound:Hungarian_FSI_1_1.02.05.970-1.02.08.237.mp3]	Either by train or by car.
+képzelni	[sound:Hungarian_FSI_1_1.02.10.741-1.02.11.998.mp3]	to imagine
+mennyire	[sound:Hungarian_FSI_1_1.02.12.198-1.02.13.371.mp3]	how
+Képzelem mennyire örül, hogy jön a családja.	[sound:Hungarian_FSI_1_1.02.13.871-1.02.16.613.mp3]	I can imagine how happy you are that your family's coming.
+boldog	[sound:Hungarian_FSI_1_1.02.19.687-1.02.20.576.mp3]	happy
+végre	[sound:Hungarian_FSI_1_1.02.20.756-1.02.21.787.mp3]	at last, finally
+Igen, nagyon boldog vagyok, hogy vegre itt lesznek.	[sound:Hungarian_FSI_1_1.02.21.987-1.02.24.959.mp3]	Yes, I'm very happy that they'll be here at last.
+Hogy van a fia?	[sound:Hungarian_FSI_1_1.02.28.580-1.02.29.904.mp3]	How's your son?
+ország, -a	[sound:Hungarian_FSI_1_1.02.32.160-1.02.34.442.mp3]	country
+oroszország	[sound:Hungarian_FSI_1_1.02.34.842-1.02.36.185.mp3]	Russia
+Köszönöm, jól van.	[sound:Hungarian_FSI_1_1.02.37.674-1.02.39.333.mp3]	Thank you, he's fine.
+Oroszországban volt, de most Szegeden tanul az egyetemen.	[sound:Hungarian_FSI_1_1.02.41.275-1.02.45.062.mp3]	He was in Russia, but he's studying now at the University of Szeged.
+külföldön	[sound:Hungarian_FSI_1_1.02.48.797-1.02.50.072.mp3]	abroad
+A kedves lánya is volt már külföldön?	[sound:Hungarian_FSI_1_1.02.50.272-1.02.52.745.mp3]	Has your daughter also already been abroad?
+sokszor	[sound:Hungarian_FSI_1_1.02.56.122-1.02.57.269.mp3]	many times, frequently, often
+mint	[sound:Hungarian_FSI_1_1.02.57.469-1.02.58.360.mp3]	as, like
+sportoló	[sound:Hungarian_FSI_1_1.02.58.560-1.02.59.680.mp3]	sportsman, athlete
+kelet	[sound:Hungarian_FSI_1_1.03.00.080-1.03.00.896.mp3]	east
+nyugat	[sound:Hungarian_FSI_1_1.03.01.096-1.03.02.067.mp3]	west
+észak	[sound:Hungarian_FSI_1_1.03.02.267-1.03.03.196.mp3]	north
+dél	[sound:Hungarian_FSI_1_1.03.03.396-1.03.04.090.mp3]	south
+Németország	[sound:Hungarian_FSI_1_1.03.04.490-1.03.05.740.mp3]	Germany
+Svédország	[sound:Hungarian_FSI_1_1.03.06.140-1.03.07.470.mp3]	Sweden
+Olaszország	[sound:Hungarian_FSI_1_1.03.07.870-1.03.09.227.mp3]	Italy
+Franciaország	[sound:Hungarian_FSI_1_1.03.09.427-1.03.10.914.mp3]	France
+Igen, ő sokszor volt külföldön.	[sound:Hungarian_FSI_1_1.03.13.845-1.03.15.901.mp3]	Yes, she's been abroad many times.
+Mint sportoló gyakran megy más országokba.	[sound:Hungarian_FSI_1_1.03.16.099-1.03.19.182.mp3]	As a sportswoman she goes often to other countries.
+Volt már Kelet-Németországban, Svédországban és Olaszországban is.	[sound:Hungarian_FSI_1_1.03.22.305-1.03.27.560.mp3]	She has already been in East Germany, Sweden and Italy also.
+A jövő héten jön haza Franciaországból.	[sound:Hungarian_FSI_1_1.03.27.960-1.03.30.861.mp3]	She's coming home next week from France.
+teniszezni	[sound:Hungarian_FSI_1_1.03.34.158-1.03.35.318.mp3]	to play tennis
+golfozni	[sound:Hungarian_FSI_1_1.03.35.518-1.03.36.723.mp3]	to play golf
+Talán teniszezik a lánya?	[sound:Hungarian_FSI_1_1.03.36.923-1.03.38.869.mp3]	I suppose your daughter plays tennis?
+majdnem	[sound:Hungarian_FSI_1_1.03.41.460-1.03.42.569.mp3]	nearly, almost
+nemzetközi	[sound:Hungarian_FSI_1_1.03.42.769-1.03.44.090.mp3]	international
+verseny	[sound:Hungarian_FSI_1_1.03.44.290-1.03.45.547.mp3]	tournarnent, match, race
+részt venni	[sound:Hungarian_FSI_1_1.03.45.747-1.03.47.192.mp3]	to take part
+Igen, teniszezik.	[sound:Hungarian_FSI_1_1.03.47.392-1.03.49.048.mp3]	Yes, she does.
+Majdnem minden nemzetközi versenyen részt vesz.	[sound:Hungarian_FSI_1_1.03.50.884-1.03.54.207.mp3]	She takes part in nearly every international tournament.
+férjnél van	[sound:Hungarian_FSI_1_1.03.57.649-1.03.59.219.mp3]	she's married
+Férjnél van?	[sound:Hungarian_FSI_1_1.03.59.419-1.04.00.866.mp3]	Is she married?
+külügy	[sound:Hungarian_FSI_1_1.04.02.809-1.04.03.886.mp3]	foreign affairs
+minisztérium, -a	[sound:Hungarian_FSI_1_1.04.04.086-1.04.07.091.mp3]	ministry
+külügyminisztérium	[sound:Hungarian_FSI_1_1.04.07.291-1.04.09.070.mp3]	Ministry of Foreign Affairs
+sajtó	[sound:Hungarian_FSI_1_1.04.09.270-1.04.10.249.mp3]	press
+osztály	[sound:Hungarian_FSI_1_1.04.10.449-1.04.11.422.mp3]	department, class
+Igen. A férje a külügyminisztériumban dolgozik.	[sound:Hungarian_FSI_1_1.04.12.787-1.04.16.136.mp3]	Yes. Her husband works in the Ministry of Foreign Affairs.
+A sajtóosztályon van.	[sound:Hungarian_FSI_1_1.04.18.491-1.04.20.272.mp3]	He's in the press department.
+Akkor biztosan találkozom majd velük.	[sound:Hungarian_FSI_1_1.04.22.218-1.04.24.869.mp3]	Then I'll surely meet them sometime.
+Mondja, ki az az úr, aki most jön ki a másik szobából?	[sound:Hungarian_FSI_1_1.04.27.771-1.04.31.465.mp3]	Tell me, who's the gentleman coming out of the other room now?
+svéd	[sound:Hungarian_FSI_1_1.04.35.441-1.04.36.520.mp3]	Swedish, Swede
+katonai	[sound:Hungarian_FSI_1_1.04.36.720-1.04.37.769.mp3]	military
+attasé	[sound:Hungarian_FSI_1_1.04.37.969-1.04.39.083.mp3]	attaché
+Az a svéd katonai attasé.	[sound:Hungarian_FSI_1_1.04.39.283-1.04.41.419.mp3]	That's the Swedish Military Attaché.
+A felesége is itt van?	[sound:Hungarian_FSI_1_1.04.43.822-1.04.45.924.mp3]	Is his wife here also?
+hétfőn	[sound:Hungarian_FSI_1_1.04.47.984-1.04.49.435.mp3]	on Monday
+kedden	[sound:Hungarian_FSI_1_1.04.49.635-1.04.50.507.mp3]	on Tuesday
+szerdán	[sound:Hungarian_FSI_1_1.04.50.607-1.04.51.604.mp3]	on Wednesday
+csütörtökön	[sound:Hungarian_FSI_1_1.04.51.804-1.04.53.135.mp3]	on Thursday
+pénteken	[sound:Hungarian_FSI_1_1.04.53.335-1.04.54.419.mp3]	on Friday
+szombaton	[sound:Hungarian_FSI_1_1.04.54.619-1.04.55.788.mp3]	on Saturday
+Nem, ő nincs itt.	[sound:Hungarian_FSI_1_1.04.55.988-1.04.57.777.mp3]	No, she isn't here.
+Úgy tudom, hogy hétfőn érkezik Svédországból.	[sound:Hungarian_FSI_1_1.04.59.917-1.05.02.963.mp3]	I believe she's arriving from Sweden on Monday.
+beszélgetni	[sound:Hungarian_FSI_1_1.05.06.112-1.05.07.554.mp3]	to converse, to chat
+És kik azok, akik most beszélgetnek vele?	[sound:Hungarian_FSI_1_1.05.07.754-1.05.10.463.mp3]	And who are those people chatting with him now?
+követ, -e	[sound:Hungarian_FSI_1_1.05.13.826-1.05.16.185.mp3]	minister
+nagykövet	[sound:Hungarian_FSI_1_1.05.16.385-1.05.17.673.mp3]	ambassador
+Az a francia követ és a felesége.	[sound:Hungarian_FSI_1_1.05.18.173-1.05.20.551.mp3]	That's the French Minister and his wife.
+És az a szép asszony, aki az attasé mellett áll?	[sound:Hungarian_FSI_1_1.05.23.110-1.05.26.481.mp3]	And that beautiful woman standing next to the attaché?
+olasz	[sound:Hungarian_FSI_1_1.05.30.301-1.05.31.478.mp3]	Italian
+spanyol	[sound:Hungarian_FSI_1_1.05.31.678-1.05.32.667.mp3]	Spanish
+görög, -öt	[sound:Hungarian_FSI_1_1.05.32.867-1.05.35.176.mp3]	Greek
+török, -öt	[sound:Hungarian_FSI_1_1.05.35.376-1.05.37.590.mp3]	Turk, Turkish
+finn	[sound:Hungarian_FSI_1_1.05.37.790-1.05.38.413.mp3]	Finn, Finnish
+lengyel	[sound:Hungarian_FSI_1_1.05.38.613-1.05.39.720.mp3]	Pole, Polish
+ügyvivő	[sound:Hungarian_FSI_1_1.05.39.920-1.05.41.129.mp3]	chargé d'affaires
+Az az olasz ügyvivő felesége.	[sound:Hungarian_FSI_1_1.05.41.329-1.05.43.664.mp3]	That's the wife of the Italian chargé d'Affaires.
+nyugati	[sound:Hungarian_FSI_1_1.05.46.106-1.05.47.264.mp3]	western
+keleti	[sound:Hungarian_FSI_1_1.05.47.464-1.05.48.372.mp3]	eastern
+északi	[sound:Hungarian_FSI_1_1.05.48.572-1.05.49.667.mp3]	northern
+déli	[sound:Hungarian_FSI_1_1.05.49.867-1.05.50.597.mp3]	southern
+Csak nyugati diplomaták vannak itt?	[sound:Hungarian_FSI_1_1.05.50.797-1.05.53.005.mp3]	Are there only Western diplomats here?
+óh	[sound:Hungarian_FSI_1_1.05.55.909-1.05.56.831.mp3]	oh
+sarok, sarkot, sarka	[sound:Hungarian_FSI_1_1.05.57.031-1.06.00.046.mp3]	corner
+sajtóattasé	[sound:Hungarian_FSI_1_1.06.00.246-1.06.01.701.mp3]	press attaché
+újságíró	[sound:Hungarian_FSI_1_1.06.01.901-1.06.03.290.mp3]	journalist
+követségi titkár, -a	[sound:Hungarian_FSI_1_1.06.03.490-1.06.07.017.mp3]	legation secretary
+követségi tanácsos	[sound:Hungarian_FSI_1_1.06.07.217-1.06.09.207.mp3]	legation counselor
+Óh, nem. Látja azokat az urakat a sarokban?	[sound:Hungarian_FSI_1_1.06.10.797-1.06.14.431.mp3]	Oh, no. Do you see those gentlemen in the corner?
+Az egyik az orosz sajtóattasé, a masik egy lengyel újságíró.	[sound:Hungarian_FSI_1_1.06.17.500-1.06.22.122.mp3]	One of them is the Russian press attaché; the other is a Polish journalist.
+Egy török követségi titkar beszélget velük.	[sound:Hungarian_FSI_1_1.06.26.582-1.06.29.504.mp3]	A Turkish Legation secretary's chatting with them.
+Konyakot isznak?	[sound:Hungarian_FSI_1_1.06.32.774-1.06.34.233.mp3]	Are they drinking cognac?
+tokaji	[sound:Hungarian_FSI_1_1.06.36.274-1.06.37.287.mp3]	Tokay (wine)
+megkóstolni	[sound:Hungarian_FSI_1_1.06.37.687-1.06.39.079.mp3]	to taste, try, sample
+Azt hiszem, tokaji bort isznak.	[sound:Hungarian_FSI_1_1.06.39.479-1.06.41.624.mp3]	I believe they're drinking Tokay wine.
+Nem kóstoljuk meg mi is?	[sound:Hungarian_FSI_1_1.06.44.121-1.06.46.241.mp3]	Shall we not have some also?
+Ott van az asztalon.	[sound:Hungarian_FSI_1_1.06.48.829-1.06.50.477.mp3]	There's some there on the table.
+sokan	[sound:Hungarian_FSI_1_1.06.52.526-1.06.53.675.mp3]	many (people)
+el	[sound:Hungarian_FSI_1_1.06.53.875-1.06.54.574.mp3]	away, off
+elmenni	[sound:Hungarian_FSI_1_1.06.54.774-1.06.55.788.mp3]	to go, go away, leave
+Látom, már sokan elmennek.	[sound:Hungarian_FSI_1_1.06.55.988-1.06.57.970.mp3]	I see many people are leaving already.
+Hány óra van?	[sound:Hungarian_FSI_1_1.07.00.160-1.07.01.499.mp3]	What time is it?
+múlt	[sound:Hungarian_FSI_1_1.07.03.623-1.07.04.601.mp3]	past, last
+Még nincs késő.	[sound:Hungarian_FSI_1_1.07.04.758-1.07.06.042.mp3]	It isn't late yet.
+Csak öt perccel múlt tíz.	[sound:Hungarian_FSI_1_1.07.08.263-1.07.10.415.mp3]	It's only five minutes past ten.
+órakor	[sound:Hungarian_FSI_1_1.07.13.443-1.07.14.506.mp3]	at ... o'clock
+Maga hány órakor akar elmenni?	[sound:Hungarian_FSI_1_1.07.14.706-1.07.17.150.mp3]	At what time do you want to leave?
+Fél tizenegykor megyek.	[sound:Hungarian_FSI_1_1.07.20.132-1.07.22.165.mp3]	I'll be going at half past ten.
+búcsúzni	[sound:Hungarian_FSI_1_1.07.24.427-1.07.25.595.mp3]	to say goodby, take leave
+a háziasszonytól	[sound:Hungarian_FSI_1_1.07.25.795-1.07.27.289.mp3]	from the hostess
+miniszter, -e	[sound:Hungarian_FSI_1_1.07.27.489-1.07.29.943.mp3]	minister, cabinet member
+külügyminiszter	[sound:Hungarian_FSI_1_1.07.30.543-1.07.31.785.mp3]	Minister of Foreign Affairs
+Látja azt az urat, aki most búcsúzik a háziasszonytól?	[sound:Hungarian_FSI_1_1.07.32.285-1.07.35.551.mp3]	Do you see that gentleman now saying goodby to the hostess?
+ő a külügyminiszter.	[sound:Hungarian_FSI_1_1.07.39.540-1.07.41.155.mp3]	He's the Minister of Foreign Affairs.
+Sokan vannak itt a külügyminisztériumból?	[sound:Hungarian_FSI_1_1.07.43.509-1.07.46.352.mp3]	Are there many here from the Ministry of Foreign Affairs?
+politikai	[sound:Hungarian_FSI_1_1.07.49.797-1.07.51.054.mp3]	political
+főnök, -öt, -e	[sound:Hungarian_FSI_1_1.07.51.554-1.07.55.061.mp3]	chief, principal, boss
+vezető	[sound:Hungarian_FSI_1_1.07.55.261-1.07.56.346.mp3]	leader, chief
+osztályvezető	[sound:Hungarian_FSI_1_1.07.56.546-1.07.57.993.mp3]	department head
+Nem sokan.	[sound:Hungarian_FSI_1_1.07.58.193-1.07.59.195.mp3]	Not many.
+A politikai osztály főnöke van itt és egy vagy két osztályvezető.	[sound:Hungarian_FSI_1_1.08.01.009-1.08.05.192.mp3]	The chief of the political section and one or two department heads are here.
+helyettes	[sound:Hungarian_FSI_1_1.08.09.775-1.08.10.985.mp3]	deputy, assistant
+A külügyminiszter helyettese is itt van?	[sound:Hungarian_FSI_1_1.08.11.185-1.08.14.036.mp3]	Is the Under Secretary of state also here?
+Lengyelország	[sound:Hungarian_FSI_1_1.08.17.251-1.08.18.823.mp3]	Poland
+Gorögörszag	[sound:Hungarian_FSI_1_1.08.19.223-1.08.20.516.mp3]	Greece
+Törökország	[sound:Hungarian_FSI_1_1.08.20.916-1.08.22.293.mp3]	Turkey
+Finnország	[sound:Hungarian_FSI_1_1.08.22.493-1.08.23.709.mp3]	Finland
+Spanyolország	[sound:Hungarian_FSI_1_1.08.24.209-1.08.25.617.mp3]	Spain
+Azt hiszem, Lengyelországban van.	[sound:Hungarian_FSI_1_1.08.29.594-1.08.31.900.mp3]	I believe he's in Poland.
+ezen	[sound:Hungarian_FSI_1_1.08.34.104-1.08.34.919.mp3]	on this
+Mit csinálnak ezen a nyáron?	[sound:Hungarian_FSI_1_1.08.35.419-1.08.37.039.mp3]	What are you going to do this summer?
+Balaton	[sound:Hungarian_FSI_1_1.08.39.658-1.08.40.787.mp3]	lake in Hungary
+nyaralni	[sound:Hungarian_FSI_1_1.08.41.187-1.08.42.282.mp3]	to spend the summer holidays, pass the summer
+idén	[sound:Hungarian_FSI_1_1.08.42.482-1.08.43.339.mp3]	this year
+tavaly	[sound:Hungarian_FSI_1_1.08.43.539-1.08.44.517.mp3]	last year
+Földvár	[sound:Hungarian_FSI_1_1.08.44.917-1.08.45.892.mp3]	a summer resort on the Balaton
+A Balatonon akarunk nyaralni az idén.	[sound:Hungarian_FSI_1_1.08.46.292-1.08.48.760.mp3]	We want to spend our summer vacation at the Balaton this year.
+Talán Földváron.	[sound:Hungarian_FSI_1_1.08.51.464-1.08.53.017.mp3]	Perhaps in Földvár.
+Volt már a Balatonon?	[sound:Hungarian_FSI_1_1.08.55.117-1.08.56.673.mp3]	Have you already been at the Balaton?
+hogyne	[sound:Hungarian_FSI_1_1.08.58.989-1.08.59.883.mp3]	of course
+szórakozni	[sound:Hungarian_FSI_1_1.09.00.283-1.09.01.481.mp3]	to enjoy, have a good time
+azon	[sound:Hungarian_FSI_1_1.09.01.881-1.09.02.607.mp3]	on that
+oldal, -a	[sound:Hungarian_FSI_1_1.09.02.807-1.09.05.243.mp3]	side
+mély	[sound:Hungarian_FSI_1_1.09.05.443-1.09.06.371.mp3]	deep
+Hogyne! Mindig jól szórakozunk ott.	[sound:Hungarian_FSI_1_1.09.06.571-1.09.09.468.mp3]	Of course! We always have a good time there.
+A gyerekek is nagyon szeretik a Balatont.	[sound:Hungarian_FSI_1_1.09.12.292-1.09.14.829.mp3]	The children also like the Balaton very much.
+Azon az oldalon a víz nem mély.	[sound:Hungarian_FSI_1_1.09.17.434-1.09.19.760.mp3]	On that side the water isnlt deep.
+Mit csinálnak egész nap?	[sound:Hungarian_FSI_1_1.09.22.268-1.09.24.013.mp3]	What do you do all day long?
+csónakázni	[sound:Hungarian_FSI_1_1.09.26.554-1.09.27.944.mp3]	to go boat riding
+feküdni	[sound:Hungarian_FSI_1_1.09.28.144-1.09.29.002.mp3]	to lie
+aludni	[sound:Hungarian_FSI_1_1.09.29.202-1.09.30.122.mp3]	to sleep
+A gyerekek a vízben játszanak.	[sound:Hungarian_FSI_1_1.09.30.322-1.09.32.553.mp3]	The children play in the water.
+A feleségem úszik vagy csónakázik, én pedig fekszem a fák alatt és alszom.	[sound:Hungarian_FSI_1_1.09.35.428-1.09.40.415.mp3]	My wife swims or goes boat riding; however, I lie under the trees and sleep.
+Mikor akarnak menni?	[sound:Hungarian_FSI_1_1.09.46.576-1.09.48.103.mp3]	When do you plan to go?
+június	[sound:Hungarian_FSI_1_1.09.50.263-1.09.51.336.mp3]	June
+július	[sound:Hungarian_FSI_1_1.09.51.536-1.09.52.691.mp3]	July
+augusztus	[sound:Hungarian_FSI_1_1.09.53.091-1.09.54.202.mp3]	August
+szeptember	[sound:Hungarian_FSI_1_1.09.54.602-1.09.55.691.mp3]	September
+október	[sound:Hungarian_FSI_1_1.09.56.091-1.09.57.155.mp3]	October
+november	[sound:Hungarian_FSI_1_1.09.57.655-1.09.58.681.mp3]	November
+december	[sound:Hungarian_FSI_1_1.09.58.881-1.10.00.095.mp3]	December
+január	[sound:Hungarian_FSI_1_1.10.00.295-1.10.01.199.mp3]	January
+február	[sound:Hungarian_FSI_1_1.10.01.599-1.10.02.719.mp3]	February
+március	[sound:Hungarian_FSI_1_1.10.02.919-1.10.04.245.mp3]	March
+április	[sound:Hungarian_FSI_1_1.10.04.445-1.10.05.733.mp3]	April
+május	[sound:Hungarian_FSI_1_1.10.06.133-1.10.07.049.mp3]	May
+vége	[sound:Hungarian_FSI_1_1.10.07.249-1.10.08.367.mp3]	end
+Júniusban megyünk, a hónap végén.	[sound:Hungarian_FSI_1_1.10.08.767-1.10.11.319.mp3]	We'll go in June, the end of the month.
+Akkor már eleg meleg lesz.	[sound:Hungarian_FSI_1_1.10.14.192-1.10.16.173.mp3]	Then it will (already) be warm enough.
+alföld, -je	[sound:Hungarian_FSI_1_1.10.24.471-1.10.26.634.mp3]	lowland, plain
+szövetkezet, -e	[sound:Hungarian_FSI_1_1.10.26.834-1.10.29.504.mp3]	coöperative
+Johnsonék meglátogatják Tóthékat.	[sound:Hungarian_FSI_1_1.10.29.704-1.10.32.386.mp3]	The Johnsons visit the Tóths.
+Tóthék az Alföldön laknak.	[sound:Hungarian_FSI_1_1.10.34.771-1.10.36.946.mp3]	The Tóths live in the Alföld.
+Tóth egy szövetkezetben dolgozik.	[sound:Hungarian_FSI_1_1.10.39.221-1.10.41.499.mp3]	Tóth works in a coöperative.
+Látja azt a házat?	[sound:Hungarian_FSI_1_1.10.44.308-1.10.45.966.mp3]	Do you see that house?
+Az Tóthék háza.	[sound:Hungarian_FSI_1_1.10.48.172-1.10.49.777.mp3]	It belongs to the Tóths.
+kapu	[sound:Hungarian_FSI_1_1.10.52.368-1.10.53.297.mp3]	gate
+Nem Tóth áll a kapuban?	[sound:Hungarian_FSI_1_1.10.53.497-1.10.55.150.mp3]	Isn't that Tóth standiryg at the gate?
+De igen... Itt is vagyunk.	[sound:Hungarian_FSI_1_1.10.57.561-1.11.00.020.mp3]	Why, yes ... Here we are.
+Jó útjuk volt?	[sound:Hungarian_FSI_1_1.11.06.318-1.11.07.921.mp3]	Have you had a nice trip?
+tudtam	[sound:Hungarian_FSI_1_1.11.09.769-1.11.10.788.mp3]	I knew, was able
+gyorsan	[sound:Hungarian_FSI_1_1.11.10.988-1.11.11.939.mp3]	quickly, fast, rapidly
+lassan	[sound:Hungarian_FSI_1_1.11.12.439-1.11.13.448.mp3]	slowly
+hajtani	[sound:Hungarian_FSI_1_1.11.13.848-1.11.14.898.mp3]	to drive
+szekér, szekeret, szekere	[sound:Hungarian_FSI_1_1.11.15.298-1.11.18.962.mp3]	cart, wagon
+teherautó	[sound:Hungarian_FSI_1_1.11.19.262-1.11.20.458.mp3]	truck
+traktor, -a, -ja	[sound:Hungarian_FSI_1_1.11.20.858-1.11.24.825.mp3]	tractor
+út, utat, útja	[sound:Hungarian_FSI_1_1.11.25.025-1.11.27.332.mp3]	road, way
+Nem rossz, csak nem tudtam gyorsan hajtani.	[sound:Hungarian_FSI_1_1.11.27.532-1.11.29.941.mp3]	Not bad, only I wasn't able to drive fast.
+Sok szekér, teherautó és traktor volt az úton.	[sound:Hungarian_FSI_1_1.11.33.427-1.11.36.811.mp3]	There were many carts, trucks and tractors on the road.
+poros	[sound:Hungarian_FSI_1_1.11.40.842-1.11.41.783.mp3]	dusty
+országút	[sound:Hungarian_FSI_1_1.11.42.183-1.11.43.388.mp3]	highway, main road
+Nagyon poros volt az országút?	[sound:Hungarian_FSI_1_1.11.43.588-1.11.45.802.mp3]	Was the highway very dusty?
+Bizony elég poros volt.	[sound:Hungarian_FSI_1_1.11.48.415-1.11.50.260.mp3]	It certainly was quite dusty.
+gazdaság, -a	[sound:Hungarian_FSI_1_1.11.52.230-1.11.55.209.mp3]	farm, homestead
+Szép kis gazdasága van, Tóth úr!	[sound:Hungarian_FSI_1_1.11.55.609-1.11.58.006.mp3]	You have a beautiful small farm, Mr. Tóth.
+Elég szép, de sajnos túl kicsi.	[sound:Hungarian_FSI_1_1.12.00.077-1.12.02.444.mp3]	It's nice enough, but unfortunately too small.
+tag, -ja	[sound:Hungarian_FSI_1_1.12.05.820-1.12.07.745.mp3]	member
+Maga is tagja a szövetkezetnek?	[sound:Hungarian_FSI_1_1.12.08.252-1.12.10.333.mp3]	Are you also a member of the coöperative?
+mindenki	[sound:Hungarian_FSI_1_1.12.13.276-1.12.14.379.mp3]	everybody
+Igen, ebben a faluban mindenki tagja.	[sound:Hungarian_FSI_1_1.12.14.579-1.12.17.634.mp3]	Yes, everybody in this village is a member.
+hold, -at, -ja	[sound:Hungarian_FSI_1_1.12.21.076-1.12.24.542.mp3]	acre
+föld, -je	[sound:Hungarian_FSI_1_1.12.24.742-1.12.27.049.mp3]	soil, earth, ground, floor
+Hány hold földje van a szövetkezetnek?	[sound:Hungarian_FSI_1_1.12.27.249-1.12.29.590.mp3]	How many acres of land does the coöperative have?
+gabona	[sound:Hungarian_FSI_1_1.12.32.535-1.12.33.577.mp3]	crop, grain, corn
+búza	[sound:Hungarian_FSI_1_1.12.33.777-1.12.34.722.mp3]	wheat
+rozs	[sound:Hungarian_FSI_1_1.12.34.922-1.12.35.801.mp3]	rye
+árpa	[sound:Hungarian_FSI_1_1.12.36.301-1.12.37.371.mp3]	barley
+kukorica	[sound:Hungarian_FSI_1_1.12.37.571-1.12.38.729.mp3]	corn
+krumpli	[sound:Hungarian_FSI_1_1.12.39.129-1.12.40.239.mp3]	potato
+termelni	[sound:Hungarian_FSI_1_1.12.40.639-1.12.41.764.mp3]	to grow, cultivate, produce
+rajta	[sound:Hungarian_FSI_1_1.12.42.164-1.12.43.124.mp3]	on it, her, him
+Ötezer holdja van.	[sound:Hungarian_FSI_1_1.12.43.624-1.12.45.452.mp3]	It has 5000 acres.
+Mind jó föld.	[sound:Hungarian_FSI_1_1.12.47.202-1.12.49.129.mp3]	It's all good land.
+Fóleg gabonát termelünk rajta.	[sound:Hungarian_FSI_1_1.12.50.451-1.12.52.765.mp3]	We grow crops on it for the most part.
+tanya	[sound:Hungarian_FSI_1_1.12.55.551-1.12.56.325.mp3]	farm, farmstead
+Mi van abban a tanyaépületben?	[sound:Hungarian_FSI_1_1.12.56.625-1.12.58.756.mp3]	What's in that farm building?
+istálló	[sound:Hungarian_FSI_1_1.13.01.208-1.13.02.570.mp3]	stable, barn
+tartani	[sound:Hungarian_FSI_1_1.13.02.770-1.13.03.925.mp3]	to keep, hold
+ló, lovat, lova	[sound:Hungarian_FSI_1_1.13.04.125-1.13.07.169.mp3]	horse
+tehén, tehenet, tehene	[sound:Hungarian_FSI_1_1.13.07.369-1.13.11.160.mp3]	cow
+disznó, disznaja	[sound:Hungarian_FSI_1_1.13.11.360-1.13.13.887.mp3]	pig
+Az egy istálló.	[sound:Hungarian_FSI_1_1.13.14.087-1.13.15.829.mp3]	It's a stable.
+Ott tartják a szövetkezet lovait és teheneit.	[sound:Hungarian_FSI_1_1.13.17.721-1.13.21.030.mp3]	That's where they keep the horses and the cows belonging to the coöperative.
+saját	[sound:Hungarian_FSI_1_1.13.24.709-1.13.25.710.mp3]	own
+Vannak saját teheneik az embereknek Magyarországon?	[sound:Hungarian_FSI_1_1.13.25.910-1.13.29.386.mp3]	Do people have their own cows in Hungary?
+Minden családnak lehet egy vagy két saját tehene.	[sound:Hungarian_FSI_1_1.13.33.356-1.13.36.453.mp3]	Every family may own one or two cows.
+baromfi	[sound:Hungarian_FSI_1_1.13.39.913-1.13.40.983.mp3]	poultry
+csirke	[sound:Hungarian_FSI_1_1.13.41.083-1.13.42.055.mp3]	chicken
+tyúk, -ja	[sound:Hungarian_FSI_1_1.13.42.155-1.13.44.193.mp3]	hen
+kacsa	[sound:Hungarian_FSI_1_1.13.44.393-1.13.45.329.mp3]	duck
+liba	[sound:Hungarian_FSI_1_1.13.45.529-1.13.46.326.mp3]	goose
+pulyka	[sound:Hungarian_FSI_1_1.13.46.526-1.13.47.422.mp3]	turkey
+Lehet saját baromfit is tartani?	[sound:Hungarian_FSI_1_1.13.47.622-1.13.49.828.mp3]	Can they keep their own poultry also?
+körül	[sound:Hungarian_FSI_1_1.13.52.555-1.13.53.334.mp3]	around
+Igen, a ház körül lehet tartani.	[sound:Hungarian_FSI_1_1.13.53.834-1.13.56.628.mp3]	Yes, they can keep them around the house.
+eladni	[sound:Hungarian_FSI_1_1.13.59.552-1.14.00.556.mp3]	to sell
+Mit csinálnak velük?	[sound:Hungarian_FSI_1_1.14.00.756-1.14.02.482.mp3]	What do you do with them?
+Eladják őket?	[sound:Hungarian_FSI_1_1.14.04.247-1.14.05.900.mp3]	Do you sell them?
+piac	[sound:Hungarian_FSI_1_1.14.07.945-1.14.08.938.mp3]	market
+Megesszük vagyeladjuk a piacon.	[sound:Hungarian_FSI_1_1.14.09.438-1.14.11.720.mp3]	We eat them or sell them at the market.
+Közel van a piac?	[sound:Hungarian_FSI_1_1.14.14.785-1.14.16.415.mp3]	Is the market nearby?
+szomszéd, -ja	[sound:Hungarian_FSI_1_1.14.18.635-1.14.21.442.mp3]	neighbor
+A szomszéd városban van.	[sound:Hungarian_FSI_1_1.14.24.901-1.14.27.007.mp3]	It's in the neighboring city.
+gyümölcsös. -ök	[sound:Hungarian_FSI_1_1.14.29.576-1.14.32.680.mp3]	orchard
+Látom, hogy szép gyümölcsöse van.	[sound:Hungarian_FSI_1_1.14.32.880-1.14.35.076.mp3]	I see you have a nice orchard.
+Milyen gyümölcsfái vannak?	[sound:Hungarian_FSI_1_1.14.38.036-1.14.40.043.mp3]	What kind of fruit trees do you have?
+alma	[sound:Hungarian_FSI_1_1.14.42.571-1.14.43.511.mp3]	apple
+körte	[sound:Hungarian_FSI_1_1.14.43.911-1.14.44.753.mp3]	pear
+cseresznye	[sound:Hungarian_FSI_1_1.14.44.953-1.14.46.211.mp3]	cherry
+szilva	[sound:Hungarian_FSI_1_1.14.46.411-1.14.47.480.mp3]	plum, prune
+egy-két	[sound:Hungarian_FSI_1_1.14.47.680-1.14.48.900.mp3]	few, some
+termés	[sound:Hungarian_FSI_1_1.14.49.100-1.14.50.083.mp3]	crop, yield, harvest, produce
+Főleg alma- és barackfáim vannak.	[sound:Hungarian_FSI_1_1.14.50.283-1.14.53.020.mp3]	I have apple and apricot trees for the most part.
+De van egy-két körte- és cseresznyefám is.	[sound:Hungarian_FSI_1_1.14.55.346-1.14.58.174.mp3]	But I also have a few pear and cherry trees.
+Azt hiszem, jó termésünk lesz az idén.	[sound:Hungarian_FSI_1_1.15.01.205-1.15.03.895.mp3]	I think we'll have a good crop this year.
+bokor, bokrot, bokra	[sound:Hungarian_FSI_1_1.15.06.099-1.15.08.969.mp3]	bush
+Azok a maga bokrai ott?	[sound:Hungarian_FSI_1_1.15.09.169-1.15.11.098.mp3]	Are those bushes there yours?
+málna	[sound:Hungarian_FSI_1_1.15.13.706-1.15.14.645.mp3]	raspberry
+Nem, azok a szomszédom málnabokrai.	[sound:Hungarian_FSI_1_1.15.15.145-1.15.17.624.mp3]	No, they're my neighbor's raspberry shrubs.
+Szép nagy háza van a szomszérljának!	[sound:Hungarian_FSI_1_1.15.20.456-1.15.22.853.mp3]	Your neighbor has a beautifui big house!
+A ház ablakai is milyen nagyok!	[sound:Hungarian_FSI_1_1.15.25.784-1.15.28.247.mp3]	And how large the windows of the house are!
+háború	[sound:Hungarian_FSI_1_1.15.31.098-1.15.32.045.mp3]	war
+gazdálkodó	[sound:Hungarian_FSI_1_1.15.32.445-1.15.33.725.mp3]	farmer
+kulák	[sound:Hungarian_FSI_1_1.15.33.827-1.15.34.618.mp3]	wealthy peasant
+Igen, szép. A háború előtt gazdálkodó volt.	[sound:Hungarian_FSI_1_1.15.36.772-1.15.40.860.mp3]	Yes, it's nice. Before the war he was a farmer.
+Nagy tanyái voltak.	[sound:Hungarian_FSI_1_1.15.42.869-1.15.45.162.mp3]	He had some large farms.
+Most kuláknak hívják.	[sound:Hungarian_FSI_1_1.15.48.745-1.15.50.332.mp3]	"Now he is called a ""kulák""."
+kinek	[sound:Hungarian_FSI_1_1.15.50.432-1.15.51.216.mp3]	to whom
+kutya	[sound:Hungarian_FSI_1_1.15.51.316-1.15.52.021.mp3]	dog
+ugatni	[sound:Hungarian_FSI_1_1.15.52.221-1.15.53.154.mp3]	to bark
+szaladni	[sound:Hungarian_FSI_1_1.15.53.354-1.15.54.420.mp3]	to run
+Kinek a kutyái ugatnak az úton?	[sound:Hungarian_FSI_1_1.15.56.575-1.15.58.529.mp3]	Whose dogs are those barking on the road?
+A maguk kutyái?	[sound:Hungarian_FSI_1_1.15.58.629-1.15.59.617.mp3]	Your dogs?
+házőrző kutya	[sound:Hungarian_FSI_1_1.16.01.790-1.16.03.272.mp3]	watch dog
+nekünk	[sound:Hungarian_FSI_1_1.16.03.472-1.16.04.374.mp3]	to us
+Nem, azok nem a mi kutyáink.	[sound:Hungarian_FSI_1_1.16.04.574-1.16.06.985.mp3]	No, they're not our dogs.
+Azok a szomszédom fiának a kutyái.	[sound:Hungarian_FSI_1_1.16.12.075-1.16.14.371.mp3]	They're my neighbor's son's dogs.
+Nekünk csak egy kutyánk van, egy házőrző kutya.	[sound:Hungarian_FSI_1_1.16.17.687-1.16.20.724.mp3]	We have only one dog, a watch dog.
+Hol van a maguk kutyája?	[sound:Hungarian_FSI_1_1.16.20.824-1.16.22.206.mp3]	Where's ypur dog?
+Ott fekszik a kapu előtt.	[sound:Hungarian_FSI_1_1.16.24.725-1.16.26.612.mp3]	He's lying there in front of the gate.
+Az a maguk kertje a ház mögött?	[sound:Hungarian_FSI_1_1.16.28.744-1.16.31.020.mp3]	Is that your garden behind the house?
+mindenféle	[sound:Hungarian_FSI_1_1.16.33.897-1.16.35.018.mp3]	all kinds, sorts
+paradicsom, -ja	[sound:Hungarian_FSI_1_1.16.35.318-1.16.38.031.mp3]	tomato
+paprika	[sound:Hungarian_FSI_1_1.16.38.431-1.16.39.424.mp3]	green pepper
+saláta	[sound:Hungarian_FSI_1_1.16.39.824-1.16.41.005.mp3]	lettuce, salad
+uborka	[sound:Hungarian_FSI_1_1.16.41.305-1.16.42.336.mp3]	cucumber
+eper, epret, epre	[sound:Hungarian_FSI_1_1.16.42.736-1.16.46.106.mp3]	strawberry
+Igen, az a feleségem konyhakertje.	[sound:Hungarian_FSI_1_1.16.46.606-1.16.49.276.mp3]	Yes, that's my wife's kitchen garden.
+Mindenféle zöldség van a kertben, főleg paradicsom.	[sound:Hungarian_FSI_1_1.16.52.372-1.16.55.977.mp3]	There are all sorts of vegetables in the garden, tomatoes in particular.
+Eper is van a kert egyik sarkában.	[sound:Hungarian_FSI_1_1.17.00.134-1.17.02.480.mp3]	There are also strawberries in one corner of the garden.
+egyedül	[sound:Hungarian_FSI_1_1.17.05.204-1.17.06.176.mp3]	alone
+öntözni	[sound:Hungarian_FSI_1_1.17.06.476-1.17.07.695.mp3]	to water, irrigate
+A felesége egyedül öntözi a kertet?	[sound:Hungarian_FSI_1_1.17.07.895-1.17.10.444.mp3]	Does your wife water the garden alone?
+segíteni	[sound:Hungarian_FSI_1_1.17.13.666-1.17.14.921.mp3]	to help
+neki	[sound:Hungarian_FSI_1_1.17.15.121-1.17.16.028.mp3]	to her, him, it
+Nem. A lányaim segítenek neki.	[sound:Hungarian_FSI_1_1.17.16.428-1.17.18.808.mp3]	No. My daughters help her.
+Nagyok a lányai?	[sound:Hungarian_FSI_1_1.17.21.412-1.17.22.966.mp3]	Are your daughters grown-up?
+Igen, már nagyok.	[sound:Hungarian_FSI_1_1.17.24.602-1.17.26.153.mp3]	Yes, they're grown-up now.
+Középiskolába jarnak.	[sound:Hungarian_FSI_1_1.17.30.636-1.17.32.556.mp3]	They attend high school.
+Szeretnek tanulni?	[sound:Hungarian_FSI_1_1.17.32.756-1.17.34.133.mp3]	Do they like to study?
+varrni	[sound:Hungarian_FSI_1_1.17.35.703-1.17.36.518.mp3]	to sew
+Szeretnek, de itthon is sokat dolgoznak.	[sound:Hungarian_FSI_1_1.17.36.718-1.17.39.316.mp3]	Yes they do, but they work hard at home also.
+Jól varrnak.	[sound:Hungarian_FSI_1_1.17.41.869-1.17.43.032.mp3]	They're good at sewing.
+A feleségem ruháit is ők varrják.	[sound:Hungarian_FSI_1_1.17.44.978-1.17.47.397.mp3]	They sew my wife's dresses also.
+ügyes	[sound:Hungarian_FSI_1_1.17.50.217-1.17.51.114.mp3]	smart, clever, able, skillful
+Ügyes lányai vannak. Tóth úr!	[sound:Hungarian_FSI_1_1.17.51.314-1.17.53.673.mp3]	You have clever daughters. Mr. Tóth!
+Hála Isten, elég ügyesek.	[sound:Hungarian_FSI_1_1.17.55.527-1.17.57.457.mp3]	Yes, they're quite skillful.
+Fiai is vannak?	[sound:Hungarian_FSI_1_1.18.00.029-1.18.01.820.mp3]	Do you have sons also?
+Igen, két fiam van.	[sound:Hungarian_FSI_1_1.18.03.915-1.18.05.810.mp3]	Yes. I have two sons.
+Az Állami Gazdaságban dolgoznak.	[sound:Hungarian_FSI_1_1.18.07.736-1.18.10.311.mp3]	They work in the State Farm.
+A lovakat gondozzak.	[sound:Hungarian_FSI_1_1.18.12.708-1.18.14.183.mp3]	They look after the horses.
+fizetés	[sound:Hungarian_FSI_1_1.18.15.522-1.18.16.521.mp3]	salary
+Jó fizetést kapnak?	[sound:Hungarian_FSI_1_1.18.16.921-1.18.18.653.mp3]	Do they get a good salary?
+Elég jót.	[sound:Hungarian_FSI_1_1.18.20.972-1.18.22.262.mp3]	Quite good.
+toll, -at, -a	[sound:Hungarian_FSI_1_1.18.23.815-1.18.27.511.mp3]	feather
+madár, madarat, madara	[sound:Hungarian_FSI_1_1.18.27.611-1.18.31.010.mp3]	bird
+Milyen szép tolluk van azoknak a madaraknak!	[sound:Hungarian_FSI_1_1.18.31.210-1.18.34.204.mp3]	What beautiful feathers those birds have!
+énekelni	[sound:Hungarian_FSI_1_1.18.37.312-1.18.38.717.mp3]	to sing
+A szomszédom azt mondja, hogy ezek az ő madarai, és csak neki énekelnek!	[sound:Hungarian_FSI_1_1.18.38.917-1.18.44.206.mp3]	My neighbor says that these are his birds and they sing only for him!
+Azt hiszem, a felesége hívja magát, Tóth úr.	[sound:Hungarian_FSI_1_1.18.52.172-1.18.54.851.mp3]	I think your wife is calling you. Mr. Tóth.
+hang, -ja	[sound:Hungarian_FSI_1_1.18.55.105-1.18.57.227.mp3]	voice
+úgy látszik	[sound:Hungarian_FSI_1_1.18.57.527-1.18.58.906.mp3]	it seems
+ebédre	[sound:Hungarian_FSI_1_1.18.59.106-1.19.00.115.mp3]	for dinner
+paprikás csirke	[sound:Hungarian_FSI_1_1.19.00.515-1.19.02.191.mp3]	chicken (seasoned with) paprika
+rétes	[sound:Hungarian_FSI_1_1.19.02.391-1.19.03.339.mp3]	strudel
+almás rétes	[sound:Hungarian_FSI_1_1.19.03.539-1.19.05.189.mp3]	apple strudel
+Igen, hallom a hangját.	[sound:Hungarian_FSI_1_1.19.05.389-1.19.07.216.mp3]	Yes, I hear her voice.
+Úgy látszik, kész az ebéd.	[sound:Hungarian_FSI_1_1.19.09.033-1.19.10.910.mp3]	Dinner apparently is ready.
+Paprikás csirke és almás rétes lesz ebédre.	[sound:Hungarian_FSI_1_1.19.13.070-1.19.16.668.mp3]	We'll have chicken paprika and apple strudel for dinner.
+Remélem, hogy szeretik.	[sound:Hungarian_FSI_1_1.19.20.195-1.19.21.605.mp3]	I hope you'll like it.
+IBUSZ (abbr.)	[sound:Hungarian_FSI_1_1.19.28.878-1.19.29.913.mp3]	Government Travel Agency
+utazási	[sound:Hungarian_FSI_1_1.19.30.113-1.19.31.242.mp3]	travel
+iroda	[sound:Hungarian_FSI_1_1.19.31.442-1.19.32.358.mp3]	office, bureau
+(Az IBUSZ Utazási Irodájában.)	[sound:Hungarian_FSI_1_1.19.32.558-1.19.35.072.mp3]	(In the IBUSZ Travel Bureau.)
+Siófok	[sound:Hungarian_FSI_1_1.19.38.233-1.19.39.505.mp3]	city on Lake Balaton
+érdeklődni	[sound:Hungarian_FSI_1_1.19.39.805-1.19.41.124.mp3]	to inquire, show interest in
+Jó reggelt kivánok!	[sound:Hungarian_FSI_1_1.19.41.324-1.19.42.876.mp3]	Good morning!
+Siófokra akarok menni.	[sound:Hungarian_FSI_1_1.19.45.016-1.19.46.805.mp3]	I want to go to Siófok.
+Érdeklődni szeretnék, hogyan lehet Siófokra utazni.	[sound:Hungarian_FSI_1_1.19.49.125-1.19.52.675.mp3]	I'd like to inquire about how one can travel to Siófok.
+Vonaton vagy autóbuszon akar menni?	[sound:Hungarian_FSI_1_1.19.56.578-1.19.58.994.mp3]	Do you want to go by train or by bus?
+Vonaton.	[sound:Hungarian_FSI_1_1.20.02.082-1.20.03.117.mp3]	By train.
+gyors	[sound:Hungarian_FSI_1_1.20.04.533-1.20.05.494.mp3]	fast, rapid, quick
+lassú	[sound:Hungarian_FSI_1_1.20.05.694-1.20.06.648.mp3]	slow
+gyorsvonat, -a, -ja	[sound:Hungarian_FSI_1_1.20.06.848-1.20.10.928.mp3]	express train
+személyvonat	[sound:Hungarian_FSI_1_1.20.11.328-1.20.12.681.mp3]	local train
+tehervonat	[sound:Hungarian_FSI_1_1.20.12.881-1.20.14.055.mp3]	freight train
+pályaudvar, -a	[sound:Hungarian_FSI_1_1.20.14.455-1.20.17.554.mp3]	railroad station
+ami	[sound:Hungarian_FSI_1_1.20.18.054-1.20.18.743.mp3]	which, that (relative pronoun)
+dél, delet, dele	[sound:Hungarian_FSI_1_1.20.18.943-1.20.22.134.mp3]	noon
+Reggel kilenckor indul egy gyorsvonat a Keleti pályaudvarról.	[sound:Hungarian_FSI_1_1.20.22.334-1.20.26.098.mp3]	There's an express train that starts at nine in the morning from the East Station.
+Az tizenegykor van Siófokon.	[sound:Hungarian_FSI_1_1.20.30.480-1.20.32.808.mp3]	It's in Siófok at eleven.
+Akkor gyorsvonaton megyek.	[sound:Hungarian_FSI_1_1.20.48.148-1.20.50.450.mp3]	Then I'll go on the express.
+Lehet itt jegyet kapni?	[sound:Hungarian_FSI_1_1.20.52.968-1.20.54.914.mp3]	Can I get a ticket here?
+párna	[sound:Hungarian_FSI_1_1.20.57.383-1.20.58.533.mp3]	cushion, pillow
+párnás	[sound:Hungarian_FSI_1_1.20.58.933-1.21.00.087.mp3]	cushioned, padded (2nd class)
+pad, -ja	[sound:Hungarian_FSI_1_1.21.00.587-1.21.02.700.mp3]	bench
+fapados	[sound:Hungarian_FSI_1_1.21.03.100-1.21.04.074.mp3]	railway carriage with wooden benches (third class)
+Igen. Milyen tetszik?	[sound:Hungarian_FSI_1_1.21.04.574-1.21.06.381.mp3]	Yes. What do you want?
+Párnás vagy fapados?	[sound:Hungarian_FSI_1_1.21.08.644-1.21.10.407.mp3]	A cushioned seat or a hard one?
+Mi az a párnás?	[sound:Hungarian_FSI_1_1.21.12.891-1.21.14.624.mp3]	What do you mean by 'párnás'?
+első	[sound:Hungarian_FSI_1_1.21.17.143-1.21.18.110.mp3]	first
+második	[sound:Hungarian_FSI_1_1.21.18.410-1.21.19.636.mp3]	second
+negyedik	[sound:Hungarian_FSI_1_1.21.19.736-1.21.20.599.mp3]	fourth
+ötödik	[sound:Hungarian_FSI_1_1.21.20.899-1.21.21.879.mp3]	fifth
+ülés	[sound:Hungarian_FSI_1_1.21.22.079-1.21.23.056.mp3]	seat
+puha	[sound:Hungarian_FSI_1_1.21.23.456-1.21.24.375.mp3]	soft
+kemény	[sound:Hungarian_FSI_1_1.21.24.675-1.21.25.733.mp3]	hard
+A párnás a régi első vagy második osztály, ott az ülés puha.	[sound:Hungarian_FSI_1_1.21.25.933-1.21.30.594.mp3]	The cushioned is the old first or second class; there the seat is soft.
+És a fapados?	[sound:Hungarian_FSI_1_1.21.35.627-1.21.37.116.mp3]	And the 'fapados'?
+ahol	[sound:Hungarian_FSI_1_1.21.39.538-1.21.40.357.mp3]	where
+A fapados a régi harmadik osztály, ahol az emberek fapadokon ülnek.	[sound:Hungarian_FSI_1_1.21.40.857-1.21.45.355.mp3]	The 'fapados' is the old third class, where people sit on wooden benches.
+Akkor kérek két jegyet a párnásra.	[sound:Hungarian_FSI_1_1.21.50.452-1.21.53.285.mp3]	Then I want two 'párnás' tickets.
+Kilencven forint.	[sound:Hungarian_FSI_1_1.22.00.169-1.22.01.798.mp3]	Ninety forints.
+jutni	[sound:Hungarian_FSI_1_1.22.03.836-1.22.04.736.mp3]	to arrive, come
+Tessék. Szeretnék még valamit kérdezni.	[sound:Hungarian_FSI_1_1.22.06.412-1.22.10.081.mp3]	Here you are. I'd like to ask something else.
+Hogy jutunk ki reggel az állomásra?	[sound:Hungarian_FSI_1_1.22.12.566-1.22.15.005.mp3]	How can we get out to the station in the morning?
+Hol laknak?	[sound:Hungarian_FSI_1_1.22.18.087-1.22.19.518.mp3]	Where do you live?
+A Szabadság tér mellett lakunk.	[sound:Hungarian_FSI_1_1.22.21.325-1.22.23.698.mp3]	We live near Szabadság Square.
+szálljanak fel (imperative)	[sound:Hungarian_FSI_1_1.22.26.049-1.22.27.815.mp3]	get in (command)
+bejárat, -a	[sound:Hungarian_FSI_1_1.22.28.015-1.22.30.727.mp3]	entrance
+kijárat, -a	[sound:Hungarian_FSI_1_1.22.30.927-1.22.33.705.mp3]	exit
+megállni	[sound:Hungarian_FSI_1_1.22.33.905-1.22.35.309.mp3]	to stop
+A Szabadság téren van az amerikai követség.	[sound:Hungarian_FSI_1_1.22.35.509-1.22.38.551.mp3]	The American Legation is on Szabadság Square.
+Az épülettől balra van az autóbuszmegálló.	[sound:Hungarian_FSI_1_1.22.42.081-1.22.45.120.mp3]	The bus stop is to the left of the building.
+Ott szálljanak fel az autóbuszra.	[sound:Hungarian_FSI_1_1.22.48.635-1.22.51.010.mp3]	Get into the bus there.
+Az a Keleti pályaudvar bejárata előtt áll meg.	[sound:Hungarian_FSI_1_1.22.53.945-1.22.57.091.mp3]	It stops in front of the entrance to the East Station.
+felvilágositás	[sound:Hungarian_FSI_1_1.23.00.973-1.23.02.655.mp3]	information
+Nagyon köszönöm a felvilágositást.	[sound:Hungarian_FSI_1_1.23.05.179-1.23.07.495.mp3]	Thank you very much for the information.
+utazás	[sound:Hungarian_FSI_1_1.23.07.795-1.23.08.777.mp3]	journey, trip
+Szívesen. Kellemes utazást kívánok.	[sound:Hungarian_FSI_1_1.23.09.177-1.23.12.018.mp3]	Don't mention it. Have a pleasant trip.
+(Az állomáson.)	[sound:Hungarian_FSI_1_1.23.15.249-1.23.16.792.mp3]	(At the station.)
+hordár, -ja	[sound:Hungarian_FSI_1_1.23.17.092-1.23.19.937.mp3]	porter
+ön, -ök	[sound:Hungarian_FSI_1_1.23.23.086-1.23.25.063.mp3]	you
+csomag, -ja	[sound:Hungarian_FSI_1_1.23.25.163-1.23.27.295.mp3]	luggage, parcel
+Ezek az őn csomagjai, uram?	[sound:Hungarian_FSI_1_1.23.27.495-1.23.29.650.mp3]	Is this your luggage, sir?
+mienk, miénk	[sound:Hungarian_FSI_1_1.23.32.367-1.23.34.790.mp3]	ours
+hányadik	[sound:Hungarian_FSI_1_1.23.34.890-1.23.36.086.mp3]	which
+vágány	[sound:Hungarian_FSI_1_1.23.36.286-1.23.37.379.mp3]	track, platform
+Ez a két bőrönd a mienk.	[sound:Hungarian_FSI_1_1.23.37.579-1.23.39.796.mp3]	These two suitcases are ours.
+Siófokra utazunk, gyorsvonaton, párnáson.	[sound:Hungarian_FSI_1_1.23.42.306-1.23.45.586.mp3]	We're going first class to Siófok. on the express.
+Hányadik vagányon áll a vonat?	[sound:Hungarian_FSI_1_1.23.49.313-1.23.51.682.mp3]	On which track is the train?
+jobb	[sound:Hungarian_FSI_1_1.23.54.493-1.23.55.291.mp3]	right
+bal	[sound:Hungarian_FSI_1_1.23.55.591-1.23.56.466.mp3]	left
+Jobboldalon, a negyedik vágányon.	[sound:Hungarian_FSI_1_1.23.56.666-1.23.58.966.mp3]	Fourth track. on the right side.
+Lehet már beszállni?	[sound:Hungarian_FSI_1_1.24.01.535-1.24.03.376.mp3]	Is it possible to get on board yet?
+múlva	[sound:Hungarian_FSI_1_1.24.05.442-1.24.06.346.mp3]	after, to, till (with reference to time)
+feltenni	[sound:Hungarian_FSI_1_1.24.06.746-1.24.07.920.mp3]	to put up
+Negyed óra múlva lehet csak beszállni.	[sound:Hungarian_FSI_1_1.24.09.760-1.24.12.127.mp3]	You can get on only after 15 minutes.
+De én felteszem a csomagokat most a vonatra.	[sound:Hungarian_FSI_1_1.24.15.121-1.24.18.193.mp3]	But I'lI put the luggage into the train now.
+Foglalok két helyet.	[sound:Hungarian_FSI_1_1.24.21.684-1.24.23.626.mp3]	I'll reserve two seats.
+Dohányzó tetszik?	[sound:Hungarian_FSI_1_1.24.25.797-1.24.27.449.mp3]	Do you want a smoker?
+Nemdohányzót kérünk.	[sound:Hungarian_FSI_1_1.24.31.058-1.24.32.900.mp3]	We want a non-smoker.
+Tudok még újságot venni?	[sound:Hungarian_FSI_1_1.24.33.100-1.24.35.094.mp3]	Can I still buy a newspaper?
+újságárus	[sound:Hungarian_FSI_1_1.24.37.463-1.24.38.950.mp3]	newsdealer, newsboy
+Igen. Az újságárus a kijárat mellett van.	[sound:Hungarian_FSI_1_1.24.39.350-1.24.42.697.mp3]	Yes. The newsdealer is next to the exit.
+De tessék sietni.	[sound:Hungarian_FSI_1_1.24.46.507-1.24.48.028.mp3]	But please hurry.
+(A vonaton. )	[sound:Hungarian_FSI_1_1.24.50.547-1.24.51.771.mp3]	(In the train.)
+Jó napot, Horváth úr. Hova utazik?	[sound:Hungarian_FSI_1_1.24.53.817-1.24.56.995.mp3]	Hello, Mr. Horváth! Where are you traveling?
+Dunántúl	[sound:Hungarian_FSI_1_1.24.58.865-1.24.59.868.mp3]	Transdanubia
+Székesfehérvár	[sound:Hungarian_FSI_1_1.25.00.068-1.25.01.679.mp3]	city in Dunántúl
+Dunántúlra megyek, Székesfehérvárra.	[sound:Hungarian_FSI_1_1.25.02.079-1.25.04.658.mp3]	I'm going to Dunántúl, to Székesfehérvár.
+együtt	[sound:Hungarian_FSI_1_1.25.08.068-1.25.09.199.mp3]	together
+Akkor együtt utazunk.	[sound:Hungarian_FSI_1_1.25.09.399-1.25.11.210.mp3]	Then we'll travel together.
+Van már helye?	[sound:Hungarian_FSI_1_1.25.13.331-1.25.14.579.mp3]	Do you have a seat yet?
+Most keresek egy üres helyet.	[sound:Hungarian_FSI_1_1.25.19.613-1.25.21.724.mp3]	l'm looking for a vacant seat now.
+Sok csomagja van?	[sound:Hungarian_FSI_1_1.25.24.441-1.25.25.918.mp3]	Do you have a lot of luggage?
+soha	[sound:Hungarian_FSI_1_1.25.27.877-1.25.29.019.mp3]	never
+Ha utazom, soha sincs sok csomagom.	[sound:Hungarian_FSI_1_1.25.29.419-1.25.31.698.mp3]	I never have much luggage when I travel.
+Csak ez az egy bőröndöm van.	[sound:Hungarian_FSI_1_1.25.34.668-1.25.36.852.mp3]	I have only this one suitcase.
+Nekem sincs sok csomagom.	[sound:Hungarian_FSI_1_1.25.39.419-1.25.41.395.mp3]	I don't have much baggage either.
+Egyedül van?	[sound:Hungarian_FSI_1_1.25.43.775-1.25.44.903.mp3]	Are you alone?
+sehova	[sound:Hungarian_FSI_1_1.25.46.634-1.25.47.793.mp3]	nowhere
+se, sem	[sound:Hungarian_FSI_1_1.25.48.193-1.25.50.030.mp3]	neither, nor, not ... either
+Igen. A feleségem sehova sem akar menni.	[sound:Hungarian_FSI_1_1.25.50.530-1.25.53.373.mp3]	Yes. My wife doesn't want to go anywhere.
+Nem szeret utazni.	[sound:Hungarian_FSI_1_1.25.57.012-1.25.58.510.mp3]	She doesn't like to travel.
+jöjjön (imperative)	[sound:Hungarian_FSI_1_1.26.00.775-1.26.01.961.mp3]	come (command)
+fülke	[sound:Hungarian_FSI_1_1.26.02.361-1.26.03.188.mp3]	compartment
+senki	[sound:Hungarian_FSI_1_1.26.03.588-1.26.04.609.mp3]	nobody
+le	[sound:Hungarian_FSI_1_1.26.05.109-1.26.05.727.mp3]	down
+tegye le (imperative)	[sound:Hungarian_FSI_1_1.26.06.127-1.26.07.247.mp3]	put down (command)
+Az én feleségem sem szeret utazni.	[sound:Hungarian_FSI_1_1.26.07.647-1.26.10.048.mp3]	My wife doesn't like to travel either.
+De most néhány napra Siófokra megyünk.	[sound:Hungarian_FSI_1_1.26.12.776-1.26.15.096.mp3]	But now we're going for a few days to Siófok.
+Jöjjön a mi fülkénkbe, még nincs ott senki sem.	[sound:Hungarian_FSI_1_1.26.17.827-1.26.20.924.mp3]	Come into our compartment nobody is there yet.
+Tegye le a kabátját az ülésre.	[sound:Hungarian_FSI_1_1.26.24.979-1.26.27.225.mp3]	Put your coat down on the seat.
+Mária, bemutatom Horváth urat.	[sound:Hungarian_FSI_1_1.26.29.915-1.26.32.610.mp3]	Mary, let me introduce Mr. Horváth.
+Már találkoztunk.	[sound:Hungarian_FSI_1_1.26.35.304-1.26.37.005.mp3]	We have already met.
+Jó reggelt, Horváth úr!	[sound:Hungarian_FSI_1_1.26.38.973-1.26.40.747.mp3]	Good morning, Mr. Horváth!
+át	[sound:Hungarian_FSI_1_1.26.42.733-1.26.43.657.mp3]	through, across, over
+vasút	[sound:Hungarian_FSI_1_1.26.43.857-1.26.45.022.mp3]	railroad
+híd, hidat, hídja	[sound:Hungarian_FSI_1_1.26.45.122-1.26.48.587.mp3]	bridge
+folyosó	[sound:Hungarian_FSI_1_1.26.48.787-1.26.50.047.mp3]	corridor
+sziget, -e	[sound:Hungarian_FSI_1_1.26.50.247-1.26.52.431.mp3]	island
+Margitsziget	[sound:Hungarian_FSI_1_1.26.52.631-1.26.54.067.mp3]	Margaret Island
+Jó reggelt, asszonyom!	[sound:Hungarian_FSI_1_1.26.54.367-1.26.55.914.mp3]	Good morning, Madam!
+Most megyünk át a vasúti hídon.	[sound:Hungarian_FSI_1_1.26.58.049-1.27.00.379.mp3]	We're now going over the railway bridge.
+A folyosóról talán lehet látni a Margitszigetet.	[sound:Hungarian_FSI_1_1.27.03.099-1.27.06.227.mp3]	Perhaps we can see Margaret Island from the corridor.
+Nem akarnak kijönni?	[sound:Hungarian_FSI_1_1.27.09.905-1.27.11.612.mp3]	Don't you want to come out?
+ötlet, -e	[sound:Hungarian_FSI_1_1.27.14.085-1.27.16.440.mp3]	idea, notion
+Jó ötlet!	[sound:Hungarian_FSI_1_1.27.16.640-1.27.18.009.mp3]	Good idea!
+Most megyünk át a Dunántúlra, nem?	[sound:Hungarian_FSI_1_1.27.19.876-1.27.22.373.mp3]	Now we're passing through to the Dunántúl, aren't we?
+azért	[sound:Hungarian_FSI_1_1.27.25.782-1.27.26.903.mp3]	therefore (for that reason)
+ezért	[sound:Hungarian_FSI_1_1.27.27.103-1.27.28.175.mp3]	therefore (for this reason)
+nevezni	[sound:Hungarian_FSI_1_1.27.28.375-1.27.29.416.mp3]	to name, call
+vidék, -e	[sound:Hungarian_FSI_1_1.27.29.816-1.27.32.073.mp3]	countryside, region, district
+Igen. A Duna másik oldalán már a Dunántúl van.	[sound:Hungarian_FSI_1_1.27.33.261-1.27.36.543.mp3]	Yes. The other side of the Danube is already the Dunántúl.
+Azért nevezik ezt a vidéket Dunántúlnak, mert a Dunán túl van.	[sound:Hungarian_FSI_1_1.27.40.463-1.27.44.851.mp3]	They call this region Dunántúl because it's beyond the Danube.
+Jól ismeri a Dunántúlt?	[sound:Hungarian_FSI_1_1.27.49.832-1.27.51.779.mp3]	Do you know the Dunántúl well?
+Igen. Van egy kis gyümölcsösöm Székesfehérvar mellett.	[sound:Hungarian_FSI_1_1.27.53.963-1.27.57.777.mp3]	Yes. I have a small orchard near Székesfehérvár.
+Oda gyakran megyek.	[sound:Hungarian_FSI_1_1.28.01.986-1.28.03.743.mp3]	I go there often.
+Meg a Balatonra járok nyaralni.	[sound:Hungarian_FSI_1_1.28.05.862-1.28.08.073.mp3]	And I go to the Balaton to spend my summer vacation.
+Az idén mi is a Balatonon nyaralunk.	[sound:Hungarian_FSI_1_1.28.10.955-1.28.13.715.mp3]	This year we're going to spend our summer vacation also at the Balaton.
+Messze van siófok Székesfehérvártól?	[sound:Hungarian_FSI_1_1.28.16.630-1.28.19.274.mp3]	Is Siófok far from Székesfehérvár?
+kilóméter	[sound:Hungarian_FSI_1_1.28.22.210-1.28.23.284.mp3]	kilometer
+Körülbelül negyvenöt kilóméterre van.	[sound:Hungarian_FSI_1_1.28.26.756-1.28.29.442.mp3]	= about 45 kilometers.
+nézze (imperative)	[sound:Hungarian_FSI_1_1.28.32.669-1.28.33.773.mp3]	look (command)
+Magyarországon semmi sincs messze.	[sound:Hungarian_FSI_1_1.28.36.534-1.28.38.746.mp3]	In Hungary nothing is far.
+Nézze, milyen szép az a kukoricaföld a tanya mellett!	[sound:Hungarian_FSI_1_1.28.38.846-1.28.41.924.mp3]	Look how beautiful that cornfield next to the farm is!
+semmit sem	[sound:Hungarian_FSI_1_1.28.45.195-1.28.46.633.mp3]	nothing at all
+mező, mezeje	[sound:Hungarian_FSI_1_1.28.46.833-1.28.49.380.mp3]	meadow
+Igen, ott jó a föld.	[sound:Hungarian_FSI_1_1.28.49.580-1.28.51.490.mp3]	Yes, the land is good there.
+De a másik oldalon nem termelnek semmit sem.	[sound:Hungarian_FSI_1_1.28.53.969-1.28.56.891.mp3]	But on the other side they don't grow anything at all.
+Az mező.	[sound:Hungarian_FSI_1_1.29.00.655-1.29.01.792.mp3]	It's all meadow.
+Érdekes, nem látok senkit sem dolgozni a földeken.	[sound:Hungarian_FSI_1_1.29.03.563-1.29.07.449.mp3]	It's interesting but I don't see anyone at all working in the fields.
+ünnep, -e	[sound:Hungarian_FSI_1_1.29.11.488-1.29.13.787.mp3]	holiday
+sehol	[sound:Hungarian_FSI_1_1.29.13.987-1.29.14.828.mp3]	nowhere, no place
+Ma ünnep van, nem dolgoznak sehol sem.	[sound:Hungarian_FSI_1_1.29.15.228-1.29.17.913.mp3]	Since today is a holiday, nobody is working anywhere.
+mászni	[sound:Hungarian_FSI_1_1.29.21.493-1.29.22.592.mp3]	to climb, to crawl
+ugrani	[sound:Hungarian_FSI_1_1.29.22.792-1.29.23.744.mp3]	to jump
+esni (leesni)	[sound:Hungarian_FSI_1_1.29.23.944-1.29.26.159.mp3]	to fall (down, off)
+kerékpár, -ja	[sound:Hungarian_FSI_1_1.29.26.359-1.29.29.090.mp3]	bicycle
+Nézze, mennyi gyerek játszik az úton!	[sound:Hungarian_FSI_1_1.29.29.290-1.29.31.766.mp3]	Look how many children there are playing on the road!
+Egy gyerek éppen most mászik le a fárol es felül a kerékpárjára.	[sound:Hungarian_FSI_1_1.29.34.876-1.29.39.477.mp3]	One child is just climbing down from the tree and getting on his bicycle.
+gyermekévek	[sound:Hungarian_FSI_1_1.29.44.538-1.29.46.118.mp3]	childhood, childhood days
+kalauz	[sound:Hungarian_FSI_1_1.29.46.218-1.29.47.347.mp3]	conductor
+van-e	[sound:Hungarian_FSI_1_1.29.47.547-1.29.48.367.mp3]	whetner it is, there is
+étkezőkocsi	[sound:Hungarian_FSI_1_1.29.48.867-1.29.50.282.mp3]	dining car
+reggelizni	[sound:Hungarian_FSI_1_1.29.50.682-1.29.51.935.mp3]	to eat breakfast
+Boldog gyermekévek!	[sound:Hungarian_FSI_1_1.29.53.781-1.29.55.657.mp3]	Happy childhood days!
+De megkérdezem a kalauztól, hogy van-e étkezőkocsi a vonaton.	[sound:Hungarian_FSI_1_1.29.55.857-1.29.59.923.mp3]	But I'll ask the conductor if there's a dining car on the train.
+Szeretnék reggelizni.	[sound:Hungarian_FSI_1_1.30.06.124-1.30.07.948.mp3]	I'd like to have breakfast.
+tőle	[sound:Hungarian_FSI_1_1.30.08.148-1.30.08.898.mp3]	from him
+tőlük	[sound:Hungarian_FSI_1_1.30.09.098-1.30.10.118.mp3]	from them
+Én már megkérdeztem tőle.	[sound:Hungarian_FSI_1_1.30.10.318-1.30.12.361.mp3]	I've already asked him.
+A mi kocsink után a második az étkezőkocsi.	[sound:Hungarian_FSI_1_1.30.14.952-1.30.18.472.mp3]	It's the second after our car.
+Nem tudtam, hogy már Budapesten vannak.	[sound:Hungarian_FSI_1_1.30.28.070-1.30.30.513.mp3]	I didn't know that you were in Budapest already.
+Mikor jöttek vissza?	[sound:Hungarian_FSI_1_1.30.33.386-1.30.34.984.mp3]	When did you come back?
+három hete	[sound:Hungarian_FSI_1_1.30.37.673-1.30.38.875.mp3]	three weeks ago
+elseje	[sound:Hungarian_FSI_1_1.30.39.275-1.30.40.419.mp3]	the first (with reference to the day of the month)
+másodika	[sound:Hungarian_FSI_1_1.30.40.619-1.30.41.829.mp3]	"the second """
+harmadika	[sound:Hungarian_FSI_1_1.30.42.229-1.30.43.429.mp3]	"the third """
+negyedike	[sound:Hungarian_FSI_1_1.30.43.829-1.30.44.899.mp3]	"the fourth """
+Már három hete visszajöttünk.	[sound:Hungarian_FSI_1_1.30.45.099-1.30.47.490.mp3]	We got back (already) three weeks ago.
+Április elsején érkeztünk Budapestre.	[sound:Hungarian_FSI_1_1.30.49.679-1.30.52.489.mp3]	We arrived in Budapest on April first.
+Kellemes útjuk volt?	[sound:Hungarian_FSI_1_1.30.56.021-1.30.58.092.mp3]	Did you have a pleasant trip?
+alatt	[sound:Hungarian_FSI_1_1.31.00.216-1.31.01.575.mp3]	during, under
+az egész idő alatt	[sound:Hungarian_FSI_1_1.31.01.775-1.31.03.792.mp3]	during the entire time
+Igen, kellemes.	[sound:Hungarian_FSI_1_1.31.03.892-1.31.05.380.mp3]	Yes, it was pleasant.
+Hála Isten minden jól ment.	[sound:Hungarian_FSI_1_1.31.07.707-1.31.10.080.mp3]	Thank goodness everything went well.
+Csak szegény kislányom az egész idő alatt beteg volt.	[sound:Hungarian_FSI_1_1.31.12.666-1.31.16.425.mp3]	Only my poor daughter was sick alI the time.
+tenger, -e	[sound:Hungarian_FSI_1_1.31.20.789-1.31.23.159.mp3]	sea
+tengeri beteg	[sound:Hungarian_FSI_1_1.31.23.559-1.31.24.875.mp3]	seasick
+Tengeri beteg volt?	[sound:Hungarian_FSI_1_1.31.25.275-1.31.26.975.mp3]	Was she seasick?
+nyugodt	[sound:Hungarian_FSI_1_1.31.28.978-1.31.29.955.mp3]	calm, still, tranquil
+Igen, pedig a tenger elég nyugodt volt.	[sound:Hungarian_FSI_1_1.31.30.055-1.31.32.802.mp3]	Yes, although the sea was quite calm.
+Meddig tartott a tengeri út?	[sound:Hungarian_FSI_1_1.31.37.684-1.31.39.896.mp3]	How long did the voyage last?
+Öt napig tartott.	[sound:Hungarian_FSI_1_1.31.42.400-1.31.43.914.mp3]	It lasted five days.
+kötni	[sound:Hungarian_FSI_1_1.31.45.976-1.31.47.029.mp3]	to tie, bind
+kikötni	[sound:Hungarian_FSI_1_1.31.47.429-1.31.48.573.mp3]	to anchor, land (a ship)
+Hol kötött ki a hajójuk?	[sound:Hungarian_FSI_1_1.31.48.973-1.31.50.946.mp3]	Where did your ship land?
+Anglia	[sound:Hungarian_FSI_1_1.31.52.926-1.31.54.071.mp3]	England
+Dánia	[sound:Hungarian_FSI_1_1.31.54.271-1.31.55.225.mp3]	Denmark
+Norvégia	[sound:Hungarian_FSI_1_1.31.55.425-1.31.56.608.mp3]	Norway
+Hollandia	[sound:Hungarian_FSI_1_1.31.57.008-1.31.58.252.mp3]	Holland
+Belgium	[sound:Hungarian_FSI_1_1.31.58.652-1.31.59.669.mp3]	Belgium
+Portugália	[sound:Hungarian_FSI_1_1.32.00.069-1.32.01.222.mp3]	Portugal
+tölteni	[sound:Hungarian_FSI_1_1.32.01.822-1.32.02.924.mp3]	to spend (time)
+Angliában kötöttünk ki.	[sound:Hungarian_FSI_1_1.32.03.324-1.32.05.509.mp3]	We landed in England.
+Egy hetet töltöttünk Londonban.	[sound:Hungarian_FSI_1_1.32.08.306-1.32.10.924.mp3]	We spent a week in London.
+A bátyám is velünk jött Angliáig.	[sound:Hungarian_FSI_1_1.32.14.034-1.32.16.958.mp3]	My older brother carne as far as England with us also.
+Mit csináltak Amerikában?	[sound:Hungarian_FSI_1_1.32.20.118-1.32.22.212.mp3]	What did you do in America?
+hosszú	[sound:Hungarian_FSI_1_1.32.25.045-1.32.26.200.mp3]	long
+volna	[sound:Hungarian_FSI_1_1.32.26.500-1.32.27.466.mp3]	would be
+elmondani	[sound:Hungarian_FSI_1_1.32.27.866-1.32.29.114.mp3]	to tell
+hozzánk	[sound:Hungarian_FSI_1_1.32.29.514-1.32.30.683.mp3]	to our home, to us
+mesélni	[sound:Hungarian_FSI_1_1.32.30.983-1.32.32.114.mp3]	to tell a tale
+elmesélni	[sound:Hungarian_FSI_1_1.32.32.514-1.32.33.937.mp3]	to tell (a story), narrate, relate
+Azt hosszú volna most elmondani.	[sound:Hungarian_FSI_1_1.32.34.137-1.32.36.561.mp3]	That would take long to tell now.
+Miért nem jön át egyik este hozzánk?	[sound:Hungarian_FSI_1_1.32.39.752-1.32.42.351.mp3]	Why don't you come over some evening?
+Akkor mindent elmesélünk.	[sound:Hungarian_FSI_1_1.32.45.377-1.32.47.791.mp3]	Then weill talk about everything.
+Nagyon szívesen.	[sound:Hungarian_FSI_1_1.32.50.421-1.32.51.813.mp3]	Ill be very glad to.
+Még mindig a régi lakásukban laknak?	[sound:Hungarian_FSI_1_1.32.53.920-1.32.56.597.mp3]	Are you still living in your old apartment?
+Hallottam, hogy kerestek egy másik lakást.	[sound:Hungarian_FSI_1_1.32.59.481-1.33.02.310.mp3]	I heard that you had been looking for another apartment.
+költözni	[sound:Hungarian_FSI_1_1.33.05.628-1.33.06.763.mp3]	to move
+elköltözni	[sound:Hungarian_FSI_1_1.33.07.063-1.33.08.558.mp3]	to move away
+major, -ja	[sound:Hungarian_FSI_1_1.33.08.758-1.33.11.265.mp3]	farm
+Már nem lakunk ott.	[sound:Hungarian_FSI_1_1.33.12.901-1.33.14.732.mp3]	We don't live there anymore.
+Két hete elköltöztünk a Városmajor utcába.	[sound:Hungarian_FSI_1_1.33.16.682-1.33.20.269.mp3]	We moved to Városmajor Street two weeks ago.
+Egy szép villában lakunk ott.	[sound:Hungarian_FSI_1_1.33.23.801-1.33.26.682.mp3]	We live in a beautiful villa there.
+Smithék is a városmajor utcában laknak, nem?	[sound:Hungarian_FSI_1_1.33.29.561-1.33.32.765.mp3]	The Smiths are also living on Városmajor Street, aren't they?
+helyezni	[sound:Hungarian_FSI_1_1.33.36.376-1.33.37.687.mp3]	to place, put, set, lay
+áthelyezni	[sound:Hungarian_FSI_1_1.33.37.887-1.33.39.319.mp3]	to transfer
+Svájc	[sound:Hungarian_FSI_1_1.33.39.719-1.33.40.867.mp3]	Switzerland
+Albánia	[sound:Hungarian_FSI_1_1.33.41.067-1.33.42.317.mp3]	Albania
+Ausztria	[sound:Hungarian_FSI_1_1.33.42.717-1.33.43.973.mp3]	Austria
+Bulgária	[sound:Hungarian_FSI_1_1.33.44.173-1.33.45.587.mp3]	Bulgaria
+Csehszlovákia	[sound:Hungarian_FSI_1_1.33.45.787-1.33.47.116.mp3]	Czechoslovakia
+Románia	[sound:Hungarian_FSI_1_1.33.47.316-1.33.48.610.mp3]	Rumania
+Jugoszlávia	[sound:Hungarian_FSI_1_1.33.48.810-1.33.50.361.mp3]	Yugoslavia
+Csak laktak.	[sound:Hungarian_FSI_1_1.33.50.661-1.33.52.052.mp3]	They used to live there.
+Smithet áthelyezték Svájcba.	[sound:Hungarian_FSI_1_1.33.53.863-1.33.56.356.mp3]	Smith was transferred to Switzerland.
+Mi abba a házba költöztünk, ahol ők laktak.	[sound:Hungarian_FSI_1_1.33.59.329-1.34.02.703.mp3]	We moved into the house where they used to live.
+Meddig volt Smith Magyarországon?	[sound:Hungarian_FSI_1_1.34.06.071-1.34.08.631.mp3]	How long was Smith in Hungary?
+Három évig volt itt.	[sound:Hungarian_FSI_1_1.34.11.586-1.34.13.468.mp3]	He was here for three years.
+És maga, meddig marad Pesten?	[sound:Hungarian_FSI_1_1.34.15.767-1.34.18.527.mp3]	And how long are you going to stay in Pest?
+Talán még egy évig maradok.	[sound:Hungarian_FSI_1_1.34.21.860-1.34.24.098.mp3]	Perhaps one more year.
+Azt hiszem, Ember János ül ott a sarokban.	[sound:Hungarian_FSI_1_1.34.26.348-1.34.29.267.mp3]	I believe that's John Ember sitting over there in the corner.
+Igen, ő az.	[sound:Hungarian_FSI_1_1.34.32.423-1.34.33.904.mp3]	Yes, he is there.
+Odamegyek az asztalához.	[sound:Hungarian_FSI_1_1.34.36.066-1.34.38.160.mp3]	I'm going over to his table.
+Regen nem beszéltem vele.	[sound:Hungarian_FSI_1_1.34.40.961-1.34.43.198.mp3]	I haven' t talked to him for a very long time.
+Maga nem jön oda?	[sound:Hungarian_FSI_1_1.34.45.858-1.34.47.375.mp3]	Won't you come over too?
+Sajnos, nincs időm.	[sound:Hungarian_FSI_1_1.34.49.238-1.34.51.221.mp3]	Sorry, I don't have time.
+A feleségem már tíz perce vár.	[sound:Hungarian_FSI_1_1.34.53.553-1.34.55.962.mp3]	My wife has already been waiting for me for ten minutes.
+Kovácsékhoz megyünk Budára.	[sound:Hungarian_FSI_1_1.34.59.300-1.35.01.413.mp3]	We're going to Buda to the Kovácses.
+Akkor, viszontlátásra!	[sound:Hungarian_FSI_1_1.35.04.134-1.35.06.064.mp3]	Then, see you later!
+opera	[sound:Hungarian_FSI_1_1.35.08.776-1.35.09.858.mp3]	opera
+színház, -at	[sound:Hungarian_FSI_1_1.35.10.057-1.35.12.884.mp3]	theater
+Tegnap este láttam magukat az operában.	[sound:Hungarian_FSI_1_1.35.13.084-1.35.15.813.mp3]	I saw you at the opera last night.
+sajnálni	[sound:Hungarian_FSI_1_1.35.18.957-1.35.20.111.mp3]	to regret, be sorry
+Igen, ott voltunk.	[sound:Hungarian_FSI_1_1.35.20.311-1.35.21.976.mp3]	Yes, we were there.
+Sajnálom, hogy nem láttam magát.	[sound:Hungarian_FSI_1_1.35.23.890-1.35.26.225.mp3]	I'm sorry that I didn't see you.
+Miért nem jött oda hozzánk?	[sound:Hungarian_FSI_1_1.35.29.167-1.35.31.458.mp3]	Why didn't you come over and talk to us?
+zavarni	[sound:Hungarian_FSI_1_1.35.34.004-1.35.35.003.mp3]	to disturb
+páholy	[sound:Hungarian_FSI_1_1.35.35.403-1.35.36.465.mp3]	box
+Nem akartam zavarni magukat.	[sound:Hungarian_FSI_1_1.35.36.665-1.35.39.005.mp3]	I didn't want to disturb you.
+A követ páholyában ültek, nem?	[sound:Hungarian_FSI_1_1.35.41.465-1.35.44.183.mp3]	You were sitting in the Ambassador's box, weren't you?
+bérlet, -e	[sound:Hungarian_FSI_1_1.35.47.231-1.35.49.827.mp3]	season ticket
+meghívni	[sound:Hungarian_FSI_1_1.35.50.027-1.35.51.416.mp3]	to invite
+Igen, neki bérlete van és meghívott minket.	[sound:Hungarian_FSI_1_1.35.51.616-1.35.54.944.mp3]	Yes, he has a season ticket and invited us.
+másfél	[sound:Hungarian_FSI_1_1.35.58.635-1.35.59.990.mp3]	one and a half
+sorba állni	[sound:Hungarian_FSI_1_1.36.00.190-1.36.01.872.mp3]	to stand in line
+a jegyért	[sound:Hungarian_FSI_1_1.36.02.072-1.36.03.349.mp3]	for the ticket
+Maga szerencsés!	[sound:Hungarian_FSI_1_1.36.03.549-1.36.05.173.mp3]	Aren't you lucky!
+Én másfél óráig álltam sorba a jegyért.	[sound:Hungarian_FSI_1_1.36.07.284-1.36.10.761.mp3]	I had to stand in line an hour and a half for the ticket.
+amikor	[sound:Hungarian_FSI_1_1.36.13.899-1.36.15.027.mp3]	when
+énekes	[sound:Hungarian_FSI_1_1.36.15.227-1.36.16.573.mp3]	singer
+énekesnő	[sound:Hungarian_FSI_1_1.36.16.773-1.36.18.251.mp3]	woman singer
+szerepelni	[sound:Hungarian_FSI_1_1.36.18.651-1.36.19.980.mp3]	to perform, act
+megéri	[sound:Hungarian_FSI_1_1.36.20.380-1.36.21.509.mp3]	it's worth while
+Amikor külföldi operaénekesek szerepelnek, mindig nehéz jegyet kapni.	[sound:Hungarian_FSI_1_1.36.21.709-1.36.26.850.mp3]	When foreign opera singers are (perform) on the program it's always hard to get a ticket.
+De megérte, nem?	[sound:Hungarian_FSI_1_1.36.32.309-1.36.34.009.mp3]	But it was worth it, wasn't it?
+tetszeni	[sound:Hungarian_FSI_1_1.36.36.125-1.36.37.481.mp3]	to please, to like
+előadás	[sound:Hungarian_FSI_1_1.36.37.781-1.36.39.095.mp3]	performance
+gyönyörűen	[sound:Hungarian_FSI_1_1.36.39.295-1.36.40.603.mp3]	beautifully, magnificently
+Igen. Nekem nagyon tetszett az előadás.	[sound:Hungarian_FSI_1_1.36.44.068-1.36.47.129.mp3]	Yes. liked the performance very much.
+Az olasz énekesek gyönyörűen énekeltek.	[sound:Hungarian_FSI_1_1.36.47.329-1.36.50.089.mp3]	The Italian singers sang beautifully.
+Én is szeretem az olaszokat és az olasz operákat.	[sound:Hungarian_FSI_1_1.36.53.175-1.36.56.489.mp3]	Like Italians and Italian operas also.
+ezelőtt	[sound:Hungarian_FSI_1_1.37.00.587-1.37.01.675.mp3]	farmerly, in farmer times
+alkalom, alkalmat, alkalma	[sound:Hungarian_FSI_1_1.37.01.875-1.37.05.927.mp3]	occasion, opportunity
+Két évvel ezelőtt Rómában dolgoztam a követségen.	[sound:Hungarian_FSI_1_1.37.06.327-1.37.09.648.mp3]	Two years aga I worked at the embassy in Rome.
+Akkor volt alkalmam majdnem minden olasz operát megnézni.	[sound:Hungarian_FSI_1_1.37.13.432-1.37.17.374.mp3]	Then I had the opportunity to see just about all the Italian operas.
+irigyelni	[sound:Hungarian_FSI_1_1.37.21.785-1.37.23.024.mp3]	to envy
+egypár	[sound:Hungarian_FSI_1_1.37.23.224-1.37.24.542.mp3]	a few
+eddig	[sound:Hungarian_FSI_1_1.37.24.742-1.37.25.838.mp3]	up to the present, till now
+addig	[sound:Hungarian_FSI_1_1.37.26.038-1.37.27.143.mp3]	till then, as far as that
+Irigylem magát!	[sound:Hungarian_FSI_1_1.37.27.343-1.37.29.111.mp3]	I envy you!
+Én csak egypárat láttam eddig.	[sound:Hungarian_FSI_1_1.37.31.292-1.37.33.704.mp3]	Up to now I have seen only a few.
+a Bécsi Filharmónikusok (pl.)	[sound:Hungarian_FSI_1_1.37.36.709-1.37.39.057.mp3]	The Vienna Philharmonic
+Hallotta, hogya nyáron a Bécsi Filharmónikusok jönnek Pestre?	[sound:Hungarian_FSI_1_1.37.39.257-1.37.43.225.mp3]	Did you hear that the Vienna Philharmonic is coming to Pest this summer?
+hangverseny	[sound:Hungarian_FSI_1_1.37.47.977-1.37.49.261.mp3]	concert
+A múlt héten olvastam az újságban.	[sound:Hungarian_FSI_1_1.37.49.461-1.37.51.975.mp3]	I read about it in the newspaper last week.
+Megy a hangversenyre?	[sound:Hungarian_FSI_1_1.37.55.180-1.37.57.013.mp3]	Are you going to the concert?
+szerezni	[sound:Hungarian_FSI_1_1.37.59.335-1.38.00.561.mp3]	to get, obtain
+Természetesen, ha tudok jegyet szerezni.	[sound:Hungarian_FSI_1_1.38.01.061-1.38.03.783.mp3]	Of course, if I can get a ticket.
+jegyiroda	[sound:Hungarian_FSI_1_1.38.07.419-1.38.08.526.mp3]	ticket office
+ígerni, megígérni	[sound:Hungarian_FSI_1_1.38.08.926-1.38.11.825.mp3]	to promise
+Mi már telefonáltunk a követségről a jegyirodába.	[sound:Hungarian_FSI_1_1.38.12.025-1.38.15.547.mp3]	We already phoned the ticket office from the Legation.
+Megígérték, hogy kapunk elég jegyet.	[sound:Hungarian_FSI_1_1.38.19.668-1.38.22.316.mp3]	They promised us that we'd get enough tickets.
+Talán tudok magának is szerezni egyet.	[sound:Hungarian_FSI_1_1.38.25.642-1.38.28.429.mp3]	Perhaps I can get you one also.
+Nagyon hálás leszek, ha szerez.	[sound:Hungarian_FSI_1_1.38.32.036-1.38.34.323.mp3]	I'll be very grateful if you do.
+Bécsben nem tudtam menni, mert nem volt elég időm.	[sound:Hungarian_FSI_1_1.38.37.566-1.38.41.105.mp3]	I couldn't go in Vienna because I didn't have enough time.
+gondolni	[sound:Hungarian_FSI_1_1.38.44.966-1.38.46.235.mp3]	to think
+Gondoltam.	[sound:Hungarian_FSI_1_1.38.46.535-1.38.47.798.mp3]	I thought so.
+Hallottam, hogy Bécsben sokat dolgozott.	[sound:Hungarian_FSI_1_1.38.49.378-1.38.52.317.mp3]	I heard that you had been working hard in Vienna.
+De ez jó alkalom lesz.	[sound:Hungarian_FSI_1_1.38.55.277-1.38.57.356.mp3]	But this will be a good opportunity.
+Előre is köszönöm.	[sound:Hungarian_FSI_1_1.39.01.587-1.39.03.237.mp3]	Thank you very much in advance.
+Szívesen. Nincs mit.	[sound:Hungarian_FSI_1_1.39.05.324-1.39.07.505.mp3]	Don't mention it. It's nothing at all.
+értekezlet, -e	[sound:Hungarian_FSI_1_1.39.15.353-1.39.18.469.mp3]	conference, meeting
+miniszterelnök	[sound:Hungarian_FSI_1_1.39.18.669-1.39.20.389.mp3]	prime minister
+elnök, -öt, -e	[sound:Hungarian_FSI_1_1.39.20.589-1.39.24.301.mp3]	president
+Ott volt azon a sajtóértekezleten, amit a miniszterelnök tartott?	[sound:Hungarian_FSI_1_1.39.24.501-1.39.28.656.mp3]	Were you at the press conference that the Prime Minister held?
+dolog, dolgot, dolga	[sound:Hungarian_FSI_1_1.39.33.187-1.39.36.507.mp3]	work, task
+dolgom van	[sound:Hungarian_FSI_1_1.39.36.707-1.39.38.082.mp3]	I'm busy, I have something to do
+Nem tudtam elmenni, mert más dolgom volt.	[sound:Hungarian_FSI_1_1.39.38.282-1.39.41.251.mp3]	I couldn't go because I had some other business.
+Sokan voltak?	[sound:Hungarian_FSI_1_1.39.43.890-1.39.45.136.mp3]	Were there many people there?
+kereskedelem, kereskedelmet, kereskedelme	[sound:Hungarian_FSI_1_1.39.47.020-1.39.51.842.mp3]	commerce, trade
+kereskedelmi	[sound:Hungarian_FSI_1_1.39.52.042-1.39.53.662.mp3]	commercial
+Elég sokan.	[sound:Hungarian_FSI_1_1.39.53.862-1.39.55.049.mp3]	Quite a number.
+Majdnem minden követségről ott volt a kereskedelmi attasé.	[sound:Hungarian_FSI_1_1.39.56.568-1.40.00.428.mp3]	The commercial attachés of almost all the legations were there.
+külkereskedelem	[sound:Hungarian_FSI_1_1.40.04.832-1.40.06.840.mp3]	foreign trade
+A külkereskedelmi minisztériumból nem volt senki?	[sound:Hungarian_FSI_1_1.40.06.940-1.40.10.039.mp3]	Wasn't there anyone from the Ministry of Foreign Trade?
+kormány	[sound:Hungarian_FSI_1_1.40.13.760-1.40.14.836.mp3]	government, cabinet
+párt, -ja	[sound:Hungarian_FSI_1_1.40.15.036-1.40.17.325.mp3]	party
+képviselő	[sound:Hungarian_FSI_1_1.40.17.525-1.40.18.904.mp3]	representative
+De igen. A Kormány, a párt és a sajto képviselői mindig ott vannak.	[sound:Hungarian_FSI_1_1.40.19.404-1.40.24.497.mp3]	Oh, yes. The representatives of the government, party and press are always present.
+miről	[sound:Hungarian_FSI_1_1.40.30.376-1.40.31.199.mp3]	about, of what
+Miről beszélt a miniszterelnök?	[sound:Hungarian_FSI_1_1.40.31.399-1.40.33.801.mp3]	What did the Prime Minister talk about?
+termelés	[sound:Hungarian_FSI_1_1.40.36.046-1.40.37.490.mp3]	production
+munka	[sound:Hungarian_FSI_1_1.40.37.690-1.40.38.614.mp3]	work, labor, job
+munkaverseny	[sound:Hungarian_FSI_1_1.40.38.814-1.40.40.183.mp3]	work competition
+élet, -e	[sound:Hungarian_FSI_1_1.40.40.383-1.40.42.878.mp3]	life
+életszínvonal, -at, -a	[sound:Hungarian_FSI_1_1.40.43.078-1.40.48.929.mp3]	living standard
+emelés	[sound:Hungarian_FSI_1_1.40.49.129-1.40.50.371.mp3]	raising, increasing, lifting
+arról	[sound:Hungarian_FSI_1_1.40.50.571-1.40.51.717.mp3]	of that, from that,
+erről	[sound:Hungarian_FSI_1_1.40.51.917-1.40.53.445.mp3]	of this, from this
+A termelésről, a munkaversenyről és az életszínvonal emeléséről.	[sound:Hungarian_FSI_1_1.40.53.645-1.40.58.900.mp3]	The production, work competition and raising of living standards.
+Beszélt arról, hogy milyen magas lesz az életszínvonal öt év mulva.	[sound:Hungarian_FSI_1_1.41.04.628-1.41.09.171.mp3]	He spoke about how high the living standard will be after five years.
+Ezt már sokszor hallottuk.	[sound:Hungarian_FSI_1_1.41.14.459-1.41.16.798.mp3]	We've already heard that many times.
+Beszélt valami másról is?	[sound:Hungarian_FSI_1_1.41.18.796-1.41.20.666.mp3]	Did he discuss anything else?
+nemrég	[sound:Hungarian_FSI_1_1.41.22.888-1.41.24.195.mp3]	lately, not long ago
+szerződés	[sound:Hungarian_FSI_1_1.41.24.595-1.41.25.901.mp3]	treaty, contract, pact
+szerződést kötni	[sound:Hungarian_FSI_1_1.41.26.101-1.41.27.998.mp3]	to make a treaty
+Szovjetunió	[sound:Hungarian_FSI_1_1.41.28.198-1.41.29.847.mp3]	Soviet Union
+aláírni	[sound:Hungarian_FSI_1_1.41.30.047-1.41.31.526.mp3]	to sign
+Igen. Elmondta, hogy nemrég kötöttek egy új kereskedelmi szerződest a Szovjetunióval.	[sound:Hungarian_FSI_1_1.41.31.726-1.41.37.579.mp3]	Yes. He told us that they have recently concluded a new commercial treaty with the Soviet Union.
+Múlt kedden írták alá.	[sound:Hungarian_FSI_1_1.41.44.008-1.41.46.173.mp3]	They signed it last Tuesday.
+Hol irták alá a szerződést? Moszkvában?	[sound:Hungarian_FSI_1_1.41.48.779-1.41.51.940.mp3]	Where did they sign the treaty? In Moscow?
+között	[sound:Hungarian_FSI_1_1.41.55.602-1.41.56.775.mp3]	between, among
+Úgy tudom, hogy Budapesten.	[sound:Hungarian_FSI_1_1.41.56.875-1.41.58.680.mp3]	As far as I know, in Budapest.
+Ez már a tizenhatodik szerződés Magyarország és a Szovjetunió között.	[sound:Hungarian_FSI_1_1.42.01.322-1.42.06.219.mp3]	This is already the 16th treaty between Hungary and the Soviet Union.
+Mikor kötötték az első szerződést?	[sound:Hungarian_FSI_1_1.42.11.217-1.42.13.912.mp3]	When did they make the first one?
+A háború után, 1945. november hetedikén.	[sound:Hungarian_FSI_1_1.42.17.114-1.42.21.511.mp3]	After the war, on the 7th of November, 1945.
+szovjet	[sound:Hungarian_FSI_1_1.42.26.725-1.42.27.897.mp3]	Soviet
+albán	[sound:Hungarian_FSI_1_1.42.28.097-1.42.28.985.mp3]	Albanian
+osztrák	[sound:Hungarian_FSI_1_1.42.29.385-1.42.30.613.mp3]	Austr!an
+belga	[sound:Hungarian_FSI_1_1.42.30.813-1.42.31.819.mp3]	Belgian
+bolgár, bulgár	[sound:Hungarian_FSI_1_1.42.32.019-1.42.34.736.mp3]	Bulgarian
+csehszlovák	[sound:Hungarian_FSI_1_1.42.34.936-1.42.36.368.mp3]	Czechoslovakian
+dán	[sound:Hungarian_FSI_1_1.42.36.568-1.42.37.430.mp3]	Danish, Dane
+holland	[sound:Hungarian_FSI_1_1.42.37.630-1.42.38.861.mp3]	Dutch
+norvég	[sound:Hungarian_FSI_1_1.42.39.061-1.42.39.992.mp3]	Norwegian
+portugál	[sound:Hungarian_FSI_1_1.42.40.192-1.42.41.464.mp3]	Portuguese
+román	[sound:Hungarian_FSI_1_1.42.41.664-1.42.42.845.mp3]	Romanian
+svájci	[sound:Hungarian_FSI_1_1.42.43.245-1.42.44.325.mp3]	Swiss
+jugoszláv	[sound:Hungarian_FSI_1_1.42.44.525-1.42.45.740.mp3]	Yugoslavian
+bizottság, -a	[sound:Hungarian_FSI_1_1.42.45.940-1.42.48.875.mp3]	delegation
+Nem tudtam, hogy szovjet bizottság jött Budapestre.	[sound:Hungarian_FSI_1_1.42.51.648-1.42.54.545.mp3]	I didn't know that a Soviet delegation had come to Budapest.
+róla	[sound:Hungarian_FSI_1_1.42.54.745-1.42.55.696.mp3]	about, of him, her, it
+emlékezni	[sound:Hungarian_FSI_1_1.42.55.896-1.42.57.291.mp3]	to remember
+cikk, -e	[sound:Hungarian_FSI_1_1.42.57.491-1.42.59.791.mp3]	article
+nép, -e	[sound:Hungarian_FSI_1_1.42.59.991-1.43.02.072.mp3]	people
+Az újságok két héttel ezelőtt írtak róla.	[sound:Hungarian_FSI_1_1.43.05.256-1.43.08.356.mp3]	The newspapers wrote about it two weeks ago.
+Nem emlékszik a cikkre a Népszabadságban?	[sound:Hungarian_FSI_1_1.43.12.139-1.43.15.018.mp3]	Don't you remember the article in the Népszabadság?
+Az első oldalon volt.	[sound:Hungarian_FSI_1_1.43.18.439-1.43.20.482.mp3]	It was on the first page.
+Nem tudtam, hogy erről a bizottságról írtak.	[sound:Hungarian_FSI_1_1.43.22.975-1.43.25.708.mp3]	I didn't know that they had written about this delegation.
+És mi van az új szerződésben?	[sound:Hungarian_FSI_1_1.43.30.122-1.43.32.356.mp3]	And what's in the new treaty?
+szerint	[sound:Hungarian_FSI_1_1.43.32.556-1.43.33.364.mp3]	according to
+növelni	[sound:Hungarian_FSI_1_1.43.33.564-1.43.34.572.mp3]	to increase
+különböző	[sound:Hungarian_FSI_1_1.43.34.772-1.43.36.123.mp3]	various, different
+áru	[sound:Hungarian_FSI_1_1.43.36.323-1.43.37.387.mp3]	goods, merchandise
+szállítás	[sound:Hungarian_FSI_1_1.43.37.587-1.43.38.974.mp3]	transportation, shipment
+A szerződés szerint Magyarország növeli a különböző áruk szállítását.	[sound:Hungarian_FSI_1_1.43.39.174-1.43.44.360.mp3]	According to the treaty Hungary is increasing its shipments of various types of merchandise.
+azt jelenti	[sound:Hungarian_FSI_1_1.43.49.826-1.43.51.483.mp3]	it means, indicates
+ezután	[sound:Hungarian_FSI_1_1.43.51.683-1.43.52.893.mp3]	after this
+több	[sound:Hungarian_FSI_1_1.43.53.293-1.43.54.230.mp3]	more, several
+Ez azt jelenti, hogy Magyarország ezután többet szállít, mint eddig?	[sound:Hungarian_FSI_1_1.43.54.430-1.43.59.002.mp3]	Does this mean that from now on Hungary is going to transport more than it has up to the present time?
+pont, -ja	[sound:Hungarian_FSI_1_1.44.03.951-1.44.06.005.mp3]	clause, paragraph, point
+rövid	[sound:Hungarian_FSI_1_1.44.06.305-1.44.07.329.mp3]	short
+határidő	[sound:Hungarian_FSI_1_1.44.07.529-1.44.08.854.mp3]	term, time limit, deadline
+szállítási határidő	[sound:Hungarian_FSI_1_1.44.09.254-1.44.11.208.mp3]	time of delivery
+Igen. És van ennek a szerződésnek egy érdekes pontja.	[sound:Hungarian_FSI_1_1.44.11.608-1.44.15.281.mp3]	Yes. And this treaty has an interesting clause.
+Rövidek a szállítási határidők.	[sound:Hungarian_FSI_1_1.44.19.884-1.44.22.399.mp3]	The times of delivery are short.
+küldeni	[sound:Hungarian_FSI_1_1.44.25.581-1.44.26.640.mp3]	to send
+csere	[sound:Hungarian_FSI_1_1.44.26.840-1.44.27.887.mp3]	exchange
+És mit küld cserébe a Szovjetunió?	[sound:Hungarian_FSI_1_1.44.28.087-1.44.30.736.mp3]	And what is the Soviet Union sending in exchange?
+tánc	[sound:Hungarian_FSI_1_1.44.33.196-1.44.34.228.mp3]	dance
+csoport , -ja	[sound:Hungarian_FSI_1_1.44.34.628-1.44.37.163.mp3]	group
+A Mojszejev tánccsoportot.	[sound:Hungarian_FSI_1_1.44.37.663-1.44.39.884.mp3]	It's sending the Moiseyev dance group.
+viccelni	[sound:Hungarian_FSI_1_1.44.42.673-1.44.43.603.mp3]	to joke
+Maga mindig viccel.	[sound:Hungarian_FSI_1_1.44.44.003-1.44.45.582.mp3]	You're always joking.
+De mondja, mit mondott még a miniszterelnök?	[sound:Hungarian_FSI_1_1.44.47.759-1.44.50.785.mp3]	But tell me, what else did the Prime Minister say?
+terv, -e	[sound:Hungarian_FSI_1_1.44.54.172-1.44.56.299.mp3]	plan
+kétszer	[sound:Hungarian_FSI_1_1.44.56.699-1.44.57.760.mp3]	twice
+egyszer	[sound:Hungarian_FSI_1_1.44.57.960-1.44.59.070.mp3]	once
+háromszor	[sound:Hungarian_FSI_1_1.44.59.270-1.45.00.565.mp3]	three times
+négyszer	[sound:Hungarian_FSI_1_1.45.00.765-1.45.02.070.mp3]	four times
+annyi	[sound:Hungarian_FSI_1_1.45.02.270-1.45.03.454.mp3]	as much, as many
+Beszélt az ötéves tervről meg a termelésről.	[sound:Hungarian_FSI_1_1.45.03.654-1.45.06.780.mp3]	He was talking about the five year plan and about production.
+A jövő évben ketszer annyi gabonát kell termelni, mint a múlt évben.	[sound:Hungarian_FSI_1_1.45.10.519-1.45.15.258.mp3]	Next year we have to grow twice the quantity of crops as last year.
+Ebben az évben nem volt jó a termés.	[sound:Hungarian_FSI_1_1.45.20.286-1.45.23.202.mp3]	This year the harvest hasn't been good.
+Remélik, hogy jövőre jó lesz!	[sound:Hungarian_FSI_1_1.45.25.937-1.45.28.238.mp3]	They hope next year it'll be good.
+hányadika	[sound:Hungarian_FSI_1_1.45.31.327-1.45.32.764.mp3]	what date
+következő	[sound:Hungarian_FSI_1_1.45.32.964-1.45.34.454.mp3]	following, next
+Hányadikán lesz a következő sajtóértekezlet?	[sound:Hungarian_FSI_1_1.45.34.654-1.45.37.858.mp3]	When will the next press conference take place?
+Két hét múlva lesz, huszonnegyedikén.	[sound:Hungarian_FSI_1_1.45.41.653-1.45.44.238.mp3]	It'll be two weeks from now, on the 24th.
+Tudja, hogy hol tartják?	[sound:Hungarian_FSI_1_1.45.47.355-1.45.49.376.mp3]	Do you know where they're holding it?
+pénzügy	[sound:Hungarian_FSI_1_1.45.51.754-1.45.53.087.mp3]	finance
+Nem tudom pontosan, de a pénzügyminiszter helyettese tartja.	[sound:Hungarian_FSI_1_1.45.53.287-1.45.57.454.mp3]	I don't know exactly, but the Deputy Minister of Finance is holding it.
+Ismeri a pénzügyminiszter helyettesét?	[sound:Hungarian_FSI_1_1.46.02.168-1.46.05.109.mp3]	Do you know the Deputy Minister of Finance?
+okos	[sound:Hungarian_FSI_1_1.46.08.254-1.46.09.252.mp3]	clever, smart
+buta	[sound:Hungarian_FSI_1_1.46.09.452-1.46.10.415.mp3]	stupid
+Igen, jól ismerem.	[sound:Hungarian_FSI_1_1.46.10.615-1.46.12.387.mp3]	Yes, I know him well.
+Kellemes és okos ember.	[sound:Hungarian_FSI_1_1.46.14.649-1.46.16.868.mp3]	He's a pleasant and smart man.
+Kertésznek hívják.	[sound:Hungarian_FSI_1_1.46.19.607-1.46.21.604.mp3]	His name is Kertész.
+erre	[sound:Hungarian_FSI_1_1.46.23.787-1.46.24.839.mp3]	on this, onto this
+arra	[sound:Hungarian_FSI_1_1.46.25.039-1.46.26.249.mp3]	on that, onto that
+fog	[sound:Hungarian_FSI_1_1.46.26.449-1.46.27.443.mp3]	you, he, she, it will
+Erre az értekezletre én is elmegyek, ha tudok.	[sound:Hungarian_FSI_1_1.46.30.798-1.46.33.766.mp3]	I'm going to this conference if I can.
+Sokszor meg akartam hallgatni Kertész urat, de sohasem volt alkalmam.	[sound:Hungarian_FSI_1_1.46.33.866-1.46.38.582.mp3]	I have often wanted to hear Mr. Kertész but have never had the opportunity.
+Miről fog beszélni?	[sound:Hungarian_FSI_1_1.46.43.381-1.46.45.139.mp3]	What's he going to talk about?
+gazdasági	[sound:Hungarian_FSI_1_1.46.47.717-1.46.48.930.mp3]	economic
+drágaság	[sound:Hungarian_FSI_1_1.46.49.430-1.46.50.832.mp3]	high cost of living
+ok, -a	[sound:Hungarian_FSI_1_1.46.51.332-1.46.52.995.mp3]	reason
+magyarázni, megmagyarázni	[sound:Hungarian_FSI_1_1.46.53.195-1.46.56.538.mp3]	to explain
+kérdés	[sound:Hungarian_FSI_1_1.46.56.738-1.46.57.993.mp3]	question, problem
+A gazdasági életről és a drágaság okairól.	[sound:Hungarian_FSI_1_1.46.58.493-1.47.01.953.mp3]	About the economic life and the reasons for the high cost of living.
+Meg akarja magyarázni, hogy miért nincs elég áru az országban.	[sound:Hungarian_FSI_1_1.47.06.225-1.47.10.488.mp3]	He wants to explain why we don't have enough merchandi'se in the country.
+Gondolom, ismeri ezt a kérdést.	[sound:Hungarian_FSI_1_1.47.15.297-1.47.17.711.mp3]	I believe you're familiar with this problem.
+Oh igen, sokszor próbálták már megmagyarázni.	[sound:Hungarian_FSI_1_1.47.20.714-1.47.24.384.mp3]	Why, yes, they've tried to explain it many times.
+tény	[sound:Hungarian_FSI_1_1.47.27.501-1.47.28.472.mp3]	fact, act, deed
+munkás	[sound:Hungarian_FSI_1_1.47.28.672-1.47.29.821.mp3]	worker, laborer
+Mindenki ismeri az okokat.	[sound:Hungarian_FSI_1_1.47.30.221-1.47.32.394.mp3]	Everybody knows the reasons.
+De a tény az, hogya munkás nem tud eleget keresni.	[sound:Hungarian_FSI_1_1.47.34.772-1.47.38.626.mp3]	But the fact is that the workers can't make enough money.
+Gondolja, hogy valaki megkérdezi, hogy mit akar tenni a kormány?	[sound:Hungarian_FSI_1_1.47.44.023-1.47.48.324.mp3]	Do you think anybody will ask what the government intends to do?
+Én nem kérdezem meg, de valaki biztosan megkéri Kertész urat, hogy beszéljen erről a kérdésről is.	[sound:Hungarian_FSI_1_1.47.52.962-1.47.59.545.mp3]	I'm not going to ask, but somebody will surely ask Mr. Kertész to talk about this question also.
+megoldás	[sound:Hungarian_FSI_1_1.48.06.593-1.48.07.973.mp3]	solution
+Remélem, talál a kormány megoldást ezekre a gazdasági kérdésekre.	[sound:Hungarian_FSI_1_1.48.08.173-1.48.12.971.mp3]	I hope the government can find a solution to these economic problems.
+vigyen el	[sound:Hungarian_FSI_1_1.48.17.482-1.48.18.646.mp3]	carry, take
+használni	[sound:Hungarian_FSI_1_1.48.18.846-1.48.20.210.mp3]	to use
+Meg akarom kérni, hogy vigyen el 24-én a kocsiján.	[sound:Hungarian_FSI_1_1.48.20.610-1.48.24.364.mp3]	I want to ask you to take me in your car on the 24th.
+Az én kocsirnat a feleségem használja.	[sound:Hungarian_FSI_1_1.48.28.951-1.48.31.797.mp3]	My wife's using mine.
+Nagyon szívesen elviszem.	[sound:Hungarian_FSI_1_1.48.35.065-1.48.37.098.mp3]	I'll be glad to.
+megtudni	[sound:Hungarian_FSI_1_1.48.39.490-1.48.40.702.mp3]	to find out, get to know.
+Addig megtudom pontosan, hol lesz az értekezlet.	[sound:Hungarian_FSI_1_1.48.44.810-1.48.48.277.mp3]	In the meantime I'll find out exactly where the meeting will be.

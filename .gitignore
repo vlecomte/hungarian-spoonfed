@@ -1,0 +1,4 @@
+/decks/clean/
+__pycache__/
+out.txt
+debug.txt
