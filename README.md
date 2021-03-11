@@ -14,7 +14,7 @@ The sentences I used come from two sources:
 - Tatoeba: in particular [this Anki deck](https://ankiweb.net/shared/info/1691262801), which collects [all Hungarian sentences with audio](https://tatoeba.org/eng/audio/index/hun). Most sentences and audio on Tatoeba are under various [Creative Commons](https://creativecommons.org/) licenses. The major contributed as of this writing is user [jegaevi](https://tatoeba.org/eng/user/profile/jegaevi).
 - FSI: in particular [these](https://ankiweb.net/shared/info/124854924) [two](https://ankiweb.net/shared/info/1875520915) Anki decks.
 
-I exported those 3 decks into text form in the [decks/raw/] folder.
+I exported those 3 decks into text form in the [decks/raw/](decks/raw/) folder.
 
 ## Dependencies
 Uses [emMorphPy](https://github.com/dlt-rilmta/emmorphpy).
@@ -22,6 +22,6 @@ Uses [emMorphPy](https://github.com/dlt-rilmta/emmorphpy).
 ## Setup
 If you want to make your own version of this deck, follow these steps.
 - Download and import the 3 decks into your Anki collection so that your media folder contains the audio files.
-- Run the 3 Python scripts in [decks/] to pre-process the decks.
-- Run [sort.py]. This will produce [out.txt].
-- Import [out.txt] into Anki. There are 4 fields, in this order: Hungarian (raw), Hungarian (with word to learn bolded), audio, and English.
+- Run the 3 Python scripts in [decks/](decks/) to pre-process the decks.
+- Run [sort.py](sort.py). This will produce [out.txt](out.txt).
+- Import [out.txt](out.txt) into Anki. There are 4 fields, in this order: Hungarian (raw), Hungarian (with word to learn bolded), audio, and English.
