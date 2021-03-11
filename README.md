@@ -22,6 +22,6 @@ Uses [emMorphPy](https://github.com/dlt-rilmta/emmorphpy).
 ## Setup
 If you want to make your own version of this deck, follow these steps.
 - Download and import the 3 decks into your Anki collection so that your media folder contains the audio files.
-- Run the 3 Python scripts in [decks/](decks/) to pre-process the decks.
+- Run the 3 Python scripts in [decks/](decks/) to pre-process the decks. Make sure to enable HTML in fields so that the bolding works correctly.
 - Run [sort.py](sort.py). This will produce [out.txt](out.txt).
 - Import [out.txt](out.txt) into Anki. There are 4 fields, in this order: Hungarian (raw), Hungarian (with word to learn bolded), audio, and English.
