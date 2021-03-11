@@ -1,5 +1,5 @@
 # Hungarian sentences, spoon-fed
-This code takes a corpus of Hungarian sentences and sorts them by their least frequent word. This way, the sentences can be used to learn the most frequent words of Hungarian in context, one by one.
+This code takes a corpus of Hungarian sentences and sorts them by their least frequent word. This way, the sentences can be used to learn the most frequent words of Hungarian one by one, and in context.
 
 Some details:
 - The words are "deconjugated" so that different forms of the same word (e.g. van/vannak, ház/házak) are treated as the same word.
