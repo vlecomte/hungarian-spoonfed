@@ -7,12 +7,12 @@ Some details:
 - The frequency is based on both the frequency within the corpus of sentences, and a frequency list obtained [on Wiktionary](https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists/Hungarian_webcorpus_frequency_list) (stored in [freq.txt](freq.txt)).
 - The code tries to detect proper nouns and exclude them from the words to be learned, since most of them are very similar to English and don't require separate study.
 
-The resulting Anki deck is available at **TODO**.
+The resulting Anki deck is available for download [on AnkiWeb](https://ankiweb.net/shared/info/593843988).
 
 ## Sentences used
 The sentences I used come from two sources:
 - Tatoeba: in particular [this Anki deck](https://ankiweb.net/shared/info/1691262801), which collects [all Hungarian sentences with audio](https://tatoeba.org/eng/audio/index/hun). Most sentences and audio on Tatoeba are under various [Creative Commons](https://creativecommons.org/) licenses. The major contributed as of this writing is user [jegaevi](https://tatoeba.org/eng/user/profile/jegaevi).
-- FSI: in particular [these](https://ankiweb.net/shared/info/124854924) [two](https://ankiweb.net/shared/info/1875520915) Anki decks.
+- FSI: in particular [these](https://ankiweb.net/shared/info/124854924) [two](https://ankiweb.net/shared/info/1875520915) Anki decks. The sentences and audio are in the public domain because they were created by the US government.
 
 I exported those 3 decks into text form in the [decks/raw/](decks/raw/) folder.
 
