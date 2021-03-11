@@ -4,7 +4,7 @@ This code takes a corpus of Hungarian sentences and sorts them by their least fr
 Some details:
 - The words are "deconjugated" so that different forms of the same word (e.g. van/vannak, ház/házak) are treated as the same word.
 - At most 3 sentences are kept for each word that is being taught; when there are more than 3 available, the algorithm tries to pick sentences with different forms of that word, and generally sentences that are pretty different from each other.
-- The frequency is based on both the frequency within the corpus of sentences, and a frequency list obtained [on Wiktionary](https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists/Hungarian_webcorpus_frequency_list) (stored in [freq.txt].
+- The frequency is based on both the frequency within the corpus of sentences, and a frequency list obtained [on Wiktionary](https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists/Hungarian_webcorpus_frequency_list) (stored in [freq.txt](freq.txt)).
 - The code tries to detect proper nouns and exclude them from the words to be learned, since most of them are very similar to English and don't require separate study.
 
 The resulting Anki deck is available at **TODO**.
