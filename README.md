@@ -9,6 +9,8 @@ Some details:
 
 The resulting Anki deck is available for download [on AnkiWeb](https://ankiweb.net/shared/info/593843988). You can see the first few sentences in order [here](sample.md).
 
+Since the words get less and less common as you go, the usefulness gradually decreases, and you should stop studying studying new cards whenever you feel that it's no longer useful enough per time spent.
+
 ## Sentences used
 The sentences I used come from two sources:
 - Tatoeba: in particular [this Anki deck](https://ankiweb.net/shared/info/1691262801), which collects [all Hungarian sentences with audio](https://tatoeba.org/eng/audio/index/hun). Most sentences and audio on Tatoeba are under various [Creative Commons](https://creativecommons.org/) licenses. The major contributed as of this writing is user [jegaevi](https://tatoeba.org/eng/user/profile/jegaevi).
