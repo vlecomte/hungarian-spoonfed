@@ -165,7 +165,7 @@ with open("sample.md", 'w') as fsample:
     fsample.write("# The first {} sentences\n".format(nSample))
     fsample.write("(The word being taught is given in square brackets.)\n\n")
     for note in finalChoice[:nSample]:
-        fsample.write("[{}]  {}  {}\n".format(freqList[note.freq], note.bold.replace("<b>", "**").replace("</b>", "**"), note.translation))
+        fsample.write("- [{}]  {}  {}\n".format(freqList[note.freq], note.bold.replace("<b>", "**").replace("</b>", "**"), note.translation))
 
 # Clean output for importing into Anki
 with open("out.txt", "w") as fout:
