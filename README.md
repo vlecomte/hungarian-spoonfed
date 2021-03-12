@@ -7,7 +7,7 @@ Some details:
 - The frequency is based on both the frequency within the corpus of sentences, and a frequency list obtained [on Wiktionary](https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists/Hungarian_webcorpus_frequency_list) (stored in [freq.txt](freq.txt)).
 - The code tries to detect proper nouns and exclude them from the words to be learned, since most of them are very similar to English and don't require separate study.
 
-The resulting Anki deck is available for download [on AnkiWeb](https://ankiweb.net/shared/info/593843988).
+The resulting Anki deck is available for download [on AnkiWeb](https://ankiweb.net/shared/info/593843988). You can see the first few sentences in order [here](sample.md).
 
 ## Sentences used
 The sentences I used come from two sources:

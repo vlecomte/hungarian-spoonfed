@@ -154,10 +154,20 @@ for note in notes:
 # Add last buffer in
 finalChoice.extend(selection(last, freqList[last], curPart))
 
-# Print out the notes
+# Debug output with frequencies
 with open("debug.txt", 'w') as ferr:
     for note in finalChoice:
         ferr.write("\n".join(("{} (occs {}, rank {})".format(freqList[note.freq], cnt[freqList[note.freq]], note.freq), note.original, note.translation, str(note.lemmas), "", "")))
+
+# Sample for getting an idea
+with open("sample.md", 'w') as fsample:
+    nSample = 500
+    fsample.write("# The first {} sentences\n".format(nSample))
+    fsample.write("(The word being taught is given in square brackets.)\n\n")
+    for note in finalChoice[:nSample]:
+        fsample.write("[{}]  {}  {}\n".format(freqList[note.freq], note.bold.replace("<b>", "**").replace("</b>", "**"), note.translation))
+
+# Clean output for importing into Anki
 with open("out.txt", "w") as fout:
     for note in finalChoice:
         fout.write(str(note) + "\n")
